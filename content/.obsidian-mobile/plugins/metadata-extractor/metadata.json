@@ -1,0 +1,8598 @@
+[
+  {
+    "fileName": "CFA Program",
+    "relativePath": "CFA Program.md",
+    "tags": [
+      "cfa",
+      "moc",
+      "favourite"
+    ],
+    "frontmatter": {
+      "Tags": "CFA, MOC, Favourite",
+      "Aliases": "CFA® Program",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 56
+        }
+      }
+    },
+    "aliases": [
+      "CFA® Program"
+    ],
+    "headings": [
+      {
+        "heading": "Topic Weights",
+        "level": 2
+      },
+      {
+        "heading": "Study materials",
+        "level": 2
+      },
+      {
+        "heading": "Courses",
+        "level": 2
+      },
+      {
+        "heading": "Recent",
+        "level": 2
+      },
+      {
+        "heading": "All",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Home",
+        "relativePath": "Home.md"
+      },
+      {
+        "link": "CFA Level 1",
+        "relativePath": "CFA Level 1.md"
+      },
+      {
+        "link": "CFA Level 2",
+        "relativePath": "CFA Level 2.md"
+      },
+      {
+        "link": "CFA Level 3",
+        "relativePath": "CFA Level 3.md"
+      },
+      {
+        "link": "Home",
+        "relativePath": "Home.md"
+      },
+      {
+        "link": "CFA Level 1",
+        "relativePath": "CFA Level 1.md"
+      },
+      {
+        "link": "CFA Level 2",
+        "relativePath": "CFA Level 2.md"
+      },
+      {
+        "link": "CFA Level 3",
+        "relativePath": "CFA Level 3.md"
+      },
+      {
+        "link": "Quantitative Methods",
+        "relativePath": "All notes/Quantitative Methods.md"
+      },
+      {
+        "link": "Economics",
+        "relativePath": "All notes/Economics.md"
+      },
+      {
+        "link": "Financial Statements Analysis",
+        "relativePath": "All notes/Financial Statements Analysis.md"
+      },
+      {
+        "link": "Corporate Issuers",
+        "relativePath": "All notes/Corporate Issuers.md"
+      },
+      {
+        "link": "Equity Investments",
+        "relativePath": "All notes/Equity Investments.md"
+      },
+      {
+        "link": "Fixed Income",
+        "relativePath": "All notes/Fixed Income.md"
+      },
+      {
+        "link": "Derivatives",
+        "relativePath": "All notes/Derivatives.md"
+      },
+      {
+        "link": "Alternative Investments",
+        "relativePath": "All notes/Alternative Investments.md"
+      },
+      {
+        "link": "Portfolio Management",
+        "relativePath": "All notes/Portfolio Management.md"
+      },
+      {
+        "link": "Ethical and Professional Standards",
+        "relativePath": "All notes/Ethical and Professional Standards.md"
+      },
+      {
+        "link": "Quantitative Methods",
+        "relativePath": "All notes/Quantitative Methods.md"
+      },
+      {
+        "link": "Economics",
+        "relativePath": "All notes/Economics.md"
+      },
+      {
+        "link": "Financial Statements Analysis",
+        "relativePath": "All notes/Financial Statements Analysis.md"
+      },
+      {
+        "link": "Corporate Issuers",
+        "relativePath": "All notes/Corporate Issuers.md"
+      },
+      {
+        "link": "Equity Investments",
+        "relativePath": "All notes/Equity Investments.md"
+      },
+      {
+        "link": "Fixed Income",
+        "relativePath": "All notes/Fixed Income.md"
+      },
+      {
+        "link": "Derivatives",
+        "relativePath": "All notes/Derivatives.md"
+      },
+      {
+        "link": "Alternative Investments",
+        "relativePath": "All notes/Alternative Investments.md"
+      },
+      {
+        "link": "Portfolio Management",
+        "relativePath": "All notes/Portfolio Management.md"
+      },
+      {
+        "link": "Ethical and Professional Standards",
+        "relativePath": "All notes/Ethical and Professional Standards.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Home",
+        "link": "CFA Program",
+        "relativePath": "Home.md"
+      },
+      {
+        "fileName": "CFA Level 2",
+        "link": "CFA Program",
+        "relativePath": "CFA Level 2.md"
+      },
+      {
+        "fileName": "CFA Level 2",
+        "link": "CFA Program",
+        "relativePath": "CFA Level 2.md"
+      },
+      {
+        "fileName": "CFA Level 3",
+        "link": "CFA Program",
+        "relativePath": "CFA Level 3.md"
+      },
+      {
+        "fileName": "CFA Level 3",
+        "link": "CFA Program",
+        "relativePath": "CFA Level 3.md"
+      },
+      {
+        "fileName": "CFA Level 1",
+        "link": "CFA Program",
+        "relativePath": "CFA Level 1.md"
+      },
+      {
+        "fileName": "Valuation and Analysis of Bonds with Embedded Options",
+        "link": "CFA Program",
+        "relativePath": "All notes/Valuation and Analysis of Bonds with Embedded Options.md"
+      },
+      {
+        "fileName": "Term Structure and Interest Rate Dynamics",
+        "link": "CFA Program",
+        "relativePath": "All notes/Term Structure and Interest Rate Dynamics.md"
+      },
+      {
+        "fileName": "Quantitative Methods",
+        "link": "CFA Program",
+        "relativePath": "All notes/Quantitative Methods.md"
+      },
+      {
+        "fileName": "Portfolio Management",
+        "link": "CFA Program",
+        "relativePath": "All notes/Portfolio Management.md"
+      },
+      {
+        "fileName": "Fixed Income",
+        "link": "CFA Program",
+        "relativePath": "All notes/Fixed Income.md"
+      },
+      {
+        "fileName": "Financial Statements Analysis",
+        "link": "CFA Program",
+        "relativePath": "All notes/Financial Statements Analysis.md"
+      },
+      {
+        "fileName": "Ethical and Professional Standards",
+        "link": "CFA Program",
+        "relativePath": "All notes/Ethical and Professional Standards.md"
+      },
+      {
+        "fileName": "Equity Investments",
+        "link": "CFA Program",
+        "relativePath": "All notes/Equity Investments.md"
+      },
+      {
+        "fileName": "Economics",
+        "link": "CFA Program",
+        "relativePath": "All notes/Economics.md"
+      },
+      {
+        "fileName": "Derivatives",
+        "link": "CFA Program",
+        "relativePath": "All notes/Derivatives.md"
+      },
+      {
+        "fileName": "Credit Default Swaps",
+        "link": "CFA Program",
+        "relativePath": "All notes/Credit Default Swaps.md"
+      },
+      {
+        "fileName": "Credit Analysis Models",
+        "link": "CFA Program",
+        "relativePath": "All notes/Credit Analysis Models.md"
+      },
+      {
+        "fileName": "Corporate Issuers",
+        "link": "CFA Program",
+        "relativePath": "All notes/Corporate Issuers.md"
+      },
+      {
+        "fileName": "CFA 2 QM",
+        "link": "CFA Program",
+        "relativePath": "All notes/CFA 2 QM.md"
+      },
+      {
+        "fileName": "CFA 2 PM",
+        "link": "CFA Program",
+        "relativePath": "All notes/CFA 2 PM.md"
+      },
+      {
+        "fileName": "CFA 2 FSA",
+        "link": "CFA Program",
+        "relativePath": "All notes/CFA 2 FSA.md"
+      },
+      {
+        "fileName": "CFA 2 FI",
+        "link": "CFA Program",
+        "relativePath": "All notes/CFA 2 FI.md"
+      },
+      {
+        "fileName": "CFA 2 ETH",
+        "link": "CFA Program",
+        "relativePath": "All notes/CFA 2 ETH.md"
+      },
+      {
+        "fileName": "CFA 2 EI",
+        "link": "CFA Program",
+        "relativePath": "All notes/CFA 2 EI.md"
+      },
+      {
+        "fileName": "CFA 2 ECO",
+        "link": "CFA Program",
+        "relativePath": "All notes/CFA 2 ECO.md"
+      },
+      {
+        "fileName": "CFA 2 DER",
+        "link": "CFA Program",
+        "relativePath": "All notes/CFA 2 DER.md"
+      },
+      {
+        "fileName": "CFA 2 CI",
+        "link": "CFA Program",
+        "relativePath": "All notes/CFA 2 CI.md"
+      },
+      {
+        "fileName": "CFA 2 AI",
+        "link": "CFA Program",
+        "relativePath": "All notes/CFA 2 AI.md"
+      },
+      {
+        "fileName": "Arbitrage-Free Valuation Framework",
+        "link": "CFA Program",
+        "relativePath": "All notes/Arbitrage-Free Valuation Framework.md"
+      },
+      {
+        "fileName": "Alternative Investments",
+        "link": "CFA Program",
+        "relativePath": "All notes/Alternative Investments.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Certificate in ESG Investing",
+    "relativePath": "Certificate in ESG Investing.md",
+    "backlinks": [
+      {
+        "fileName": "Home",
+        "link": "Certificate in ESG Investing",
+        "relativePath": "Home.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Home",
+    "relativePath": "Home.md",
+    "tags": [
+      "mcl/list-card",
+      "mcl/list-grid",
+      "prospect"
+    ],
+    "frontmatter": {
+      "cssClass": "wide-page",
+      "metatable": true,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 43
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Cours",
+        "level": 1
+      },
+      {
+        "heading": "💼 Business",
+        "level": 1
+      },
+      {
+        "heading": "🗄 Databases",
+        "level": 1
+      },
+      {
+        "heading": "ℹ `$=dv.pages().length` Notes",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Scratchpad",
+        "relativePath": "Scratchpad.md"
+      },
+      {
+        "link": "Documentation",
+        "relativePath": "Documentation.md"
+      },
+      {
+        "link": "Recent",
+        "relativePath": "Recent.md"
+      },
+      {
+        "link": "CFA Program",
+        "relativePath": "CFA Program.md"
+      },
+      {
+        "link": "CFA Level 1",
+        "relativePath": "CFA Level 1.md"
+      },
+      {
+        "link": "CFA Level 2",
+        "relativePath": "CFA Level 2.md"
+      },
+      {
+        "link": "CFA Level 3",
+        "relativePath": "CFA Level 3.md"
+      },
+      {
+        "link": "Certificate in ESG Investing",
+        "relativePath": "Certificate in ESG Investing.md"
+      },
+      {
+        "link": "ACCES"
+      },
+      {
+        "link": "GMAT"
+      },
+      {
+        "link": "SAT"
+      },
+      {
+        "link": "Neoma Business School",
+        "relativePath": "All notes/Neoma Business School.md"
+      },
+      {
+        "link": "Top Finance",
+        "relativePath": "All notes/Top Finance.md"
+      },
+      {
+        "link": "Ulteam Coaching",
+        "relativePath": "All notes/Ulteam Coaching.md"
+      },
+      {
+        "link": "DB Cars"
+      },
+      {
+        "link": "Benchmark cours",
+        "relativePath": "All notes/Benchmark cours.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "CFA Program",
+        "link": "Home",
+        "relativePath": "CFA Program.md"
+      },
+      {
+        "fileName": "CFA Program",
+        "link": "Home",
+        "relativePath": "CFA Program.md"
+      }
+    ]
+  },
+  {
+    "fileName": "CFA Level 2",
+    "relativePath": "CFA Level 2.md",
+    "tags": [
+      "cfa2",
+      "moc"
+    ],
+    "frontmatter": {
+      "Tags": "CFA2, MOC",
+      "Aliases": null,
+      "Type": "Level",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 44
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "All Notes",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "CFA Program",
+        "relativePath": "CFA Program.md"
+      },
+      {
+        "link": "CFA Program",
+        "relativePath": "CFA Program.md"
+      },
+      {
+        "link": "CFA Level 2",
+        "displayText": "Level 2",
+        "relativePath": "CFA Level 2.md"
+      },
+      {
+        "link": "CFA 2 QM",
+        "displayText": "Quantitative Methods",
+        "relativePath": "All notes/CFA 2 QM.md"
+      },
+      {
+        "link": "CFA 2 ECO",
+        "displayText": "Economics",
+        "relativePath": "All notes/CFA 2 ECO.md"
+      },
+      {
+        "link": "CFA 2 FSA",
+        "displayText": "Financial Statements Analysis",
+        "relativePath": "All notes/CFA 2 FSA.md"
+      },
+      {
+        "link": "CFA 2 CI",
+        "displayText": "Corporate Issuers",
+        "relativePath": "All notes/CFA 2 CI.md"
+      },
+      {
+        "link": "CFA 2 EI",
+        "displayText": "Equity Investments",
+        "relativePath": "All notes/CFA 2 EI.md"
+      },
+      {
+        "link": "CFA 2 FI",
+        "displayText": "Fixed Income",
+        "relativePath": "All notes/CFA 2 FI.md"
+      },
+      {
+        "link": "CFA 2 DER",
+        "displayText": "Derivatives",
+        "relativePath": "All notes/CFA 2 DER.md"
+      },
+      {
+        "link": "CFA 2 AI",
+        "displayText": "Alternative Investments",
+        "relativePath": "All notes/CFA 2 AI.md"
+      },
+      {
+        "link": "CFA 2 PM",
+        "displayText": "Portfolio Management",
+        "relativePath": "All notes/CFA 2 PM.md"
+      },
+      {
+        "link": "CFA 2 ETH",
+        "displayText": "Ethical and Professional Standards",
+        "relativePath": "All notes/CFA 2 ETH.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "CFA Program",
+        "link": "CFA Level 2",
+        "relativePath": "CFA Program.md"
+      },
+      {
+        "fileName": "CFA Program",
+        "link": "CFA Level 2",
+        "relativePath": "CFA Program.md"
+      },
+      {
+        "fileName": "Home",
+        "link": "CFA Level 2",
+        "relativePath": "Home.md"
+      },
+      {
+        "fileName": "2023-07-06",
+        "link": "CFA Level 2",
+        "relativePath": "Daily Notes/2023-07-06.md"
+      },
+      {
+        "fileName": "Valuation and Analysis of Bonds with Embedded Options",
+        "link": "CFA Level 2",
+        "relativePath": "All notes/Valuation and Analysis of Bonds with Embedded Options.md",
+        "displayText": "Level 2"
+      },
+      {
+        "fileName": "Term Structure and Interest Rate Dynamics",
+        "link": "CFA Level 2",
+        "relativePath": "All notes/Term Structure and Interest Rate Dynamics.md",
+        "displayText": "Level 2"
+      },
+      {
+        "fileName": "Credit Default Swaps",
+        "link": "CFA Level 2",
+        "relativePath": "All notes/Credit Default Swaps.md",
+        "displayText": "Level 2"
+      },
+      {
+        "fileName": "Credit Analysis Models",
+        "link": "CFA Level 2",
+        "relativePath": "All notes/Credit Analysis Models.md",
+        "displayText": "Level 2"
+      },
+      {
+        "fileName": "CFA 2 QM",
+        "link": "CFA Level 2",
+        "relativePath": "All notes/CFA 2 QM.md"
+      },
+      {
+        "fileName": "CFA 2 QM",
+        "link": "CFA Level 2",
+        "relativePath": "All notes/CFA 2 QM.md",
+        "displayText": "Level 2"
+      },
+      {
+        "fileName": "CFA 2 PM",
+        "link": "CFA Level 2",
+        "relativePath": "All notes/CFA 2 PM.md"
+      },
+      {
+        "fileName": "CFA 2 PM",
+        "link": "CFA Level 2",
+        "relativePath": "All notes/CFA 2 PM.md",
+        "displayText": "Level 2"
+      },
+      {
+        "fileName": "CFA 2 FSA",
+        "link": "CFA Level 2",
+        "relativePath": "All notes/CFA 2 FSA.md"
+      },
+      {
+        "fileName": "CFA 2 FSA",
+        "link": "CFA Level 2",
+        "relativePath": "All notes/CFA 2 FSA.md",
+        "displayText": "Level 2"
+      },
+      {
+        "fileName": "CFA 2 FI",
+        "link": "CFA Level 2",
+        "relativePath": "All notes/CFA 2 FI.md"
+      },
+      {
+        "fileName": "CFA 2 FI",
+        "link": "CFA Level 2",
+        "relativePath": "All notes/CFA 2 FI.md",
+        "displayText": "Level 2"
+      },
+      {
+        "fileName": "CFA 2 ETH",
+        "link": "CFA Level 2",
+        "relativePath": "All notes/CFA 2 ETH.md"
+      },
+      {
+        "fileName": "CFA 2 ETH",
+        "link": "CFA Level 2",
+        "relativePath": "All notes/CFA 2 ETH.md",
+        "displayText": "Level 2"
+      },
+      {
+        "fileName": "CFA 2 EI",
+        "link": "CFA Level 2",
+        "relativePath": "All notes/CFA 2 EI.md"
+      },
+      {
+        "fileName": "CFA 2 EI",
+        "link": "CFA Level 2",
+        "relativePath": "All notes/CFA 2 EI.md",
+        "displayText": "Level 2"
+      },
+      {
+        "fileName": "CFA 2 ECO",
+        "link": "CFA Level 2",
+        "relativePath": "All notes/CFA 2 ECO.md"
+      },
+      {
+        "fileName": "CFA 2 ECO",
+        "link": "CFA Level 2",
+        "relativePath": "All notes/CFA 2 ECO.md",
+        "displayText": "Level 2"
+      },
+      {
+        "fileName": "CFA 2 DER",
+        "link": "CFA Level 2",
+        "relativePath": "All notes/CFA 2 DER.md"
+      },
+      {
+        "fileName": "CFA 2 DER",
+        "link": "CFA Level 2",
+        "relativePath": "All notes/CFA 2 DER.md",
+        "displayText": "Level 2"
+      },
+      {
+        "fileName": "CFA 2 CI",
+        "link": "CFA Level 2",
+        "relativePath": "All notes/CFA 2 CI.md"
+      },
+      {
+        "fileName": "CFA 2 CI",
+        "link": "CFA Level 2",
+        "relativePath": "All notes/CFA 2 CI.md",
+        "displayText": "Level 2"
+      },
+      {
+        "fileName": "CFA 2 AI",
+        "link": "CFA Level 2",
+        "relativePath": "All notes/CFA 2 AI.md"
+      },
+      {
+        "fileName": "CFA 2 AI",
+        "link": "CFA Level 2",
+        "relativePath": "All notes/CFA 2 AI.md",
+        "displayText": "Level 2"
+      },
+      {
+        "fileName": "Arbitrage-Free Valuation Framework",
+        "link": "CFA Level 2",
+        "relativePath": "All notes/Arbitrage-Free Valuation Framework.md",
+        "displayText": "Level 2"
+      }
+    ]
+  },
+  {
+    "fileName": "CFA Level 3",
+    "relativePath": "CFA Level 3.md",
+    "tags": [
+      "cfa3",
+      "moc"
+    ],
+    "frontmatter": {
+      "Tags": "CFA3, MOC",
+      "Aliases": null,
+      "Level": "CFA Level 3",
+      "Topic": null,
+      "Subject": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 6,
+          "col": 3,
+          "offset": 67
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Topic Weights",
+        "level": 1
+      },
+      {
+        "heading": "Exam structure",
+        "level": 1
+      },
+      {
+        "heading": "All notes",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "CFA Program",
+        "relativePath": "CFA Program.md"
+      },
+      {
+        "link": "CFA Program",
+        "relativePath": "CFA Program.md"
+      },
+      {
+        "link": "CFA Level 3",
+        "displayText": "Level 3",
+        "relativePath": "CFA Level 3.md"
+      },
+      {
+        "link": "CFA 3 ECO",
+        "displayText": "Economics",
+        "relativePath": "All notes/CFA 3 ECO.md"
+      },
+      {
+        "link": "CFA 3 EI",
+        "displayText": "Equity Investments",
+        "relativePath": "All notes/CFA 3 EI.md"
+      },
+      {
+        "link": "CFA 3 FI",
+        "displayText": "Fixed Income",
+        "relativePath": "All notes/CFA 3 FI.md"
+      },
+      {
+        "link": "CFA 3 DER",
+        "displayText": "Derivatives",
+        "relativePath": "All notes/CFA 3 DER.md"
+      },
+      {
+        "link": "CFA 3 AI",
+        "displayText": "Alternative Investments",
+        "relativePath": "All notes/CFA 3 AI.md"
+      },
+      {
+        "link": "CFA 3 PM",
+        "displayText": "Portfolio Management",
+        "relativePath": "All notes/CFA 3 PM.md"
+      },
+      {
+        "link": "CFA 3 ETH",
+        "displayText": "Ethical and Professional Standards",
+        "relativePath": "All notes/CFA 3 ETH.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "CFA Program",
+        "link": "CFA Level 3",
+        "relativePath": "CFA Program.md"
+      },
+      {
+        "fileName": "CFA Program",
+        "link": "CFA Level 3",
+        "relativePath": "CFA Program.md"
+      },
+      {
+        "fileName": "Home",
+        "link": "CFA Level 3",
+        "relativePath": "Home.md"
+      },
+      {
+        "fileName": "CFA 3 PM",
+        "link": "CFA Level 3",
+        "relativePath": "All notes/CFA 3 PM.md"
+      },
+      {
+        "fileName": "CFA 3 PM",
+        "link": "CFA Level 3",
+        "relativePath": "All notes/CFA 3 PM.md"
+      },
+      {
+        "fileName": "CFA 3 FI",
+        "link": "CFA Level 3",
+        "relativePath": "All notes/CFA 3 FI.md"
+      },
+      {
+        "fileName": "CFA 3 FI",
+        "link": "CFA Level 3",
+        "relativePath": "All notes/CFA 3 FI.md"
+      },
+      {
+        "fileName": "CFA 3 ETH",
+        "link": "CFA Level 3",
+        "relativePath": "All notes/CFA 3 ETH.md"
+      },
+      {
+        "fileName": "CFA 3 ETH",
+        "link": "CFA Level 3",
+        "relativePath": "All notes/CFA 3 ETH.md"
+      },
+      {
+        "fileName": "CFA 3 EI",
+        "link": "CFA Level 3",
+        "relativePath": "All notes/CFA 3 EI.md"
+      },
+      {
+        "fileName": "CFA 3 EI",
+        "link": "CFA Level 3",
+        "relativePath": "All notes/CFA 3 EI.md"
+      },
+      {
+        "fileName": "CFA 3 ECO",
+        "link": "CFA Level 3",
+        "relativePath": "All notes/CFA 3 ECO.md"
+      },
+      {
+        "fileName": "CFA 3 ECO",
+        "link": "CFA Level 3",
+        "relativePath": "All notes/CFA 3 ECO.md"
+      },
+      {
+        "fileName": "CFA 3 DER",
+        "link": "CFA Level 3",
+        "relativePath": "All notes/CFA 3 DER.md"
+      },
+      {
+        "fileName": "CFA 3 DER",
+        "link": "CFA Level 3",
+        "relativePath": "All notes/CFA 3 DER.md"
+      },
+      {
+        "fileName": "CFA 3 AI",
+        "link": "CFA Level 3",
+        "relativePath": "All notes/CFA 3 AI.md"
+      },
+      {
+        "fileName": "CFA 3 AI",
+        "link": "CFA Level 3",
+        "relativePath": "All notes/CFA 3 AI.md"
+      }
+    ]
+  },
+  {
+    "fileName": "CFA Level 1",
+    "relativePath": "CFA Level 1.md",
+    "tags": [
+      "cfa1",
+      "moc",
+      "level"
+    ],
+    "frontmatter": {
+      "Tags": "CFA1, MOC, Level",
+      "Aliases": null,
+      "Level": "CFA Level 1",
+      "Topic": null,
+      "Subject": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 6,
+          "col": 3,
+          "offset": 75
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Mindmap",
+        "level": 1
+      },
+      {
+        "heading": "All notes",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "CFA® Program"
+      },
+      {
+        "link": "CFA Program",
+        "relativePath": "CFA Program.md"
+      },
+      {
+        "link": "CFA Level 1",
+        "displayText": "Level 1",
+        "relativePath": "CFA Level 1.md"
+      },
+      {
+        "link": "CFA 1 QM",
+        "displayText": "Quantitative Methods",
+        "relativePath": "All notes/CFA 1 QM.md"
+      },
+      {
+        "link": "CFA 1 ECO",
+        "displayText": "Economics",
+        "relativePath": "All notes/CFA 1 ECO.md"
+      },
+      {
+        "link": "CFA 1 FSA",
+        "displayText": "Financial Statement Analysis",
+        "relativePath": "All notes/CFA 1 FSA.md"
+      },
+      {
+        "link": "CFA 1 CI",
+        "displayText": "Corporate Issuers",
+        "relativePath": "All notes/CFA 1 CI.md"
+      },
+      {
+        "link": "CFA 1 EI",
+        "displayText": "Equity Investments",
+        "relativePath": "All notes/CFA 1 EI.md"
+      },
+      {
+        "link": "CFA 1 FI",
+        "displayText": "Fixed Income",
+        "relativePath": "All notes/CFA 1 FI.md"
+      },
+      {
+        "link": "CFA 1 DER",
+        "displayText": "Derivatives",
+        "relativePath": "All notes/CFA 1 DER.md"
+      },
+      {
+        "link": "CFA 1 AI",
+        "displayText": "Alternative Investments",
+        "relativePath": "All notes/CFA 1 AI.md"
+      },
+      {
+        "link": "CFA 1 PM",
+        "displayText": "Portfolio Management",
+        "relativePath": "All notes/CFA 1 PM.md"
+      },
+      {
+        "link": "CFA 1 ETH",
+        "displayText": "Ethical and Professional Standards",
+        "relativePath": "All notes/CFA 1 ETH.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "CFA Program",
+        "link": "CFA Level 1",
+        "relativePath": "CFA Program.md"
+      },
+      {
+        "fileName": "CFA Program",
+        "link": "CFA Level 1",
+        "relativePath": "CFA Program.md"
+      },
+      {
+        "fileName": "Home",
+        "link": "CFA Level 1",
+        "relativePath": "Home.md"
+      },
+      {
+        "fileName": "CFA 1 QM",
+        "link": "CFA Level 1",
+        "relativePath": "All notes/CFA 1 QM.md"
+      },
+      {
+        "fileName": "CFA 1 QM",
+        "link": "CFA Level 1",
+        "relativePath": "All notes/CFA 1 QM.md"
+      },
+      {
+        "fileName": "CFA 1 PM",
+        "link": "CFA Level 1",
+        "relativePath": "All notes/CFA 1 PM.md"
+      },
+      {
+        "fileName": "CFA 1 PM",
+        "link": "CFA Level 1",
+        "relativePath": "All notes/CFA 1 PM.md"
+      },
+      {
+        "fileName": "CFA 1 FSA",
+        "link": "CFA Level 1",
+        "relativePath": "All notes/CFA 1 FSA.md"
+      },
+      {
+        "fileName": "CFA 1 FSA",
+        "link": "CFA Level 1",
+        "relativePath": "All notes/CFA 1 FSA.md"
+      },
+      {
+        "fileName": "CFA 1 FI",
+        "link": "CFA Level 1",
+        "relativePath": "All notes/CFA 1 FI.md"
+      },
+      {
+        "fileName": "CFA 1 FI",
+        "link": "CFA Level 1",
+        "relativePath": "All notes/CFA 1 FI.md"
+      },
+      {
+        "fileName": "CFA 1 ETH",
+        "link": "CFA Level 1",
+        "relativePath": "All notes/CFA 1 ETH.md"
+      },
+      {
+        "fileName": "CFA 1 ETH",
+        "link": "CFA Level 1",
+        "relativePath": "All notes/CFA 1 ETH.md"
+      },
+      {
+        "fileName": "CFA 1 EI",
+        "link": "CFA Level 1",
+        "relativePath": "All notes/CFA 1 EI.md"
+      },
+      {
+        "fileName": "CFA 1 EI",
+        "link": "CFA Level 1",
+        "relativePath": "All notes/CFA 1 EI.md"
+      },
+      {
+        "fileName": "CFA 1 ECO",
+        "link": "CFA Level 1",
+        "relativePath": "All notes/CFA 1 ECO.md"
+      },
+      {
+        "fileName": "CFA 1 ECO",
+        "link": "CFA Level 1",
+        "relativePath": "All notes/CFA 1 ECO.md"
+      },
+      {
+        "fileName": "CFA 1 DER",
+        "link": "CFA Level 1",
+        "relativePath": "All notes/CFA 1 DER.md"
+      },
+      {
+        "fileName": "CFA 1 DER",
+        "link": "CFA Level 1",
+        "relativePath": "All notes/CFA 1 DER.md"
+      },
+      {
+        "fileName": "CFA 1 CI",
+        "link": "CFA Level 1",
+        "relativePath": "All notes/CFA 1 CI.md"
+      },
+      {
+        "fileName": "CFA 1 CI",
+        "link": "CFA Level 1",
+        "relativePath": "All notes/CFA 1 CI.md"
+      },
+      {
+        "fileName": "CFA 1 AI",
+        "link": "CFA Level 1",
+        "relativePath": "All notes/CFA 1 AI.md"
+      },
+      {
+        "fileName": "CFA 1 AI",
+        "link": "CFA Level 1",
+        "relativePath": "All notes/CFA 1 AI.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Templates",
+    "relativePath": "Templates/Templates.md",
+    "tags": [
+      "foldernote"
+    ],
+    "frontmatter": {
+      "Tags": "FolderNote",
+      "Aliases": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 35
+        }
+      }
+    }
+  },
+  {
+    "fileName": "Previous-Next",
+    "relativePath": "Templates/Previous-Next.md"
+  },
+  {
+    "fileName": "Folder Note",
+    "relativePath": "Templates/Folder Note.md",
+    "frontmatter": {
+      "Tags": null,
+      "Aliases": null,
+      "metatable": true,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 38
+        }
+      }
+    }
+  },
+  {
+    "fileName": "FileClasses",
+    "relativePath": "Templates/FileClasses/FileClasses.md"
+  },
+  {
+    "fileName": "CFA",
+    "relativePath": "Templates/FileClasses/CFA.md"
+  },
+  {
+    "fileName": "Excalidraw scripts",
+    "relativePath": "Templates/Excalidraw scripts/Excalidraw scripts.md"
+  },
+  {
+    "fileName": "Add Next Step in Process",
+    "relativePath": "Templates/Excalidraw scripts/Add Next Step in Process.md"
+  },
+  {
+    "fileName": "Add Connector Point",
+    "relativePath": "Templates/Excalidraw scripts/Add Connector Point.md"
+  },
+  {
+    "fileName": "Default Note",
+    "relativePath": "Templates/Default Note.md",
+    "frontmatter": {
+      "Tags": null,
+      "Aliases": null,
+      "metatable": true,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 40
+        }
+      }
+    }
+  },
+  {
+    "fileName": "Daily Note",
+    "relativePath": "Templates/Daily Note.md",
+    "frontmatter": {
+      "Tags": null,
+      "Aliases": null,
+      "Type": "Daily Note",
+      "cssclass": "hide-title",
+      "metatable": true,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 6,
+          "col": 3,
+          "offset": 76
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "🗓️ <% fileDate = moment(tp.file.title, 'YYYY-MM-DD-dddd').format('dddd Do MMMM YYYY').charAt(0).toUpperCase() %><%fileDate = moment(tp.file.title, 'YYYY-MM-DD-dddd').format('dddd Do MMMM YYYY').slice(1) %>",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Calendar YAML",
+    "relativePath": "Templates/Calendar YAML.md",
+    "frontmatter": {
+      "Date": null,
+      "Client": null,
+      "Level": null,
+      "Topic": null,
+      "Place": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 6,
+          "col": 3,
+          "offset": 42
+        }
+      }
+    }
+  },
+  {
+    "fileName": "CFA Note",
+    "relativePath": "Templates/CFA Note.md",
+    "frontmatter": {
+      "Tags": null,
+      "Aliases": null,
+      "Level": null,
+      "Topic": null,
+      "Type": null,
+      "metatable": true,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 7,
+          "col": 3,
+          "offset": 60
+        }
+      }
+    }
+  },
+  {
+    "fileName": "Breadcrumbs",
+    "relativePath": "Templates/Breadcrumbs.md"
+  },
+  {
+    "fileName": "Scratchpad",
+    "relativePath": "Scratchpad.md",
+    "tags": [
+      "p2",
+      "p1"
+    ],
+    "headings": [
+      {
+        "heading": "⏱ To Do",
+        "level": 1
+      },
+      {
+        "heading": "208",
+        "level": 2
+      },
+      {
+        "heading": "Leboncoin",
+        "level": 2
+      },
+      {
+        "heading": "🧠 To Learn",
+        "level": 1
+      },
+      {
+        "heading": "📚 Cours",
+        "level": 1
+      },
+      {
+        "heading": "Neoma",
+        "level": 2
+      },
+      {
+        "heading": "Admin — Cours particuliers",
+        "level": 2
+      },
+      {
+        "heading": "Avis",
+        "level": 3
+      },
+      {
+        "heading": "Crédit d'impôt",
+        "level": 3
+      },
+      {
+        "heading": "Tri",
+        "level": 3
+      },
+      {
+        "heading": "Site",
+        "level": 3
+      },
+      {
+        "heading": "Superprof",
+        "level": 2
+      },
+      {
+        "heading": "CFA",
+        "level": 2
+      },
+      {
+        "heading": "Révisions",
+        "level": 3
+      },
+      {
+        "heading": "Admin",
+        "level": 3
+      },
+      {
+        "heading": "GMAT",
+        "level": 2
+      },
+      {
+        "heading": "🔧 Tools",
+        "level": 1
+      },
+      {
+        "heading": "Firefox",
+        "level": 2
+      },
+      {
+        "heading": "Obsidian",
+        "level": 2
+      },
+      {
+        "heading": "Alfred",
+        "level": 2
+      },
+      {
+        "heading": "macOS",
+        "level": 2
+      },
+      {
+        "heading": "✏ Resources",
+        "level": 1
+      },
+      {
+        "heading": "To read",
+        "level": 2
+      },
+      {
+        "heading": "Cool looking sites",
+        "level": 2
+      },
+      {
+        "heading": "🧪 Tests",
+        "level": 1
+      },
+      {
+        "heading": "🚙 Cars",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Matrices"
+      },
+      {
+        "link": "Fonctions de deux variables"
+      },
+      {
+        "link": "Algorithmes"
+      },
+      {
+        "link": "2023-09-29"
+      },
+      {
+        "link": "G-spread"
+      },
+      {
+        "link": "Z-spread"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Home",
+        "link": "Scratchpad",
+        "relativePath": "Home.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Recent",
+    "relativePath": "Recent.md",
+    "backlinks": [
+      {
+        "fileName": "Home",
+        "link": "Recent",
+        "relativePath": "Home.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Documentation",
+    "relativePath": "Documentation.md",
+    "tags": [
+      "moc",
+      "favourite"
+    ],
+    "frontmatter": {
+      "Tags": "MOC, Favourite",
+      "metatable": true,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 44
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "📖 Obsidian",
+        "level": 1
+      },
+      {
+        "heading": "Markdown",
+        "level": 2
+      },
+      {
+        "heading": "Plugins",
+        "level": 2
+      },
+      {
+        "heading": "CSS",
+        "level": 2
+      },
+      {
+        "heading": "Dataview queries",
+        "level": 2
+      },
+      {
+        "heading": "Example",
+        "level": 3
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Home",
+        "link": "Documentation",
+        "relativePath": "Home.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Daily Notes",
+    "relativePath": "Daily Notes/Daily Notes.md",
+    "tags": [
+      "moc",
+      "foldernote"
+    ],
+    "frontmatter": {
+      "Tags": "MOC, FolderNote",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 29
+        }
+      }
+    }
+  },
+  {
+    "fileName": "2023-08-09",
+    "relativePath": "Daily Notes/2023-08-09.md",
+    "frontmatter": {
+      "Tags": null,
+      "Aliases": null,
+      "Type": "Daily Note",
+      "cssclass": "hide-title",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 60
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "🗓️ Mercredi 9 août 2023",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "2023-08-08",
+    "relativePath": "Daily Notes/2023-08-08.md",
+    "frontmatter": {
+      "Tags": null,
+      "Aliases": null,
+      "Type": "Daily Note",
+      "cssclass": "hide-title",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 60
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "🗓️ Mardi 8 août 2023",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "2023-08-07",
+    "relativePath": "Daily Notes/2023-08-07.md",
+    "frontmatter": {
+      "Tags": null,
+      "Aliases": null,
+      "Type": "Daily Note",
+      "cssclass": "hide-title",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 60
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "🗓️ Lundi 7 août 2023",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "2023-08-06",
+    "relativePath": "Daily Notes/2023-08-06.md",
+    "frontmatter": {
+      "Tags": null,
+      "Aliases": null,
+      "Type": "Daily Note",
+      "cssclass": "hide-title",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 60
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "🗓️ Dimanche 6 août 2023",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "2023-08-05",
+    "relativePath": "Daily Notes/2023-08-05.md",
+    "frontmatter": {
+      "Tags": null,
+      "Aliases": null,
+      "Type": "Daily Note",
+      "cssclass": "hide-title",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 60
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "🗓️ Samedi 5 août 2023",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "2023-08-02",
+    "relativePath": "Daily Notes/2023-08-02.md",
+    "headings": [
+      {
+        "heading": "🗓️ Mercredi 2 août 2023",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "2023-07-26",
+    "relativePath": "Daily Notes/2023-07-26.md",
+    "tags": [
+      "meeting",
+      "ulteam",
+      "prospect"
+    ],
+    "frontmatter": {
+      "Tags": "Meeting, Ulteam, Prospect",
+      "Aliases": null,
+      "Type": "Daily Note",
+      "cssclass": "hide-title",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 86
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "🗓️ Mercredi 26 juillet 2023",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Edwin Samie",
+        "relativePath": "All notes/Edwin Samie.md"
+      },
+      {
+        "link": "Ulteam Coaching",
+        "relativePath": "All notes/Ulteam Coaching.md"
+      },
+      {
+        "link": "QVCT",
+        "relativePath": "All notes/QVCT.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Edwin Samie",
+        "link": "2023-07-26",
+        "relativePath": "All notes/Edwin Samie.md"
+      }
+    ]
+  },
+  {
+    "fileName": "2023-07-06",
+    "relativePath": "Daily Notes/2023-07-06.md",
+    "tags": [
+      "topfinance",
+      "cfa2",
+      "fi"
+    ],
+    "frontmatter": {
+      "Tags": "TopFinance, CFA2, FI",
+      "Aliases": null,
+      "Level": "CFA Level 2",
+      "Topic": "Fixed Income",
+      "Type": "Daily Note",
+      "cssclass": "hide-title",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 7,
+          "col": 3,
+          "offset": 120
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "🗓️ Jeudi 6 Juillet 2023",
+        "level": 1
+      },
+      {
+        "heading": "TopFinance – CFA Level 2 Fixed Income (2/2)",
+        "level": 2
+      },
+      {
+        "heading": "Links",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Credit Default Swaps",
+        "relativePath": "All notes/Credit Default Swaps.md"
+      },
+      {
+        "link": "CFA Level 2",
+        "relativePath": "CFA Level 2.md"
+      },
+      {
+        "link": "CFA 2 FI",
+        "relativePath": "All notes/CFA 2 FI.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "2023-06-29",
+        "link": "2023-07-06",
+        "relativePath": "Daily Notes/2023-06-29.md"
+      },
+      {
+        "fileName": "Planning Top Finance",
+        "link": "2023-07-06",
+        "relativePath": "All notes/Planning Top Finance.md"
+      }
+    ]
+  },
+  {
+    "fileName": "2023-06-29",
+    "relativePath": "Daily Notes/2023-06-29.md",
+    "tags": [
+      "topfinance",
+      "cfa2",
+      "fi"
+    ],
+    "frontmatter": {
+      "Tags": "TopFinance, CFA2, FI",
+      "Aliases": null,
+      "Level": "CFA Level 2",
+      "Topic": "Fixed Income",
+      "Type": "Daily Note",
+      "cssclass": "hide-title",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 7,
+          "col": 3,
+          "offset": 120
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "🗓️ Jeudi 29 Juin 2023",
+        "level": 1
+      },
+      {
+        "heading": "TopFinance – CFA Level 2 Fixed Income (1/2)",
+        "level": 2
+      },
+      {
+        "heading": "Top Finance – CFA Level 2 Fixed Income (2/2)",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Term Structure and Interest Rate Dynamics",
+        "relativePath": "All notes/Term Structure and Interest Rate Dynamics.md"
+      },
+      {
+        "link": "Arbitrage-Free Valuation Framework",
+        "relativePath": "All notes/Arbitrage-Free Valuation Framework.md"
+      },
+      {
+        "link": "Valuation and Analysis of Bonds with Embedded Options",
+        "relativePath": "All notes/Valuation and Analysis of Bonds with Embedded Options.md"
+      },
+      {
+        "link": "Credit Analysis Models",
+        "relativePath": "All notes/Credit Analysis Models.md"
+      },
+      {
+        "link": "2023-07-06",
+        "relativePath": "Daily Notes/2023-07-06.md"
+      },
+      {
+        "link": "Credit Default Swaps",
+        "relativePath": "All notes/Credit Default Swaps.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Planning Top Finance",
+        "link": "2023-06-29.md",
+        "relativePath": "All notes/Planning Top Finance.md"
+      }
+    ]
+  },
+  {
+    "fileName": "2023-06-28",
+    "relativePath": "Daily Notes/2023-06-28.md",
+    "tags": [
+      "calendar",
+      "neoma",
+      "topfinance"
+    ],
+    "frontmatter": {
+      "Tags": "Calendar, Neoma, TopFinance",
+      "Aliases": null,
+      "Type": "Daily Note",
+      "cssclass": "hide-title",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 88
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "📆 Mercredi 28 Juin 2023",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Planning Top Finance",
+        "relativePath": "All notes/Planning Top Finance.md"
+      },
+      {
+        "link": "Planning Neoma",
+        "relativePath": "All notes/Planning Neoma.md"
+      }
+    ]
+  },
+  {
+    "fileName": "2023-06-26",
+    "relativePath": "Daily Notes/2023-06-26.md",
+    "frontmatter": {
+      "Tags": null,
+      "Aliases": null,
+      "Type": "Daily Note",
+      "cssclass": "hide-title",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 60
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "🗓️ Lundi 26 juin 2023",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "2023-06-20",
+    "relativePath": "Daily Notes/2023-06-20.md",
+    "tags": [
+      "meeting",
+      "neoma"
+    ],
+    "frontmatter": {
+      "Tags": "Meeting, Neoma",
+      "Aliases": null,
+      "Type": "Daily Note",
+      "cssclass": "hide-title",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 75
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "🗓️ Mardi 20 juin 2023",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Maria Ruiz"
+      },
+      {
+        "link": "Stéphane Dubreuille"
+      }
+    ]
+  },
+  {
+    "fileName": "2023-06-08",
+    "relativePath": "Daily Notes/2023-06-08.md",
+    "tags": [
+      "cours",
+      "topfinance",
+      "cfa2",
+      "economics"
+    ],
+    "frontmatter": {
+      "Tags": "Cours, TopFinance, CFA2, Economics",
+      "Aliases": null,
+      "Level": "CFA Level 2",
+      "Topic": "Economics",
+      "Subject": null,
+      "Client": "Top Finance",
+      "Type": "Daily Note",
+      "cssclass": "hide-title",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 9,
+          "col": 3,
+          "offset": 160
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "🗓️ Jeudi 8 juin 2023",
+        "level": 1
+      },
+      {
+        "heading": "Top Finance – CFA Level 2 Economics",
+        "level": 2
+      },
+      {
+        "heading": "Cours",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "CFA 2 ECO",
+        "relativePath": "All notes/CFA 2 ECO.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Planning Top Finance",
+        "link": "2023-06-08",
+        "relativePath": "All notes/Planning Top Finance.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Peugeot 208 XY_inline",
+    "relativePath": "Cars/Peugeot 208 XY_inline.md",
+    "headings": [
+      {
+        "heading": "Production",
+        "level": 2
+      },
+      {
+        "heading": "Côte",
+        "level": 2
+      },
+      {
+        "heading": "Moteur",
+        "level": 2
+      },
+      {
+        "heading": "Architecture",
+        "level": 3
+      },
+      {
+        "heading": "Par cylindre",
+        "level": 3
+      },
+      {
+        "heading": "Transmission",
+        "level": 2
+      },
+      {
+        "heading": "Boîte",
+        "level": 2
+      },
+      {
+        "heading": "Puissance",
+        "level": 2
+      },
+      {
+        "heading": "Couple",
+        "level": 2
+      },
+      {
+        "heading": "Poids",
+        "level": 2
+      },
+      {
+        "heading": "Constructeur",
+        "level": 3
+      },
+      {
+        "heading": "Réel",
+        "level": 3
+      },
+      {
+        "heading": "Ratios",
+        "level": 2
+      },
+      {
+        "heading": "Par litre",
+        "level": 3
+      },
+      {
+        "heading": "Par tonne",
+        "level": 3
+      },
+      {
+        "heading": "Performance",
+        "level": 2
+      },
+      {
+        "heading": "Consommation",
+        "level": 2
+      },
+      {
+        "heading": "Constructeur",
+        "level": 3
+      },
+      {
+        "heading": "Réel",
+        "level": 3
+      },
+      {
+        "heading": "Pollution",
+        "level": 2
+      },
+      {
+        "heading": "Dimensions",
+        "level": 2
+      },
+      {
+        "heading": "Intérieur",
+        "level": 3
+      },
+      {
+        "heading": "Extérieur",
+        "level": 3
+      },
+      {
+        "heading": "Essence",
+        "level": 2
+      },
+      {
+        "heading": "Pneus",
+        "level": 2
+      },
+      {
+        "heading": "Dimensions",
+        "level": 3
+      },
+      {
+        "heading": "Prix",
+        "level": 3
+      },
+      {
+        "heading": "Coût",
+        "level": 2
+      },
+      {
+        "heading": "Essence",
+        "level": 3
+      },
+      {
+        "heading": "Pneus",
+        "level": 3
+      },
+      {
+        "heading": "Assurance",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "_Template Cars DB",
+    "relativePath": "Cars/_Template Cars DB.md",
+    "headings": [
+      {
+        "heading": "Production",
+        "level": 2
+      },
+      {
+        "heading": "Côte",
+        "level": 2
+      },
+      {
+        "heading": "Moteur",
+        "level": 2
+      },
+      {
+        "heading": "Architecture",
+        "level": 3
+      },
+      {
+        "heading": "Par cylindre",
+        "level": 3
+      },
+      {
+        "heading": "Transmission",
+        "level": 2
+      },
+      {
+        "heading": "Boîte",
+        "level": 2
+      },
+      {
+        "heading": "Puissance",
+        "level": 2
+      },
+      {
+        "heading": "Couple",
+        "level": 2
+      },
+      {
+        "heading": "Poids",
+        "level": 2
+      },
+      {
+        "heading": "Constructeur",
+        "level": 3
+      },
+      {
+        "heading": "Réel",
+        "level": 3
+      },
+      {
+        "heading": "Ratios",
+        "level": 2
+      },
+      {
+        "heading": "Par litre",
+        "level": 3
+      },
+      {
+        "heading": "Par tonne",
+        "level": 3
+      },
+      {
+        "heading": "Performance",
+        "level": 2
+      },
+      {
+        "heading": "Consommation",
+        "level": 2
+      },
+      {
+        "heading": "Constructeur",
+        "level": 3
+      },
+      {
+        "heading": "Réel",
+        "level": 3
+      },
+      {
+        "heading": "Pollution",
+        "level": 2
+      },
+      {
+        "heading": "Dimensions",
+        "level": 2
+      },
+      {
+        "heading": "Intérieur",
+        "level": 3
+      },
+      {
+        "heading": "Extérieur",
+        "level": 3
+      },
+      {
+        "heading": "Essence",
+        "level": 2
+      },
+      {
+        "heading": "Pneus",
+        "level": 2
+      },
+      {
+        "heading": "Dimensions",
+        "level": 3
+      },
+      {
+        "heading": "Prix",
+        "level": 3
+      },
+      {
+        "heading": "Coût",
+        "level": 2
+      },
+      {
+        "heading": "Essence",
+        "level": 3
+      },
+      {
+        "heading": "Pneus",
+        "level": 3
+      },
+      {
+        "heading": "Assurance",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Porsche Cayman S",
+    "relativePath": "Cars/Porsche Cayman S.md"
+  },
+  {
+    "fileName": "Peugeot 208 XY",
+    "relativePath": "Cars/Peugeot 208 XY.md"
+  },
+  {
+    "fileName": "Mercedes C63 AMG (W204)",
+    "relativePath": "Cars/Mercedes C63 AMG (W204).md"
+  },
+  {
+    "fileName": "Cars",
+    "relativePath": "Cars/Cars.md",
+    "frontmatter": {
+      "database-plugin": "basic",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 30
+        }
+      }
+    }
+  },
+  {
+    "fileName": "BMW 335i",
+    "relativePath": "Cars/BMW 335i.md"
+  },
+  {
+    "fileName": "BMW 130i (E87)",
+    "relativePath": "Cars/BMW 130i (E87).md"
+  },
+  {
+    "fileName": "Audi R8 V8 (Type 42)",
+    "relativePath": "Cars/Audi R8 V8 (Type 42).md",
+    "frontmatter": {
+      "Moteur": "V8",
+      "Cylindrée": "4.2L",
+      "Transmission": "Propulsion",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 59
+        }
+      }
+    }
+  },
+  {
+    "fileName": "Forward rate – f(j,k).excalidraw",
+    "relativePath": "Attachments/Forward rate – f(j,k).excalidraw.md",
+    "tags": [
+      "excalidraw"
+    ],
+    "frontmatter": {
+      "excalidraw-plugin": "parsed",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 54
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Text Elements",
+        "level": 1
+      },
+      {
+        "heading": "Embedded files",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Term Structure and Interest Rate Dynamics",
+        "link": "Forward rate – f(j,k).excalidraw",
+        "relativePath": "All notes/Term Structure and Interest Rate Dynamics.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Forward rate – Example.excalidraw",
+    "relativePath": "Attachments/Forward rate – Example.excalidraw.md",
+    "tags": [
+      "excalidraw"
+    ],
+    "frontmatter": {
+      "excalidraw-plugin": "parsed",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 54
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Text Elements",
+        "level": 1
+      },
+      {
+        "heading": "Embedded files",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Term Structure and Interest Rate Dynamics",
+        "link": "Forward rate – Example.excalidraw",
+        "relativePath": "All notes/Term Structure and Interest Rate Dynamics.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Attachments",
+    "relativePath": "Attachments/Attachments.md",
+    "headings": [
+      {
+        "heading": "Looms",
+        "level": 3
+      },
+      {
+        "heading": "Canvas",
+        "level": 3
+      },
+      {
+        "heading": "Images",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "macOS Shortcuts",
+    "relativePath": "Archives/macOS Shortcuts.md",
+    "headings": [
+      {
+        "heading": "macOS Shortcuts",
+        "level": 1
+      },
+      {
+        "heading": "💻 macOS Shortcuts",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "_Excalidraw",
+    "relativePath": "Archives/_Excalidraw/_Excalidraw.md"
+  },
+  {
+    "fileName": "Uncovered Interest Rate Parity (UIP).excalidraw",
+    "relativePath": "Archives/_Excalidraw/Uncovered Interest Rate Parity (UIP).excalidraw.md",
+    "tags": [
+      "excalidraw"
+    ],
+    "frontmatter": {
+      "excalidraw-plugin": "parsed",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 54
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Text Elements",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Uncovered Interest Parity (UIP)",
+        "link": "Uncovered Interest Rate Parity (UIP).excalidraw",
+        "relativePath": "Archives/Uncovered Interest Parity (UIP).md"
+      }
+    ]
+  },
+  {
+    "fileName": "Q37.2019 Binomial.excalidraw",
+    "relativePath": "Archives/_Excalidraw/Q37.2019 Binomial.excalidraw.md",
+    "tags": [
+      "excalidraw"
+    ],
+    "frontmatter": {
+      "excalidraw-plugin": "parsed",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 54
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Text Elements",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Q12.2021.excalidraw",
+    "relativePath": "Archives/_Excalidraw/Q12.2021.excalidraw.md",
+    "tags": [
+      "excalidraw"
+    ],
+    "frontmatter": {
+      "excalidraw-plugin": "parsed",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 54
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Text Elements",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Drawing 2022-10-26 22.40.15.excalidraw",
+    "relativePath": "Archives/_Excalidraw/Drawing 2022-10-26 22.40.15.excalidraw.md",
+    "tags": [
+      "excalidraw"
+    ],
+    "frontmatter": {
+      "excalidraw-plugin": "parsed",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 54
+        }
+      }
+    }
+  },
+  {
+    "fileName": "Covered Interest Rate Parity (UIP).excalidraw",
+    "relativePath": "Archives/_Excalidraw/Covered Interest Rate Parity (UIP).excalidraw.md",
+    "tags": [
+      "excalidraw"
+    ],
+    "frontmatter": {
+      "excalidraw-plugin": "parsed",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 54
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Text Elements",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Covered Interest Parity (CIP)",
+        "link": "Covered Interest Rate Parity (UIP).excalidraw",
+        "relativePath": "Archives/Covered Interest Parity (CIP).md"
+      }
+    ]
+  },
+  {
+    "fileName": "_Attachments",
+    "relativePath": "Archives/_Attachments/_Attachments.md"
+  },
+  {
+    "fileName": "Value of a forward contract",
+    "relativePath": "Archives/Value of a forward contract.md",
+    "headings": [
+      {
+        "heading": "Value of a forward contract",
+        "level": 2
+      },
+      {
+        "heading": "Value of a forward at initiation",
+        "level": 3
+      },
+      {
+        "heading": "Value of a forward at expiration",
+        "level": 3
+      },
+      {
+        "heading": "Value of a forward prior to expiration",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Uncovered Interest Parity (UIP)",
+    "relativePath": "Archives/Uncovered Interest Parity (UIP).md",
+    "headings": [
+      {
+        "heading": "Uncovered Interest Parity (UIP)",
+        "level": 1
+      },
+      {
+        "heading": "Formula",
+        "level": 2
+      },
+      {
+        "heading": "When should I use it ?",
+        "level": 2
+      },
+      {
+        "heading": "Meaning",
+        "level": 2
+      },
+      {
+        "heading": "Assumption",
+        "level": 2
+      },
+      {
+        "heading": "Implication",
+        "level": 2
+      },
+      {
+        "heading": "Example",
+        "level": 2
+      },
+      {
+        "heading": "In real life",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Carry Trade",
+        "displayText": "carry trade"
+      },
+      {
+        "link": "Uncovered Interest Rate Parity (UIP).excalidraw",
+        "relativePath": "Archives/_Excalidraw/Uncovered Interest Rate Parity (UIP).excalidraw.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "CFA2 – Economics Quicksheet",
+        "link": "Uncovered Interest Parity (UIP)",
+        "relativePath": "Archives/CFA2 – Economics Quicksheet.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Test Latex Mathjax",
+    "relativePath": "Archives/Test Latex Mathjax.md",
+    "headings": [
+      {
+        "heading": "Révisions maths collège-lycée",
+        "level": 1
+      },
+      {
+        "heading": "Fonctions de référence",
+        "level": 2
+      },
+      {
+        "heading": "Fonctions affines",
+        "level": 3
+      },
+      {
+        "heading": "Fonctions linéaires",
+        "level": 4
+      },
+      {
+        "heading": "Fonctions constantes",
+        "level": 4
+      },
+      {
+        "heading": "Fonction polynomiale de degré 2",
+        "level": 3
+      },
+      {
+        "heading": "Fonction carré",
+        "level": 3
+      },
+      {
+        "heading": "Fonction pol",
+        "level": 3
+      },
+      {
+        "heading": "Parité",
+        "level": 2
+      },
+      {
+        "heading": "Dérivation",
+        "level": 2
+      },
+      {
+        "heading": "Fonction exponentielle",
+        "level": 2
+      },
+      {
+        "heading": "Raisonnement par récurrence",
+        "level": 2
+      },
+      {
+        "heading": "Limites de suites",
+        "level": 2
+      },
+      {
+        "heading": "Limites de fonctions",
+        "level": 2
+      },
+      {
+        "heading": "Primitives",
+        "level": 2
+      },
+      {
+        "heading": "Intégrales",
+        "level": 2
+      },
+      {
+        "heading": "Équations différentielles",
+        "level": 2
+      },
+      {
+        "heading": "Fonction logarithme népérien",
+        "level": 2
+      },
+      {
+        "heading": "Convexité",
+        "level": 2
+      },
+      {
+        "heading": "Loi binomiale",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "Test Latex Mathjax 3",
+    "relativePath": "Archives/Test Latex Mathjax 3.md",
+    "headings": [
+      {
+        "heading": "1. Suites et récurrences",
+        "level": 1
+      },
+      {
+        "heading": "1.1 Raisonnement par récurrence",
+        "level": 2
+      },
+      {
+        "heading": "1.a Principe du raisonnement par récurrence",
+        "level": 3
+      },
+      {
+        "heading": "1.b Principe du raisonnement par récurrence, à partir d'un certain rang",
+        "level": 3
+      },
+      {
+        "heading": "1.c. Inégalité de Bernouilli",
+        "level": 4
+      },
+      {
+        "heading": "1.2. Limite d'une suite",
+        "level": 2
+      },
+      {
+        "heading": "1.d. Suite divergeant vers l'inifini",
+        "level": 3
+      },
+      {
+        "heading": "1.e. Suite convergeant vers un nombre réel",
+        "level": 3
+      },
+      {
+        "heading": "1.f. Unicité de la limite",
+        "level": 3
+      },
+      {
+        "heading": "1.3. Propriétés des limites",
+        "level": 2
+      },
+      {
+        "heading": "1.g. Limite des suites de référence",
+        "level": 3
+      },
+      {
+        "heading": "1.h. Limites d'une somme, d'un produit et d'un quotient",
+        "level": 4
+      },
+      {
+        "heading": "1.4. Limites et comparaisons",
+        "level": 2
+      },
+      {
+        "heading": "1.i. Théorème de comparaison",
+        "level": 3
+      },
+      {
+        "heading": "1.j. Théorème des gendarmes",
+        "level": 3
+      },
+      {
+        "heading": "1. 5. Suites géométriques et suites monotones",
+        "level": 2
+      },
+      {
+        "heading": "1.k. Limite d'une suite géométrique",
+        "level": 3
+      },
+      {
+        "heading": "1.l. Suite majorée, minorée, bornée",
+        "level": 3
+      },
+      {
+        "heading": "1.m. Convergence d'une suite monotone",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "+ Maths Terminale"
+      }
+    ]
+  },
+  {
+    "fileName": "Test Latex Mathjax 2",
+    "relativePath": "Archives/Test Latex Mathjax 2.md",
+    "headings": [
+      {
+        "heading": "Fonctions",
+        "level": 1
+      },
+      {
+        "heading": "Fonction paire",
+        "level": 2
+      },
+      {
+        "heading": "Fonction impaire",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "Serge-Honoré",
+    "relativePath": "Archives/Serge-Honoré.md",
+    "headings": [
+      {
+        "heading": "Serge-Honoré",
+        "level": 1
+      },
+      {
+        "heading": "Valeur future (VF)",
+        "level": 1
+      },
+      {
+        "heading": "Valeur actuelle (VA)",
+        "level": 1
+      },
+      {
+        "heading": "Calculatrice financière",
+        "level": 1
+      },
+      {
+        "heading": "Utiliser une calcultrice financière",
+        "level": 2
+      },
+      {
+        "heading": "Valeur d'un actif",
+        "level": 1
+      },
+      {
+        "heading": "Obligation",
+        "level": 1
+      },
+      {
+        "heading": "Obligation conventionnelle (Obligation sans amortissement)",
+        "level": 2
+      },
+      {
+        "heading": "Obligation zéro coupon",
+        "level": 2
+      },
+      {
+        "heading": "Valorisation d'une obligation conventionnelle",
+        "level": 2
+      },
+      {
+        "heading": "Valorisation d'une obligation zéro-coupon",
+        "level": 2
+      },
+      {
+        "heading": "Duration",
+        "level": 1
+      },
+      {
+        "heading": "Calculer la duration d'une obligation",
+        "level": 2
+      },
+      {
+        "heading": "Annales",
+        "level": 1
+      },
+      {
+        "heading": "2019",
+        "level": 2
+      },
+      {
+        "heading": "Question 32",
+        "level": 3
+      },
+      {
+        "heading": "Question 33",
+        "level": 3
+      },
+      {
+        "heading": "Question 34",
+        "level": 3
+      },
+      {
+        "heading": "Question 37",
+        "level": 3
+      },
+      {
+        "heading": "2020",
+        "level": 2
+      },
+      {
+        "heading": "Question 26",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Pack Top Finance",
+    "relativePath": "Archives/Pack Top Finance.md",
+    "headings": [
+      {
+        "heading": "Pack Top Finance",
+        "level": 1
+      },
+      {
+        "heading": "Estimations",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "OpenBoard Shortcuts",
+    "relativePath": "Archives/OpenBoard Shortcuts.md",
+    "headings": [
+      {
+        "heading": "OpenBoard Shortcuts",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Obsidian Shortcuts",
+    "relativePath": "Archives/Obsidian Shortcuts.md",
+    "headings": [
+      {
+        "heading": "Obsidian Shortcuts",
+        "level": 1
+      },
+      {
+        "heading": "🗒 Obsidian Shortcuts",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "Music – Clean",
+    "relativePath": "Archives/Music – Clean.md",
+    "headings": [
+      {
+        "heading": "Music – Clean",
+        "level": 1
+      },
+      {
+        "heading": "Tag Editor",
+        "level": 2
+      },
+      {
+        "heading": "Top Tag Editors",
+        "level": 3
+      },
+      {
+        "heading": "Reddit",
+        "level": 3
+      },
+      {
+        "heading": "Music Player",
+        "level": 2
+      },
+      {
+        "heading": "Reddit",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Maths Terminale – Programme 2020 (Hyperbole)",
+    "relativePath": "Archives/Maths Terminale – Programme 2020 (Hyperbole).md",
+    "headings": [
+      {
+        "heading": "Terminale (HB 2020)",
+        "level": 1
+      },
+      {
+        "heading": "Algèbre et Géométrie",
+        "level": 2
+      },
+      {
+        "heading": "Analyse",
+        "level": 2
+      },
+      {
+        "heading": "Probabilités",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "Firefox Shortcuts",
+    "relativePath": "Archives/Firefox Shortcuts.md",
+    "headings": [
+      {
+        "heading": "Firefox Shortcuts",
+        "level": 1
+      },
+      {
+        "heading": "🌍 Firefox Shortcuts",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "FX summary",
+    "relativePath": "Archives/FX summary.md",
+    "headings": [
+      {
+        "heading": "CFA 2 Economics – FX",
+        "level": 1
+      },
+      {
+        "heading": "Formulas",
+        "level": 2
+      },
+      {
+        "heading": "Profit Opportunities",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "Cross rates with bid-ask spread",
+    "relativePath": "Archives/Cross rates with bid-ask spread.md",
+    "headings": [
+      {
+        "heading": "Cross rates",
+        "level": 1
+      },
+      {
+        "heading": "Cross rates without bid-ask spread",
+        "level": 2
+      },
+      {
+        "heading": "Formula",
+        "level": 3
+      },
+      {
+        "heading": "If only $\\frac{B}{A}$ quote is available",
+        "level": 3
+      },
+      {
+        "heading": "If only $\\frac{C}{B}$ quote is available",
+        "level": 3
+      },
+      {
+        "heading": "Cross rates with bid-ask spread",
+        "level": 2
+      },
+      {
+        "heading": "Formula",
+        "level": 3
+      },
+      {
+        "heading": "If only $\\frac{B}{A}$ quote is available",
+        "level": 3
+      },
+      {
+        "heading": "If only $\\frac{C}{B}$ quote is available",
+        "level": 3
+      },
+      {
+        "heading": "Tips",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "Covered Interest Parity (CIP)",
+    "relativePath": "Archives/Covered Interest Parity (CIP).md",
+    "headings": [
+      {
+        "heading": "Covered Interest Parity (CIP)",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Covered Interest Rate Parity (UIP).excalidraw",
+        "relativePath": "Archives/_Excalidraw/Covered Interest Rate Parity (UIP).excalidraw.md"
+      }
+    ]
+  },
+  {
+    "fileName": "CFA2 – Economics examples",
+    "relativePath": "Archives/CFA2 – Economics examples.md",
+    "headings": [
+      {
+        "heading": "Examples",
+        "level": 1
+      },
+      {
+        "heading": "Converting currencies",
+        "level": 2
+      },
+      {
+        "heading": "Triangular arbitrage (+ Cross Rates)",
+        "level": 2
+      },
+      {
+        "heading": "Mark-to-market value of a forward contract",
+        "level": 2
+      },
+      {
+        "heading": "Covered interest arbitrage – CIP",
+        "level": 2
+      },
+      {
+        "heading": "Carry Trade",
+        "level": 2
+      },
+      {
+        "heading": "Forecasting spot rates – UIP and RPPP",
+        "level": 2
+      },
+      {
+        "heading": "Forecasting spot rates – UIP",
+        "level": 3
+      },
+      {
+        "heading": "Forecasting spot rates – Ex-ante relative PPP",
+        "level": 3
+      },
+      {
+        "heading": "International Fisher relation",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "CFA2 – Economics Readings",
+    "relativePath": "Archives/CFA2 – Economics Readings.md",
+    "frontmatter": {
+      "mindmap-plugin": "basic",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 29
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Readings",
+        "level": 1
+      },
+      {
+        "heading": "6. Currency Exchange Rates",
+        "level": 2
+      },
+      {
+        "heading": "6.1 FX Quotes – Spreads – Triangular Arbitrage",
+        "level": 3
+      },
+      {
+        "heading": "6.2 Mark-to-Market Value – Parity Conditions",
+        "level": 3
+      },
+      {
+        "heading": "6.3 Exchange Rates Determinants – Carry Trade",
+        "level": 3
+      },
+      {
+        "heading": "7. Economic Growth & Investment Decision",
+        "level": 2
+      },
+      {
+        "heading": "7.1 Growth Factors – Production Function",
+        "level": 3
+      },
+      {
+        "heading": "7.2 Growth Accounting – Influencing Factors",
+        "level": 3
+      },
+      {
+        "heading": "7.3 Growth and Convergence Theories",
+        "level": 3
+      },
+      {
+        "heading": "8. Economics of Regulation",
+        "level": 2
+      },
+      {
+        "heading": "8.1 Economics of Regulation",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "CFA2 – Economics Quicksheet",
+    "relativePath": "Archives/CFA2 – Economics Quicksheet.md",
+    "headings": [
+      {
+        "heading": "Récapitulatif",
+        "level": 1
+      },
+      {
+        "heading": "Weightings",
+        "level": 2
+      },
+      {
+        "heading": "Readings",
+        "level": 2
+      },
+      {
+        "heading": "Checklist",
+        "level": 2
+      },
+      {
+        "heading": "FX",
+        "level": 3
+      },
+      {
+        "heading": "Spot Rates",
+        "level": 4
+      },
+      {
+        "heading": "Convert Currency using Spot Rates",
+        "level": 5
+      },
+      {
+        "heading": "Calculate Cross Rates",
+        "level": 5
+      },
+      {
+        "heading": "Calculate Cross Rates Without Bid-Ask Spread",
+        "level": 6
+      },
+      {
+        "heading": "Calculate Cross Rates with Bid-Ask Spread",
+        "level": 6
+      },
+      {
+        "heading": "Calculate Profit from Triangular Arbitrage",
+        "level": 5
+      },
+      {
+        "heading": "Forward Rates",
+        "level": 4
+      },
+      {
+        "heading": "Calculate A Forward Quote",
+        "level": 5
+      },
+      {
+        "heading": "Calculate Value of a Forward Contract Prior to Maturity",
+        "level": 5
+      },
+      {
+        "heading": "Calculate Profit From Covered Interest Arbitrage",
+        "level": 5
+      },
+      {
+        "heading": "Forecast Spot Rates",
+        "level": 4
+      },
+      {
+        "heading": "Use Relative Purchasing Power Parity (Relative PPP)",
+        "level": 5
+      },
+      {
+        "heading": "Use Uncovered Interest Rate Parity (UIP)",
+        "level": 5
+      }
+    ],
+    "links": [
+      {
+        "link": "Uncovered Interest Parity (UIP)",
+        "relativePath": "Archives/Uncovered Interest Parity (UIP).md"
+      }
+    ]
+  },
+  {
+    "fileName": "CFA1 – Readings QM (2023)",
+    "relativePath": "Archives/CFA1 – Readings QM (2023).md",
+    "headings": [
+      {
+        "heading": "Readings QM 2023",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "CFA1 – Readings FSA (2023)",
+    "relativePath": "Archives/CFA1 – Readings FSA (2023).md",
+    "headings": [
+      {
+        "heading": "Readings FSA 2023",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "CFA1 – Readings ECO (2023)",
+    "relativePath": "Archives/CFA1 – Readings ECO (2023).md",
+    "headings": [
+      {
+        "heading": "Readings ECO 2023",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Archives",
+    "relativePath": "Archives/Archives.md"
+  },
+  {
+    "fileName": "208 XY",
+    "relativePath": "Archives/208 XY.md",
+    "headings": [
+      {
+        "heading": "208 XY",
+        "level": 1
+      },
+      {
+        "heading": "Head unit",
+        "level": 2
+      },
+      {
+        "heading": "Firmware and MCU update",
+        "level": 3
+      },
+      {
+        "heading": "Codes",
+        "level": 3
+      },
+      {
+        "heading": "Boot logo",
+        "level": 3
+      },
+      {
+        "heading": "Sound system",
+        "level": 2
+      },
+      {
+        "heading": "Avant",
+        "level": 3
+      },
+      {
+        "heading": "Arrière",
+        "level": 3
+      },
+      {
+        "heading": "Profondeur max",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "2022-09-20",
+    "relativePath": "Archives/2022-09-20.md",
+    "headings": [
+      {
+        "heading": "2022-09-20",
+        "level": 1
+      },
+      {
+        "heading": "Séances 1h30 : Debrief Examen",
+        "level": 2
+      },
+      {
+        "heading": "Séances 3h : Entraînement",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "pH",
+    "relativePath": "All notes/pH.md",
+    "tags": [
+      "physics",
+      "chimie"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 57
+        }
+      }
+    },
+    "aliases": [
+      "Potentiel Hydrogène"
+    ],
+    "headings": [
+      {
+        "heading": "pH",
+        "level": 1
+      },
+      {
+        "heading": "Acide",
+        "level": 2
+      },
+      {
+        "heading": "Neutre",
+        "level": 2
+      },
+      {
+        "heading": "Basique",
+        "level": 2
+      },
+      {
+        "heading": "Voir aussi",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Acide (pH)"
+      },
+      {
+        "link": "Neutre (pH)"
+      },
+      {
+        "link": "Basique (pH)"
+      }
+    ]
+  },
+  {
+    "fileName": "p-value",
+    "relativePath": "All notes/p-value.md",
+    "tags": [
+      "flashcards",
+      "definition"
+    ],
+    "frontmatter": {
+      "Tags": "Flashcards, Definition",
+      "Aliases": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 46
+        }
+      }
+    }
+  },
+  {
+    "fileName": "WTO",
+    "relativePath": "All notes/WTO.md",
+    "tags": [
+      "economics",
+      "geopolitics"
+    ],
+    "frontmatter": {
+      "see also": [
+        [
+          "General Agreements on Tariffs and Trade (GATT)|GATT"
+        ]
+      ],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 135
+        }
+      }
+    },
+    "aliases": [
+      "World Trade Organization"
+    ],
+    "headings": [
+      {
+        "heading": "WTO",
+        "level": 1
+      },
+      {
+        "heading": "WTO",
+        "level": 2
+      },
+      {
+        "heading": "GATT",
+        "level": 2
+      },
+      {
+        "heading": "1947: GATT",
+        "level": 2
+      },
+      {
+        "heading": "1995: WTO",
+        "level": 2
+      },
+      {
+        "heading": "2001: China",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Geneva",
+        "relativePath": "All notes/Geneva.md"
+      },
+      {
+        "link": "GATT",
+        "relativePath": "All notes/GATT.md"
+      },
+      {
+        "link": "WTO",
+        "relativePath": "All notes/WTO.md"
+      },
+      {
+        "link": "WTO",
+        "relativePath": "All notes/WTO.md"
+      },
+      {
+        "link": "Geopolitics",
+        "relativePath": "All notes/Geopolitics.md"
+      },
+      {
+        "link": "International Organisations"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Geopolitics",
+        "link": "WTO",
+        "relativePath": "All notes/Geopolitics.md"
+      },
+      {
+        "fileName": "Geneva",
+        "link": "WTO",
+        "relativePath": "All notes/Geneva.md"
+      },
+      {
+        "fileName": "GATT",
+        "link": "WTO",
+        "relativePath": "All notes/GATT.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Vasicek model",
+    "relativePath": "All notes/Vasicek model.md",
+    "backlinks": [
+      {
+        "fileName": "Arbitrage-Free Valuation Framework",
+        "link": "Vasicek model",
+        "relativePath": "All notes/Arbitrage-Free Valuation Framework.md"
+      },
+      {
+        "fileName": "Arbitrage-Free Valuation Framework",
+        "link": "Vasicek model",
+        "relativePath": "All notes/Arbitrage-Free Valuation Framework.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Value additivity",
+    "relativePath": "All notes/Value additivity.md",
+    "tags": [
+      "finance"
+    ],
+    "frontmatter": {
+      "Tags": "Finance",
+      "Aliases": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 30
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Value additivity",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Arbitrage opportunity",
+        "relativePath": "All notes/Arbitrage opportunity.md"
+      },
+      {
+        "link": "Dominance",
+        "relativePath": "All notes/Dominance.md"
+      },
+      {
+        "link": "Arbitrage opportunity",
+        "displayText": "arbitrage opportunity",
+        "relativePath": "All notes/Arbitrage opportunity.md"
+      },
+      {
+        "link": "Dominance",
+        "relativePath": "All notes/Dominance.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Dominance",
+        "link": "Value additivity",
+        "relativePath": "All notes/Dominance.md"
+      },
+      {
+        "fileName": "Dominance",
+        "link": "Value additivity",
+        "relativePath": "All notes/Dominance.md"
+      },
+      {
+        "fileName": "Arbitrage-Free Valuation Framework",
+        "link": "Value additivity",
+        "relativePath": "All notes/Arbitrage-Free Valuation Framework.md"
+      },
+      {
+        "fileName": "Arbitrage opportunity",
+        "link": "Value additivity",
+        "relativePath": "All notes/Arbitrage opportunity.md"
+      },
+      {
+        "fileName": "Arbitrage opportunity",
+        "link": "Value additivity",
+        "relativePath": "All notes/Arbitrage opportunity.md"
+      },
+      {
+        "fileName": "Arbitrage opportunity",
+        "link": "Value additivity",
+        "relativePath": "All notes/Arbitrage opportunity.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Valuation and Analysis of Bonds with Embedded Options",
+    "relativePath": "All notes/Valuation and Analysis of Bonds with Embedded Options.md",
+    "tags": [
+      "cfa",
+      "cfa2",
+      "fi",
+      "reading"
+    ],
+    "frontmatter": {
+      "Tags": "CFA, CFA2, FI, Reading",
+      "Aliases": "Bonds with embedded options",
+      "Level": "CFA Level 2",
+      "Topic": "Fixed Income",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 114
+        }
+      }
+    },
+    "aliases": [
+      "Bonds with embedded options"
+    ],
+    "headings": [
+      {
+        "heading": "Valuing embedded options",
+        "level": 2
+      },
+      {
+        "heading": "Embedded calls",
+        "level": 3
+      },
+      {
+        "heading": "Embedded puts",
+        "level": 3
+      },
+      {
+        "heading": "Volatility and embedded options",
+        "level": 3
+      },
+      {
+        "heading": "Level and shape of yield curve",
+        "level": 3
+      },
+      {
+        "heading": "Valuation of bonds with options",
+        "level": 3
+      },
+      {
+        "heading": "Option-adjusted spread (OAS)",
+        "level": 2
+      },
+      {
+        "heading": "Remarks",
+        "level": 3
+      },
+      {
+        "heading": "OAS and volatility",
+        "level": 3
+      },
+      {
+        "heading": "Effective Durations",
+        "level": 2
+      },
+      {
+        "heading": "One-sided durations",
+        "level": 2
+      },
+      {
+        "heading": "Key rate duration",
+        "level": 2
+      },
+      {
+        "heading": "Effective convexity",
+        "level": 2
+      },
+      {
+        "heading": "Convertible bond",
+        "level": 2
+      },
+      {
+        "heading": "Convertible bond valuation",
+        "level": 3
+      },
+      {
+        "heading": "Conversion ratio",
+        "level": 4
+      },
+      {
+        "heading": "Initial conversion price",
+        "level": 4
+      },
+      {
+        "heading": "Market conversion price",
+        "level": 4
+      },
+      {
+        "heading": "Conversion value",
+        "level": 4
+      },
+      {
+        "heading": "Straight value",
+        "level": 4
+      },
+      {
+        "heading": "Minimum value of a convertible bond",
+        "level": 4
+      },
+      {
+        "heading": "Market conversion premium",
+        "level": 4
+      },
+      {
+        "heading": "Maket conversion premium ratio",
+        "level": 4
+      },
+      {
+        "heading": "Premium over straight value",
+        "level": 4
+      },
+      {
+        "heading": "Callable convertible bond",
+        "level": 2
+      },
+      {
+        "heading": "Stocks vs Convertible bond",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "CFA 2 FI",
+        "relativePath": "All notes/CFA 2 FI.md"
+      },
+      {
+        "link": "CFA Program",
+        "relativePath": "CFA Program.md"
+      },
+      {
+        "link": "CFA Level 2",
+        "displayText": "Level 2",
+        "relativePath": "CFA Level 2.md"
+      },
+      {
+        "link": "CFA 2 FI",
+        "displayText": "Fixed Income",
+        "relativePath": "All notes/CFA 2 FI.md"
+      },
+      {
+        "link": "Valuation and Analysis of Bonds with Embedded Options",
+        "relativePath": "All notes/Valuation and Analysis of Bonds with Embedded Options.md"
+      },
+      {
+        "link": "Backward induction",
+        "displayText": "backward induction"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "2023-06-29",
+        "link": "Valuation and Analysis of Bonds with Embedded Options",
+        "relativePath": "Daily Notes/2023-06-29.md"
+      },
+      {
+        "fileName": "CFA 2 FI",
+        "link": "Valuation and Analysis of Bonds with Embedded Options",
+        "relativePath": "All notes/CFA 2 FI.md"
+      },
+      {
+        "fileName": "CFA 2 FI",
+        "link": "Valuation and Analysis of Bonds with Embedded Options",
+        "relativePath": "All notes/CFA 2 FI.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Ulteam Coaching",
+    "relativePath": "All notes/Ulteam Coaching.md",
+    "tags": [
+      "prospect"
+    ],
+    "frontmatter": {
+      "Tags": "Prospect",
+      "Aliases": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 32
+        }
+      }
+    },
+    "links": [
+      {
+        "link": "QVCT",
+        "relativePath": "All notes/QVCT.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Home",
+        "link": "Ulteam Coaching",
+        "relativePath": "Home.md"
+      },
+      {
+        "fileName": "2023-07-26",
+        "link": "Ulteam Coaching",
+        "relativePath": "Daily Notes/2023-07-26.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Triangular arbitrage",
+    "relativePath": "All notes/Triangular arbitrage.md",
+    "tags": [
+      "finance",
+      "cfa",
+      "cfa2"
+    ],
+    "frontmatter": {
+      "Tags": "Finance, CFA, CFA2",
+      "Aliases": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 41
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Definition",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Arbitrage opportunity",
+        "displayText": "arbitrage opportunity",
+        "relativePath": "All notes/Arbitrage opportunity.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Implied cross rates with bid-ask spread",
+        "link": "Triangular arbitrage",
+        "relativePath": "All notes/Implied cross rates with bid-ask spread.md",
+        "displayText": "triangular arbitrage"
+      }
+    ]
+  },
+  {
+    "fileName": "Top Finance",
+    "relativePath": "All notes/Top Finance.md",
+    "tags": [
+      "client"
+    ],
+    "frontmatter": {
+      "Tags": "Client",
+      "Aliases": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 30
+        }
+      }
+    },
+    "backlinks": [
+      {
+        "fileName": "Home",
+        "link": "Top Finance",
+        "relativePath": "Home.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Time-Series analysis",
+    "relativePath": "All notes/Time-Series analysis.md",
+    "tags": [
+      "cfa",
+      "cfa2",
+      "qm"
+    ],
+    "frontmatter": {
+      "Tags": "CFA, CFA2, QM",
+      "Aliases": null,
+      "Level": "CFA Level 2",
+      "Topic": "Quantitative Methods",
+      "Weight": "5-10%",
+      "Type": "Reading",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 7,
+          "col": 3,
+          "offset": 112
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Linear and log-linear trend models",
+        "level": 2
+      },
+      {
+        "heading": "Linear trend model",
+        "level": 3
+      },
+      {
+        "heading": "Log-linear trend models",
+        "level": 3
+      },
+      {
+        "heading": "Factors that determine which model is best",
+        "level": 3
+      },
+      {
+        "heading": "Limitations of trend models",
+        "level": 3
+      },
+      {
+        "heading": "Autoregressive (AR) models",
+        "level": 2
+      },
+      {
+        "heading": "Forecasting with an AR model",
+        "level": 3
+      },
+      {
+        "heading": "Autocorrelation and model fit",
+        "level": 3
+      },
+      {
+        "heading": "Random walks and unit roots",
+        "level": 2
+      },
+      {
+        "heading": "Unit root testing for nonstationarity",
+        "level": 3
+      },
+      {
+        "heading": "First differencing",
+        "level": 3
+      },
+      {
+        "heading": "Seasonality",
+        "level": 2
+      },
+      {
+        "heading": "Forecasting with an AR model with a seasonal lag",
+        "level": 3
+      },
+      {
+        "heading": "ARCH and multiple time series",
+        "level": 2
+      },
+      {
+        "heading": "Using ARCH models",
+        "level": 3
+      },
+      {
+        "heading": "Predicting the variance of a time series",
+        "level": 3
+      },
+      {
+        "heading": "Cointegration",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "CFA 2 QM",
+        "relativePath": "All notes/CFA 2 QM.md"
+      },
+      {
+        "link": "CFA 2 QM",
+        "relativePath": "All notes/CFA 2 QM.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "CFA 2 QM",
+        "link": "Time-Series analysis",
+        "relativePath": "All notes/CFA 2 QM.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Term Structure and Interest Rate Dynamics",
+    "relativePath": "All notes/Term Structure and Interest Rate Dynamics.md",
+    "tags": [
+      "cfa2",
+      "fi",
+      "reading"
+    ],
+    "frontmatter": {
+      "Tags": "CFA2, FI, Reading",
+      "Aliases": null,
+      "Level": "CFA Level 2",
+      "Topic": "Fixed Income",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 80
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Spot rate",
+        "level": 2
+      },
+      {
+        "heading": "Spot rate",
+        "level": 3
+      },
+      {
+        "heading": "Discount factor",
+        "level": 3
+      },
+      {
+        "heading": "Spot yield curve",
+        "level": 3
+      },
+      {
+        "heading": "Forward rates",
+        "level": 2
+      },
+      {
+        "heading": "Forward rate",
+        "level": 3
+      },
+      {
+        "heading": "Forward curve",
+        "level": 3
+      },
+      {
+        "heading": "Bond expected return",
+        "level": 2
+      },
+      {
+        "heading": "Forward pricing model",
+        "level": 2
+      },
+      {
+        "heading": "Forward pricing model",
+        "level": 3
+      },
+      {
+        "heading": "Forward rate model",
+        "level": 2
+      },
+      {
+        "heading": "Forward rate model",
+        "level": 3
+      },
+      {
+        "heading": "Par rates",
+        "level": 2
+      },
+      {
+        "heading": "Par rates",
+        "level": 3
+      },
+      {
+        "heading": "Bootstrapping spot rates",
+        "level": 2
+      },
+      {
+        "heading": "Spot and forward relationships",
+        "level": 2
+      },
+      {
+        "heading": "Rolling down the yield curve",
+        "level": 2
+      },
+      {
+        "heading": "Z-Spread",
+        "level": 2
+      },
+      {
+        "heading": "Shape of the yield curve",
+        "level": 2
+      },
+      {
+        "heading": "Unbiased / Pure expectations theory",
+        "level": 3
+      },
+      {
+        "heading": "Local expectations theory",
+        "level": 3
+      },
+      {
+        "heading": "Liquidity preference theory",
+        "level": 3
+      },
+      {
+        "heading": "Yield curve shifts",
+        "level": 2
+      },
+      {
+        "heading": "Parallel shifts",
+        "level": 3
+      },
+      {
+        "heading": "Nonparallel shift",
+        "level": 3
+      },
+      {
+        "heading": "Measuring yield curve sensitivity",
+        "level": 2
+      },
+      {
+        "heading": "Effective duration",
+        "level": 3
+      },
+      {
+        "heading": "Key rate duration",
+        "level": 3
+      },
+      {
+        "heading": "Sensitivity to parallel, steepness, curvature movements",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "CFA 2 FI",
+        "relativePath": "All notes/CFA 2 FI.md"
+      },
+      {
+        "link": "CFA Program",
+        "relativePath": "CFA Program.md"
+      },
+      {
+        "link": "CFA Level 2",
+        "displayText": "Level 2",
+        "relativePath": "CFA Level 2.md"
+      },
+      {
+        "link": "CFA 2 FI",
+        "displayText": "Fixed Income",
+        "relativePath": "All notes/CFA 2 FI.md"
+      },
+      {
+        "link": "Term Structure and Interest Rate Dynamics",
+        "relativePath": "All notes/Term Structure and Interest Rate Dynamics.md"
+      },
+      {
+        "link": "Currency forward",
+        "relativePath": "All notes/Currency forward.md"
+      },
+      {
+        "link": "Forward pricing model"
+      },
+      {
+        "link": "Bootstrapping",
+        "relativePath": "All notes/Bootstrapping.md"
+      },
+      {
+        "link": "Unbiased expectations theory"
+      },
+      {
+        "link": "Yield curve",
+        "displayText": "yield curve"
+      },
+      {
+        "link": "Asset-liability matching",
+        "displayText": "asset-liability matching"
+      },
+      {
+        "link": "Liquidity preference theory"
+      },
+      {
+        "link": "Effective duration"
+      },
+      {
+        "link": "Key rate duration"
+      },
+      {
+        "link": "Yield curve",
+        "displayText": "yield curve"
+      },
+      {
+        "link": "Key rate duration",
+        "displayText": "key rate duration"
+      },
+      {
+        "link": "Yield curve",
+        "displayText": "yield curve"
+      },
+      {
+        "link": "Forward rate – f(j,k).excalidraw",
+        "relativePath": "Attachments/Forward rate – f(j,k).excalidraw.md"
+      },
+      {
+        "link": "Forward rate – Example.excalidraw",
+        "relativePath": "Attachments/Forward rate – Example.excalidraw.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "2023-06-29",
+        "link": "Term Structure and Interest Rate Dynamics",
+        "relativePath": "Daily Notes/2023-06-29.md"
+      },
+      {
+        "fileName": "CFA 2 FI",
+        "link": "Term Structure and Interest Rate Dynamics",
+        "relativePath": "All notes/CFA 2 FI.md"
+      },
+      {
+        "fileName": "CFA 2 FI",
+        "link": "Term Structure and Interest Rate Dynamics",
+        "relativePath": "All notes/CFA 2 FI.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Taux horaire",
+    "relativePath": "All notes/Taux horaire.md",
+    "tags": [
+      "neoma",
+      "topfinance"
+    ],
+    "frontmatter": {
+      "Tags": "Neoma, TopFinance",
+      "Aliases": "Rémunération, Tarif horaire",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 68
+        }
+      }
+    },
+    "aliases": [
+      "Rémunération",
+      "Tarif horaire"
+    ],
+    "headings": [
+      {
+        "heading": "Neoma",
+        "level": 1
+      },
+      {
+        "heading": "Top Finance",
+        "level": 1
+      },
+      {
+        "heading": "Cours particuliers",
+        "level": 1
+      },
+      {
+        "heading": "Collège / Lycée",
+        "level": 2
+      },
+      {
+        "heading": "Post-Bac",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Sylvie Parmentier"
+      }
+    ]
+  },
+  {
+    "fileName": "Skewness",
+    "relativePath": "All notes/Skewness.md",
+    "backlinks": [
+      {
+        "fileName": "Multiple regression",
+        "link": "Skewness",
+        "relativePath": "All notes/Multiple regression.md",
+        "displayText": "skewness"
+      }
+    ]
+  },
+  {
+    "fileName": "Quantitative Methods",
+    "relativePath": "All notes/Quantitative Methods.md",
+    "tags": [
+      "cfa",
+      "qm",
+      "topic"
+    ],
+    "frontmatter": {
+      "Tags": "CFA, QM, Topic",
+      "Aliases": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 38
+        }
+      }
+    },
+    "links": [
+      {
+        "link": "CFA Program",
+        "relativePath": "CFA Program.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "CFA Program",
+        "link": "Quantitative Methods",
+        "relativePath": "CFA Program.md"
+      },
+      {
+        "fileName": "CFA Program",
+        "link": "Quantitative Methods",
+        "relativePath": "CFA Program.md"
+      }
+    ]
+  },
+  {
+    "fileName": "QVCT",
+    "relativePath": "All notes/QVCT.md",
+    "tags": [
+      "definition"
+    ],
+    "frontmatter": {
+      "Tags": "Definition",
+      "Aliases": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 34
+        }
+      }
+    },
+    "backlinks": [
+      {
+        "fileName": "2023-07-26",
+        "link": "QVCT",
+        "relativePath": "Daily Notes/2023-07-26.md"
+      },
+      {
+        "fileName": "Ulteam Coaching",
+        "link": "QVCT",
+        "relativePath": "All notes/Ulteam Coaching.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Portfolio Management",
+    "relativePath": "All notes/Portfolio Management.md",
+    "tags": [
+      "cfa",
+      "pm",
+      "topic"
+    ],
+    "frontmatter": {
+      "Tags": "CFA, PM, Topic",
+      "Aliases": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 38
+        }
+      }
+    },
+    "links": [
+      {
+        "link": "CFA Program",
+        "relativePath": "CFA Program.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "CFA Program",
+        "link": "Portfolio Management",
+        "relativePath": "CFA Program.md"
+      },
+      {
+        "fileName": "CFA Program",
+        "link": "Portfolio Management",
+        "relativePath": "CFA Program.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Planning",
+    "relativePath": "All notes/Planning.md",
+    "tags": [
+      "calendar",
+      "neoma",
+      "topfinance"
+    ],
+    "frontmatter": {
+      "Tags": "Calendar, Neoma, TopFinance",
+      "Aliases": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 52
+        }
+      }
+    },
+    "links": [
+      {
+        "link": "Planning Neoma",
+        "relativePath": "All notes/Planning Neoma.md"
+      },
+      {
+        "link": "Planning Top Finance",
+        "relativePath": "All notes/Planning Top Finance.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Planning Top Finance",
+    "relativePath": "All notes/Planning Top Finance.md",
+    "tags": [
+      "topfinance",
+      "calendar"
+    ],
+    "frontmatter": {
+      "Tags": "TopFinance, Calendar",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 35
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Planning Top Finance",
+        "level": 2
+      },
+      {
+        "heading": "Juin",
+        "level": 3
+      },
+      {
+        "heading": "Juillet",
+        "level": 3
+      },
+      {
+        "heading": "Septembre",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "2023-06-08",
+        "displayText": "",
+        "relativePath": "Daily Notes/2023-06-08.md"
+      },
+      {
+        "link": "2023-06-29.md",
+        "displayText": "",
+        "relativePath": "Daily Notes/2023-06-29.md"
+      },
+      {
+        "link": "2023-07-06",
+        "displayText": "",
+        "relativePath": "Daily Notes/2023-07-06.md"
+      },
+      {
+        "link": "2023-09-05",
+        "displayText": ""
+      },
+      {
+        "link": "2023-09-07",
+        "displayText": ""
+      },
+      {
+        "link": "2023-09-12",
+        "displayText": ""
+      },
+      {
+        "link": "2023-09-16",
+        "displayText": ""
+      },
+      {
+        "link": "2023-09-19",
+        "displayText": ""
+      },
+      {
+        "link": "2023-09-21",
+        "displayText": ""
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "2023-06-28",
+        "link": "Planning Top Finance",
+        "relativePath": "Daily Notes/2023-06-28.md"
+      },
+      {
+        "fileName": "Planning",
+        "link": "Planning Top Finance",
+        "relativePath": "All notes/Planning.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Planning Neoma",
+    "relativePath": "All notes/Planning Neoma.md",
+    "tags": [
+      "neoma",
+      "calendar"
+    ],
+    "frontmatter": {
+      "Tags": "Neoma, Calendar",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 30
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Planning Neoma",
+        "level": 2
+      },
+      {
+        "heading": "Mock Training (S1 à S4)",
+        "level": 3
+      },
+      {
+        "heading": "Septembre",
+        "level": 4
+      },
+      {
+        "heading": "Octobre",
+        "level": 4
+      },
+      {
+        "heading": "Novembre",
+        "level": 4
+      },
+      {
+        "heading": "Décembre",
+        "level": 4
+      },
+      {
+        "heading": "Equity (S2)",
+        "level": 3
+      },
+      {
+        "heading": "Octobre",
+        "level": 4
+      },
+      {
+        "heading": "Portfolio (S3)",
+        "level": 3
+      },
+      {
+        "heading": "Novembre",
+        "level": 4
+      }
+    ],
+    "links": [
+      {
+        "link": "2023-09-29.md",
+        "displayText": ""
+      },
+      {
+        "link": "2023-10-02",
+        "displayText": ""
+      },
+      {
+        "link": "2023-10-27",
+        "displayText": ""
+      },
+      {
+        "link": "2023-11-06",
+        "displayText": ""
+      },
+      {
+        "link": "2023-11-24",
+        "displayText": ""
+      },
+      {
+        "link": "2023-11-27",
+        "displayText": ""
+      },
+      {
+        "link": "2023-12-15",
+        "displayText": ""
+      },
+      {
+        "link": "2023-10-09",
+        "displayText": ""
+      },
+      {
+        "link": "2023-03-10",
+        "displayText": ""
+      },
+      {
+        "link": "2023-10-23.md",
+        "displayText": ""
+      },
+      {
+        "link": "2023-03-24",
+        "displayText": ""
+      },
+      {
+        "link": "2023-10-25",
+        "displayText": ""
+      },
+      {
+        "link": "2023-11-17",
+        "displayText": ""
+      },
+      {
+        "link": "2023-11-20",
+        "displayText": ""
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "2023-06-28",
+        "link": "Planning Neoma",
+        "relativePath": "Daily Notes/2023-06-28.md"
+      },
+      {
+        "fileName": "Planning",
+        "link": "Planning Neoma",
+        "relativePath": "All notes/Planning.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Offres",
+    "relativePath": "All notes/Offres.md",
+    "headings": [
+      {
+        "heading": "Offres",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Neoma Business School",
+    "relativePath": "All notes/Neoma Business School.md",
+    "tags": [
+      "client"
+    ],
+    "frontmatter": {
+      "Tags": "Client",
+      "Aliases": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 30
+        }
+      }
+    },
+    "backlinks": [
+      {
+        "fileName": "Home",
+        "link": "Neoma Business School",
+        "relativePath": "Home.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Multiple regression",
+    "relativePath": "All notes/Multiple regression.md",
+    "tags": [
+      "cfa",
+      "cfa2",
+      "qm"
+    ],
+    "frontmatter": {
+      "Tags": "CFA, CFA2, QM",
+      "Aliases": null,
+      "Level": "CFA Level 2",
+      "Topic": "Quantitative Methods",
+      "Weight": "5-10%",
+      "Type": "Reading",
+      "Status": "WIP",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 8,
+          "col": 3,
+          "offset": 124
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Basics of multiple regression and underlying assumptions",
+        "level": 2
+      },
+      {
+        "heading": "Multiple regression Basics",
+        "level": 3
+      },
+      {
+        "heading": "Formulating the multiple regression equation",
+        "level": 3
+      },
+      {
+        "heading": "Interpreting the multiple regression results",
+        "level": 3
+      },
+      {
+        "heading": "Evaluation regression model fit and interpreting model results",
+        "level": 2
+      },
+      {
+        "heading": "ANOVA Tables",
+        "level": 3
+      },
+      {
+        "heading": "Coefficient of determination (R²)",
+        "level": 3
+      },
+      {
+        "heading": "Adjusted R²",
+        "level": 4
+      },
+      {
+        "heading": "Predicting the dependent variable",
+        "level": 3
+      },
+      {
+        "heading": "Model specification",
+        "level": 2
+      },
+      {
+        "heading": "Model specification",
+        "level": 3
+      },
+      {
+        "heading": "Examples of misspecification of functional form",
+        "level": 3
+      },
+      {
+        "heading": "Misspecification 1 — Omitting a variable",
+        "level": 4
+      },
+      {
+        "heading": "Misspecification 2 — Variable should be transformed",
+        "level": 4
+      },
+      {
+        "heading": "Misspecification 3 — Inappropriate scaling of the variable",
+        "level": 4
+      },
+      {
+        "heading": "Misspecification 4 — Incorrectly pooling data",
+        "level": 4
+      },
+      {
+        "heading": "Violations of regression assumptions",
+        "level": 3
+      },
+      {
+        "heading": "Heteroskedasticity",
+        "level": 3
+      },
+      {
+        "heading": "Effects on regression analysis",
+        "level": 4
+      },
+      {
+        "heading": "Detecting",
+        "level": 4
+      },
+      {
+        "heading": "Correcting",
+        "level": 4
+      },
+      {
+        "heading": "Serial correlation (Autocorrelation)",
+        "level": 3
+      },
+      {
+        "heading": "Effects on model parameters",
+        "level": 4
+      },
+      {
+        "heading": "Effects on standard errors",
+        "level": 4
+      },
+      {
+        "heading": "Detecting",
+        "level": 4
+      },
+      {
+        "heading": "Correcting",
+        "level": 4
+      },
+      {
+        "heading": "Multicolinearity",
+        "level": 3
+      },
+      {
+        "heading": "Effects on model parameters",
+        "level": 4
+      },
+      {
+        "heading": "Effects on standard errors",
+        "level": 4
+      },
+      {
+        "heading": "Detecting",
+        "level": 4
+      },
+      {
+        "heading": "Correcting",
+        "level": 4
+      },
+      {
+        "heading": "Extension of model regression",
+        "level": 2
+      },
+      {
+        "heading": "Detecting influential datapoints",
+        "level": 3
+      },
+      {
+        "heading": "Interpreting the coefficients in a dummy variable regression",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "CFA 2 QM",
+        "relativePath": "All notes/CFA 2 QM.md"
+      },
+      {
+        "link": "CFA 1 QM",
+        "relativePath": "All notes/CFA 1 QM.md"
+      },
+      {
+        "link": "CFA 2 QM",
+        "relativePath": "All notes/CFA 2 QM.md"
+      },
+      {
+        "link": "Multiple linear regression"
+      },
+      {
+        "link": "Heteroskedasticity",
+        "relativePath": "All notes/Heteroskedasticity.md"
+      },
+      {
+        "link": "Serial correlation"
+      },
+      {
+        "link": "Multicolinearity"
+      },
+      {
+        "link": "Multiple linear regression"
+      },
+      {
+        "link": "Skewness",
+        "displayText": "skewness",
+        "relativePath": "All notes/Skewness.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "CFA 2 QM",
+        "link": "Multiple regression",
+        "relativePath": "All notes/CFA 2 QM.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Matelas",
+    "relativePath": "All notes/Matelas.md",
+    "headings": [
+      {
+        "heading": "Matelas",
+        "level": 1
+      },
+      {
+        "heading": "Couette",
+        "level": 1
+      },
+      {
+        "heading": "Oreillers",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Machine Learning",
+    "relativePath": "All notes/Machine Learning.md",
+    "tags": [
+      "cfa",
+      "cfa2",
+      "qm"
+    ],
+    "frontmatter": {
+      "Tags": "CFA, CFA2, QM",
+      "Aliases": null,
+      "Level": "CFA Level 2",
+      "Topic": "Quantitative Methods",
+      "Weight": "5-10%",
+      "Type": "Reading",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 7,
+          "col": 3,
+          "offset": 112
+        }
+      }
+    },
+    "links": [
+      {
+        "link": "CFA 2 QM",
+        "relativePath": "All notes/CFA 2 QM.md"
+      },
+      {
+        "link": "CFA 2 QM",
+        "relativePath": "All notes/CFA 2 QM.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "CFA 2 QM",
+        "link": "Machine Learning",
+        "relativePath": "All notes/CFA 2 QM.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Liste de courses",
+    "relativePath": "All notes/Liste de courses.md",
+    "headings": [
+      {
+        "heading": "Liste de courses",
+        "level": 1
+      },
+      {
+        "heading": "Boissons",
+        "level": 2
+      },
+      {
+        "heading": "Viande",
+        "level": 2
+      },
+      {
+        "heading": "Fruits et légumes",
+        "level": 2
+      },
+      {
+        "heading": "Desserts",
+        "level": 2
+      },
+      {
+        "heading": "Produits sec",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "Italie 2023",
+    "relativePath": "All notes/Italie 2023.md",
+    "tags": [
+      "map"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 17
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "📆 Mercredi 10 août",
+        "level": 2
+      },
+      {
+        "heading": "📆 Samedi 12 août",
+        "level": 2
+      },
+      {
+        "heading": "📆 Dimanche 13 août",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "Implied cross rates with bid-ask spread",
+    "relativePath": "All notes/Implied cross rates with bid-ask spread.md",
+    "tags": [
+      "cfa2",
+      "eco"
+    ],
+    "frontmatter": {
+      "Tags": "CFA2, ECO",
+      "Aliases": null,
+      "Level": "CFA Level 2",
+      "Topic": "Economics",
+      "Subject": "Atomic Note",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 6,
+          "col": 3,
+          "offset": 89
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Definition",
+        "level": 2
+      },
+      {
+        "heading": "Usage",
+        "level": 2
+      },
+      {
+        "heading": "Without bid-ask spread",
+        "level": 3
+      },
+      {
+        "heading": "With bid-ask spread",
+        "level": 3
+      },
+      {
+        "heading": "Questions",
+        "level": 2
+      },
+      {
+        "heading": "Links",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Triangular arbitrage",
+        "displayText": "triangular arbitrage",
+        "relativePath": "All notes/Triangular arbitrage.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Heteroskedasticity",
+    "relativePath": "All notes/Heteroskedasticity.md",
+    "backlinks": [
+      {
+        "fileName": "Multiple regression",
+        "link": "Heteroskedasticity",
+        "relativePath": "All notes/Multiple regression.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Geopolitics",
+    "relativePath": "All notes/Geopolitics.md",
+    "tags": [
+      "moc"
+    ],
+    "frontmatter": {
+      "Tags": "MOC",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 18
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "International Organisations",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "GATT",
+        "relativePath": "All notes/GATT.md"
+      },
+      {
+        "link": "WTO",
+        "relativePath": "All notes/WTO.md"
+      },
+      {
+        "link": "UN"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "WTO",
+        "link": "Geopolitics",
+        "relativePath": "All notes/WTO.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Geneva",
+    "relativePath": "All notes/Geneva.md",
+    "frontmatter": {
+      "Tags": null,
+      "Aliases": "Genève",
+      "Created": "2023-06-18 02:59",
+      "position": {
+        "start": {
+          "line": 1,
+          "col": 0,
+          "offset": 1
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 64
+        }
+      }
+    },
+    "aliases": [
+      "Genève"
+    ],
+    "headings": [
+      {
+        "heading": "Geneva",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Switzerland"
+      },
+      {
+        "link": "WTO",
+        "relativePath": "All notes/WTO.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "WTO",
+        "link": "Geneva",
+        "relativePath": "All notes/WTO.md"
+      }
+    ]
+  },
+  {
+    "fileName": "GATT",
+    "relativePath": "All notes/GATT.md",
+    "headings": [
+      {
+        "heading": "GATT",
+        "level": 1
+      },
+      {
+        "heading": "GATT",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "WTO",
+        "relativePath": "All notes/WTO.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "WTO",
+        "link": "GATT",
+        "relativePath": "All notes/WTO.md"
+      },
+      {
+        "fileName": "Geopolitics",
+        "link": "GATT",
+        "relativePath": "All notes/Geopolitics.md"
+      }
+    ]
+  },
+  {
+    "fileName": "FromSergio",
+    "relativePath": "All notes/FromSergio.md",
+    "headings": [
+      {
+        "heading": "FromSergio",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Flashcards — Test",
+    "relativePath": "All notes/Flashcards — Test.md",
+    "tags": [
+      "flashcards"
+    ],
+    "frontmatter": {
+      "Tags": "Flashcards",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 26
+        }
+      }
+    }
+  },
+  {
+    "fileName": "Fixed Income",
+    "relativePath": "All notes/Fixed Income.md",
+    "tags": [
+      "cfa",
+      "fi",
+      "topic"
+    ],
+    "frontmatter": {
+      "Tags": "CFA, FI, Topic",
+      "Aliases": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 38
+        }
+      }
+    },
+    "links": [
+      {
+        "link": "CFA Program",
+        "relativePath": "CFA Program.md"
+      },
+      {
+        "link": "CFA 1 FI",
+        "relativePath": "All notes/CFA 1 FI.md"
+      },
+      {
+        "link": "CFA 2 FI",
+        "relativePath": "All notes/CFA 2 FI.md"
+      },
+      {
+        "link": "CFA 3 FI",
+        "relativePath": "All notes/CFA 3 FI.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "CFA Program",
+        "link": "Fixed Income",
+        "relativePath": "CFA Program.md"
+      },
+      {
+        "fileName": "CFA Program",
+        "link": "Fixed Income",
+        "relativePath": "CFA Program.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Financial Statements Analysis",
+    "relativePath": "All notes/Financial Statements Analysis.md",
+    "tags": [
+      "cfa",
+      "fsa",
+      "topic"
+    ],
+    "frontmatter": {
+      "Tags": "CFA, FSA, Topic",
+      "Aliases": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 39
+        }
+      }
+    },
+    "links": [
+      {
+        "link": "CFA Program",
+        "relativePath": "CFA Program.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "CFA Program",
+        "link": "Financial Statements Analysis",
+        "relativePath": "CFA Program.md"
+      },
+      {
+        "fileName": "CFA Program",
+        "link": "Financial Statements Analysis",
+        "relativePath": "CFA Program.md"
+      }
+    ]
+  },
+  {
+    "fileName": "F1 2023",
+    "relativePath": "All notes/F1 2023.md",
+    "links": [
+      {
+        "link": "Canadian GP 2023",
+        "relativePath": "All notes/Canadian GP 2023.md"
+      },
+      {
+        "link": "Austrian GP 2023",
+        "relativePath": "All notes/Austrian GP 2023.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Ethical and Professional Standards",
+    "relativePath": "All notes/Ethical and Professional Standards.md",
+    "tags": [
+      "cfa",
+      "eth",
+      "topic"
+    ],
+    "frontmatter": {
+      "Tags": "CFA, ETH, Topic",
+      "Aliases": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 39
+        }
+      }
+    },
+    "links": [
+      {
+        "link": "CFA Program",
+        "relativePath": "CFA Program.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "CFA Program",
+        "link": "Ethical and Professional Standards",
+        "relativePath": "CFA Program.md"
+      },
+      {
+        "fileName": "CFA Program",
+        "link": "Ethical and Professional Standards",
+        "relativePath": "CFA Program.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Equity Investments",
+    "relativePath": "All notes/Equity Investments.md",
+    "headings": [
+      {
+        "heading": "Equity Investments",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "CFA Program",
+        "relativePath": "CFA Program.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "CFA Program",
+        "link": "Equity Investments",
+        "relativePath": "CFA Program.md"
+      },
+      {
+        "fileName": "CFA Program",
+        "link": "Equity Investments",
+        "relativePath": "CFA Program.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Edwin Samie",
+    "relativePath": "All notes/Edwin Samie.md",
+    "links": [
+      {
+        "link": "2023-07-26",
+        "relativePath": "Daily Notes/2023-07-26.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "2023-07-26",
+        "link": "Edwin Samie",
+        "relativePath": "Daily Notes/2023-07-26.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Economics",
+    "relativePath": "All notes/Economics.md",
+    "tags": [
+      "cfa",
+      "eco",
+      "topic"
+    ],
+    "frontmatter": {
+      "Tags": "CFA, ECO, Topic",
+      "Aliases": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 39
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "CFA Level 1",
+        "level": 1
+      },
+      {
+        "heading": "CFA Level 2",
+        "level": 1
+      },
+      {
+        "heading": "CFA Level 3",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "CFA Program",
+        "relativePath": "CFA Program.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "CFA Program",
+        "link": "Economics",
+        "relativePath": "CFA Program.md"
+      },
+      {
+        "fileName": "CFA Program",
+        "link": "Economics",
+        "relativePath": "CFA Program.md"
+      },
+      {
+        "fileName": "Currency forward",
+        "link": "Economics",
+        "relativePath": "All notes/Currency forward.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Dominance",
+    "relativePath": "All notes/Dominance.md",
+    "tags": [
+      "finance"
+    ],
+    "frontmatter": {
+      "Tags": "Finance",
+      "Aliases": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 30
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Dominance",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Arbitrage opportunity",
+        "relativePath": "All notes/Arbitrage opportunity.md"
+      },
+      {
+        "link": "Value additivity",
+        "relativePath": "All notes/Value additivity.md"
+      },
+      {
+        "link": "Arbitrage opportunity",
+        "displayText": "arbitrage opportunity",
+        "relativePath": "All notes/Arbitrage opportunity.md"
+      },
+      {
+        "link": "Value additivity",
+        "relativePath": "All notes/Value additivity.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Value additivity",
+        "link": "Dominance",
+        "relativePath": "All notes/Value additivity.md"
+      },
+      {
+        "fileName": "Value additivity",
+        "link": "Dominance",
+        "relativePath": "All notes/Value additivity.md"
+      },
+      {
+        "fileName": "Arbitrage-Free Valuation Framework",
+        "link": "Dominance",
+        "relativePath": "All notes/Arbitrage-Free Valuation Framework.md"
+      },
+      {
+        "fileName": "Arbitrage opportunity",
+        "link": "Dominance",
+        "relativePath": "All notes/Arbitrage opportunity.md"
+      },
+      {
+        "fileName": "Arbitrage opportunity",
+        "link": "Dominance",
+        "relativePath": "All notes/Arbitrage opportunity.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Derivatives",
+    "relativePath": "All notes/Derivatives.md",
+    "tags": [
+      "cfa",
+      "der",
+      "topic"
+    ],
+    "frontmatter": {
+      "Tags": "CFA, DER, Topic",
+      "Aliases": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 39
+        }
+      }
+    },
+    "links": [
+      {
+        "link": "CFA Program",
+        "relativePath": "CFA Program.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "CFA Program",
+        "link": "Derivatives",
+        "relativePath": "CFA Program.md"
+      },
+      {
+        "fileName": "CFA Program",
+        "link": "Derivatives",
+        "relativePath": "CFA Program.md"
+      },
+      {
+        "fileName": "Currency forward",
+        "link": "Derivatives",
+        "relativePath": "All notes/Currency forward.md",
+        "displayText": "derivative"
+      }
+    ]
+  },
+  {
+    "fileName": "Currency forward",
+    "relativePath": "All notes/Currency forward.md",
+    "tags": [
+      "cfa2",
+      "eco"
+    ],
+    "frontmatter": {
+      "Tags": "CFA2, ECO",
+      "Aliases": "No-Arbitrage Forward Price",
+      "Level": "CFA Level 2",
+      "Topic": "Economics",
+      "Subject": "FX",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 6,
+          "col": 3,
+          "offset": 107
+        }
+      }
+    },
+    "aliases": [
+      "No-Arbitrage Forward Price"
+    ],
+    "headings": [
+      {
+        "heading": "No-Arbitrage Forward Price",
+        "level": 1
+      },
+      {
+        "heading": "Formula",
+        "level": 2
+      },
+      {
+        "heading": "Explanation",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Economics",
+        "relativePath": "All notes/Economics.md"
+      },
+      {
+        "link": "Derivatives",
+        "displayText": "derivative",
+        "relativePath": "All notes/Derivatives.md"
+      },
+      {
+        "link": "Covered Interest Rate Parity",
+        "relativePath": "All notes/Covered Interest Rate Parity.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Term Structure and Interest Rate Dynamics",
+        "link": "Currency forward",
+        "relativePath": "All notes/Term Structure and Interest Rate Dynamics.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Currency Exchange Rate – Understanding Equilibrium Value",
+    "relativePath": "All notes/Currency Exchange Rate – Understanding Equilibrium Value.md",
+    "tags": [
+      "cfa",
+      "cfa2",
+      "eco"
+    ],
+    "frontmatter": {
+      "Tags": "CFA, CFA2, ECO",
+      "Aliases": null,
+      "Level": "CFA Level 2",
+      "Topic": "Economics",
+      "Type": "Reading",
+      "Status": "WIP",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 7,
+          "col": 3,
+          "offset": 100
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Quote System",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "CFA 2 ECO",
+        "relativePath": "All notes/CFA 2 ECO.md"
+      },
+      {
+        "link": "CFA 2 ECO",
+        "relativePath": "All notes/CFA 2 ECO.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "CFA 2 ECO",
+        "link": "Currency Exchange Rate – Understanding Equilibrium Value",
+        "relativePath": "All notes/CFA 2 ECO.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Credit Default Swaps",
+    "relativePath": "All notes/Credit Default Swaps.md",
+    "tags": [
+      "cfa",
+      "cfa2",
+      "fi",
+      "reading"
+    ],
+    "frontmatter": {
+      "Tags": "CFA, CFA2, FI, Reading",
+      "Aliases": "CDS",
+      "Level": "CFA Level 2",
+      "Topic": "Fixed Income",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 88
+        }
+      }
+    },
+    "aliases": [
+      "CDS"
+    ],
+    "headings": [
+      {
+        "heading": "Credit default swap (CDS)",
+        "level": 2
+      },
+      {
+        "heading": "How it works",
+        "level": 3
+      },
+      {
+        "heading": "Uses",
+        "level": 3
+      },
+      {
+        "heading": "Types",
+        "level": 3
+      },
+      {
+        "heading": "Single-name CDS",
+        "level": 4
+      },
+      {
+        "heading": "Index CDS",
+        "level": 4
+      },
+      {
+        "heading": "CDS Spread",
+        "level": 3
+      },
+      {
+        "heading": "Probability of default",
+        "level": 4
+      },
+      {
+        "heading": "Conditional probability of default (Hazard rate)",
+        "level": 4
+      },
+      {
+        "heading": "Loss given default",
+        "level": 4
+      },
+      {
+        "heading": "Upfront payment",
+        "level": 3
+      },
+      {
+        "heading": "Upfront payment",
+        "level": 4
+      },
+      {
+        "heading": "Upfront premium %",
+        "level": 4
+      },
+      {
+        "heading": "Price of CDS",
+        "level": 4
+      },
+      {
+        "heading": "Profit on CDS ater inception",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "CFA 2 FI",
+        "relativePath": "All notes/CFA 2 FI.md"
+      },
+      {
+        "link": "CFA Program",
+        "relativePath": "CFA Program.md"
+      },
+      {
+        "link": "CFA Level 2",
+        "displayText": "Level 2",
+        "relativePath": "CFA Level 2.md"
+      },
+      {
+        "link": "CFA 2 FI",
+        "displayText": "Fixed Income",
+        "relativePath": "All notes/CFA 2 FI.md"
+      },
+      {
+        "link": "Credit Default Swaps",
+        "relativePath": "All notes/Credit Default Swaps.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "2023-07-06",
+        "link": "Credit Default Swaps",
+        "relativePath": "Daily Notes/2023-07-06.md"
+      },
+      {
+        "fileName": "2023-06-29",
+        "link": "Credit Default Swaps",
+        "relativePath": "Daily Notes/2023-06-29.md"
+      },
+      {
+        "fileName": "CFA 2 FI",
+        "link": "Credit Default Swaps",
+        "relativePath": "All notes/CFA 2 FI.md"
+      },
+      {
+        "fileName": "CFA 2 FI",
+        "link": "Credit Default Swaps",
+        "relativePath": "All notes/CFA 2 FI.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Credit Analysis Models",
+    "relativePath": "All notes/Credit Analysis Models.md",
+    "tags": [
+      "cfa",
+      "cfa2",
+      "fi",
+      "reading"
+    ],
+    "frontmatter": {
+      "Tags": "CFA, CFA2, FI, Reading",
+      "Aliases": null,
+      "Level": "CFA Level 2",
+      "Topic": "Fixed Income",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 84
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Credit risk measures",
+        "level": 2
+      },
+      {
+        "heading": "Exposure at default (EAD)",
+        "level": 3
+      },
+      {
+        "heading": "Recovery rate / Loss severity",
+        "level": 3
+      },
+      {
+        "heading": "Loss given default (LGD)",
+        "level": 3
+      },
+      {
+        "heading": "Hazard rate (HR)",
+        "level": 3
+      },
+      {
+        "heading": "Probability of survival (POS)",
+        "level": 3
+      },
+      {
+        "heading": "Probability of default (POD)",
+        "level": 3
+      },
+      {
+        "heading": "Credit valuation adjustment (CVA)",
+        "level": 2
+      },
+      {
+        "heading": "Expected loss",
+        "level": 3
+      },
+      {
+        "heading": "Credit value adjustment (CVA)",
+        "level": 3
+      },
+      {
+        "heading": "Risk-neutral probability of default",
+        "level": 2
+      },
+      {
+        "heading": "Credit scoring and rating",
+        "level": 2
+      },
+      {
+        "heading": "Credit scoring",
+        "level": 3
+      },
+      {
+        "heading": "Credit ratings",
+        "level": 3
+      },
+      {
+        "heading": "FICO score",
+        "level": 3
+      },
+      {
+        "heading": "Notching",
+        "level": 3
+      },
+      {
+        "heading": "Structural models",
+        "level": 2
+      },
+      {
+        "heading": "👍 Strengths",
+        "level": 3
+      },
+      {
+        "heading": "👎 Weaknesses",
+        "level": 3
+      },
+      {
+        "heading": "Value of stock",
+        "level": 3
+      },
+      {
+        "heading": "Value of debt",
+        "level": 3
+      },
+      {
+        "heading": "Value of risky debt",
+        "level": 3
+      },
+      {
+        "heading": "Value of debt at maturity",
+        "level": 3
+      },
+      {
+        "heading": "No default",
+        "level": 4
+      },
+      {
+        "heading": "Default",
+        "level": 4
+      },
+      {
+        "heading": "Probability of default",
+        "level": 3
+      },
+      {
+        "heading": "Reduced form models",
+        "level": 2
+      },
+      {
+        "heading": "👍 Strength",
+        "level": 3
+      },
+      {
+        "heading": "👎 Weaknesses",
+        "level": 3
+      },
+      {
+        "heading": "Credit spread analysis",
+        "level": 2
+      },
+      {
+        "heading": "Credit spread",
+        "level": 3
+      },
+      {
+        "heading": "Binomial tree",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "CFA 2 FI",
+        "relativePath": "All notes/CFA 2 FI.md"
+      },
+      {
+        "link": "CFA Program",
+        "relativePath": "CFA Program.md"
+      },
+      {
+        "link": "CFA Level 2",
+        "displayText": "Level 2",
+        "relativePath": "CFA Level 2.md"
+      },
+      {
+        "link": "CFA 2 FI",
+        "displayText": "Fixed Income",
+        "relativePath": "All notes/CFA 2 FI.md"
+      },
+      {
+        "link": "Credit Analysis Models",
+        "relativePath": "All notes/Credit Analysis Models.md"
+      },
+      {
+        "link": "Asset-backed securities"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "2023-06-29",
+        "link": "Credit Analysis Models",
+        "relativePath": "Daily Notes/2023-06-29.md"
+      },
+      {
+        "fileName": "CFA 2 FI",
+        "link": "Credit Analysis Models",
+        "relativePath": "All notes/CFA 2 FI.md"
+      },
+      {
+        "fileName": "CFA 2 FI",
+        "link": "Credit Analysis Models",
+        "relativePath": "All notes/CFA 2 FI.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Covered Interest Rate Parity",
+    "relativePath": "All notes/Covered Interest Rate Parity.md",
+    "headings": [
+      {
+        "heading": "Covered Interest Rate Parity",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Currency forward",
+        "link": "Covered Interest Rate Parity",
+        "relativePath": "All notes/Currency forward.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Corporate Issuers",
+    "relativePath": "All notes/Corporate Issuers.md",
+    "tags": [
+      "cfa",
+      "ci",
+      "topic"
+    ],
+    "frontmatter": {
+      "Tags": "CFA, CI, Topic",
+      "Aliases": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 38
+        }
+      }
+    },
+    "links": [
+      {
+        "link": "CFA Program",
+        "relativePath": "CFA Program.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "CFA Program",
+        "link": "Corporate Issuers",
+        "relativePath": "CFA Program.md"
+      },
+      {
+        "fileName": "CFA Program",
+        "link": "Corporate Issuers",
+        "relativePath": "CFA Program.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Colors",
+    "relativePath": "All notes/Colors.md",
+    "headings": [
+      {
+        "heading": "🌈 Color Palettes",
+        "level": 1
+      },
+      {
+        "heading": "[Obsidian Fire](https://www.color-hex.com/color-palette/17684)",
+        "level": 2
+      },
+      {
+        "heading": "📷 Screenshots",
+        "level": 1
+      },
+      {
+        "heading": "Fiorentino",
+        "level": 2
+      },
+      {
+        "heading": "obsidian",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "Canadian GP 2023",
+    "relativePath": "All notes/Canadian GP 2023.md",
+    "tags": [
+      "f1/2023"
+    ],
+    "frontmatter": {
+      "Tags": "F1/2023",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 21
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Albon driver of the day",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "F1 2023",
+        "link": "Canadian GP 2023",
+        "relativePath": "All notes/F1 2023.md"
+      }
+    ]
+  },
+  {
+    "fileName": "CFA 3 PM",
+    "relativePath": "All notes/CFA 3 PM.md",
+    "tags": [
+      "cfa",
+      "cfa3",
+      "pm",
+      "topic"
+    ],
+    "frontmatter": {
+      "Tags": "CFA, CFA3, PM, Topic",
+      "Aliases": "CFA Level 3: Portfolio Management",
+      "Level": "CFA Level 3",
+      "Topic": "Portfolio Management",
+      "Subject": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 6,
+          "col": 3,
+          "offset": 135
+        }
+      }
+    },
+    "aliases": [
+      "CFA Level 3: Portfolio Management"
+    ],
+    "links": [
+      {
+        "link": "CFA Level 3",
+        "relativePath": "CFA Level 3.md"
+      },
+      {
+        "link": "CFA Level 3",
+        "relativePath": "CFA Level 3.md"
+      },
+      {
+        "link": "Behavioural Biases of Individuals"
+      },
+      {
+        "link": "Behavioural Finance and Investment Process"
+      },
+      {
+        "link": "Overview of Private Wealth Management"
+      },
+      {
+        "link": "Topics in Private Wealth Management"
+      },
+      {
+        "link": "Risk Management for Individuals"
+      },
+      {
+        "link": "Portfolio Management for Institutional Investors"
+      },
+      {
+        "link": "Trade Strategy and Execution"
+      },
+      {
+        "link": "Portfolio Performance Evaluation"
+      },
+      {
+        "link": "Investment Manager Selection"
+      },
+      {
+        "link": "Case Study in Portfolio Management — Institutional"
+      },
+      {
+        "link": "Case Study in Risk Management — Private Wealth"
+      },
+      {
+        "link": "Integrated Cases in Risk Management — Institutional"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "CFA Level 3",
+        "link": "CFA 3 PM",
+        "relativePath": "CFA Level 3.md",
+        "displayText": "Portfolio Management"
+      }
+    ]
+  },
+  {
+    "fileName": "CFA 3 FI",
+    "relativePath": "All notes/CFA 3 FI.md",
+    "tags": [
+      "cfa",
+      "cfa3",
+      "fi",
+      "topic"
+    ],
+    "frontmatter": {
+      "Tags": "CFA, CFA3, FI, Topic",
+      "Aliases": "CFA Level 3: Fixed Income",
+      "Level": "CFA Level 3",
+      "Topic": "Fixed Income",
+      "Subject": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 6,
+          "col": 3,
+          "offset": 119
+        }
+      }
+    },
+    "aliases": [
+      "CFA Level 3: Fixed Income"
+    ],
+    "headings": [
+      {
+        "heading": "Fixed Income",
+        "level": 1
+      },
+      {
+        "heading": "Weight",
+        "level": 2
+      },
+      {
+        "heading": "Readings",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "CFA Level 3",
+        "relativePath": "CFA Level 3.md"
+      },
+      {
+        "link": "CFA Level 3",
+        "relativePath": "CFA Level 3.md"
+      },
+      {
+        "link": "Overview of Fixed Income Portfolio Management"
+      },
+      {
+        "link": "Liability Driven and Index Based Strategies"
+      },
+      {
+        "link": "Yield Curve Strategies"
+      },
+      {
+        "link": "Fixed Income Activement Management — Credit Strategies"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "CFA Level 3",
+        "link": "CFA 3 FI",
+        "relativePath": "CFA Level 3.md",
+        "displayText": "Fixed Income"
+      },
+      {
+        "fileName": "Fixed Income",
+        "link": "CFA 3 FI",
+        "relativePath": "All notes/Fixed Income.md"
+      }
+    ]
+  },
+  {
+    "fileName": "CFA 3 ETH",
+    "relativePath": "All notes/CFA 3 ETH.md",
+    "tags": [
+      "cfa",
+      "cfa3",
+      "eth",
+      "topic"
+    ],
+    "frontmatter": {
+      "Tags": "CFA, CFA3, ETH, Topic",
+      "Aliases": "CFA Level 3: Ethical and Professional Standards",
+      "Level": "CFA Level 3",
+      "Topic": "Ethical and Professional Standards",
+      "Subject": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 6,
+          "col": 3,
+          "offset": 164
+        }
+      }
+    },
+    "aliases": [
+      "CFA Level 3: Ethical and Professional Standards"
+    ],
+    "links": [
+      {
+        "link": "CFA Level 3",
+        "relativePath": "CFA Level 3.md"
+      },
+      {
+        "link": "CFA Level 3",
+        "relativePath": "CFA Level 3.md"
+      },
+      {
+        "link": "Code of Ethics and Standards of Professional Conduct"
+      },
+      {
+        "link": "Guidance for Standards I—VII"
+      },
+      {
+        "link": "Application of the Code and Standards — Level 3"
+      },
+      {
+        "link": "Asset Manager Code of Professional Conduct"
+      },
+      {
+        "link": "Overview of the Global Investment Performance Standards"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "CFA Level 3",
+        "link": "CFA 3 ETH",
+        "relativePath": "CFA Level 3.md",
+        "displayText": "Ethical and Professional Standards"
+      }
+    ]
+  },
+  {
+    "fileName": "CFA 3 EI",
+    "relativePath": "All notes/CFA 3 EI.md",
+    "tags": [
+      "cfa",
+      "cfa3",
+      "ei",
+      "topic"
+    ],
+    "frontmatter": {
+      "Tags": "CFA, CFA3, EI, Topic",
+      "Aliases": "CFA Level 3: Equity Investments",
+      "Level": "CFA Level 3",
+      "Topic": "Equity Investments",
+      "Subject": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 6,
+          "col": 3,
+          "offset": 131
+        }
+      }
+    },
+    "aliases": [
+      "CFA Level 3: Equity Investments"
+    ],
+    "links": [
+      {
+        "link": "CFA Level 3",
+        "relativePath": "CFA Level 3.md"
+      },
+      {
+        "link": "CFA Level 3",
+        "relativePath": "CFA Level 3.md"
+      },
+      {
+        "link": "Overview of Equity Portfolio Management"
+      },
+      {
+        "link": "Passive Equity Investing"
+      },
+      {
+        "link": "Active Equity Investing — Strategies"
+      },
+      {
+        "link": "Active Equity Investing — Portfolio Construction"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "CFA Level 3",
+        "link": "CFA 3 EI",
+        "relativePath": "CFA Level 3.md",
+        "displayText": "Equity Investments"
+      }
+    ]
+  },
+  {
+    "fileName": "CFA 3 ECO",
+    "relativePath": "All notes/CFA 3 ECO.md",
+    "tags": [
+      "cfa",
+      "cfa3",
+      "eco",
+      "topic"
+    ],
+    "frontmatter": {
+      "Tags": "CFA, CFA3, ECO, Topic",
+      "Aliases": "CFA Level 3: Economics",
+      "Level": "CFA Level 3",
+      "Topic": "Economics",
+      "Subject": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 6,
+          "col": 3,
+          "offset": 114
+        }
+      }
+    },
+    "aliases": [
+      "CFA Level 3: Economics"
+    ],
+    "links": [
+      {
+        "link": "CFA Level 3",
+        "relativePath": "CFA Level 3.md"
+      },
+      {
+        "link": "CFA Level 3",
+        "relativePath": "CFA Level 3.md"
+      },
+      {
+        "link": "Capital Market Expectations"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "CFA Level 3",
+        "link": "CFA 3 ECO",
+        "relativePath": "CFA Level 3.md",
+        "displayText": "Economics"
+      }
+    ]
+  },
+  {
+    "fileName": "CFA 3 DER",
+    "relativePath": "All notes/CFA 3 DER.md",
+    "tags": [
+      "cfa",
+      "cfa3",
+      "der",
+      "topic"
+    ],
+    "frontmatter": {
+      "Tags": "CFA, CFA3, DER, Topic",
+      "Aliases": "CFA Level 3: Derivatives",
+      "Level": "CFA Level 3",
+      "Topic": "Derivatives",
+      "Subject": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 6,
+          "col": 3,
+          "offset": 118
+        }
+      }
+    },
+    "aliases": [
+      "CFA Level 3: Derivatives"
+    ],
+    "links": [
+      {
+        "link": "CFA Level 3",
+        "relativePath": "CFA Level 3.md"
+      },
+      {
+        "link": "CFA Level 3",
+        "relativePath": "CFA Level 3.md"
+      },
+      {
+        "link": "Options Strategies"
+      },
+      {
+        "link": "Swaps, Forwards, and Futures Strategies"
+      },
+      {
+        "link": "Currency Management — Introduction"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "CFA Level 3",
+        "link": "CFA 3 DER",
+        "relativePath": "CFA Level 3.md",
+        "displayText": "Derivatives"
+      }
+    ]
+  },
+  {
+    "fileName": "CFA 3 AI",
+    "relativePath": "All notes/CFA 3 AI.md",
+    "tags": [
+      "cfa",
+      "cfa3",
+      "ai",
+      "topic"
+    ],
+    "frontmatter": {
+      "Tags": "CFA, CFA3, AI, Topic",
+      "Aliases": "CFA Level 3: Alternative Investments",
+      "Level": "CFA Level 3",
+      "Topic": "Alternative Investments",
+      "Subject": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 6,
+          "col": 3,
+          "offset": 141
+        }
+      }
+    },
+    "aliases": [
+      "CFA Level 3: Alternative Investments"
+    ],
+    "links": [
+      {
+        "link": "CFA Level 3",
+        "relativePath": "CFA Level 3.md"
+      },
+      {
+        "link": "CFA Level 3",
+        "relativePath": "CFA Level 3.md"
+      },
+      {
+        "link": "Hedge Funds Strategies"
+      },
+      {
+        "link": "Asset Allocation to Alternative Investments"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "CFA Level 3",
+        "link": "CFA 3 AI",
+        "relativePath": "CFA Level 3.md",
+        "displayText": "Alternative Investments"
+      }
+    ]
+  },
+  {
+    "fileName": "CFA 2 QM",
+    "relativePath": "All notes/CFA 2 QM.md",
+    "tags": [
+      "cfa",
+      "cfa2",
+      "qm",
+      "topic"
+    ],
+    "frontmatter": {
+      "Tags": "CFA, CFA2, QM, Topic",
+      "Aliases": "CFA Level 2: Quantitative Methods",
+      "Level": "CFA Level 2",
+      "Topic": "Quantitative Methods",
+      "Weight": "5-10%",
+      "Type": "Topic",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 7,
+          "col": 3,
+          "offset": 152
+        }
+      }
+    },
+    "aliases": [
+      "CFA Level 2: Quantitative Methods"
+    ],
+    "links": [
+      {
+        "link": "CFA Level 2",
+        "relativePath": "CFA Level 2.md"
+      },
+      {
+        "link": "CFA Program",
+        "relativePath": "CFA Program.md"
+      },
+      {
+        "link": "CFA Level 2",
+        "displayText": "Level 2",
+        "relativePath": "CFA Level 2.md"
+      },
+      {
+        "link": "CFA 2 QM",
+        "displayText": "Quantitative Methods",
+        "relativePath": "All notes/CFA 2 QM.md"
+      },
+      {
+        "link": "Multiple regression",
+        "relativePath": "All notes/Multiple regression.md"
+      },
+      {
+        "link": "Time-Series analysis",
+        "relativePath": "All notes/Time-Series analysis.md"
+      },
+      {
+        "link": "Machine Learning",
+        "relativePath": "All notes/Machine Learning.md"
+      },
+      {
+        "link": "Big Data Projects",
+        "relativePath": "All notes/Big Data Projects.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "CFA Level 2",
+        "link": "CFA 2 QM",
+        "relativePath": "CFA Level 2.md",
+        "displayText": "Quantitative Methods"
+      },
+      {
+        "fileName": "Time-Series analysis",
+        "link": "CFA 2 QM",
+        "relativePath": "All notes/Time-Series analysis.md"
+      },
+      {
+        "fileName": "Time-Series analysis",
+        "link": "CFA 2 QM",
+        "relativePath": "All notes/Time-Series analysis.md"
+      },
+      {
+        "fileName": "Multiple regression",
+        "link": "CFA 2 QM",
+        "relativePath": "All notes/Multiple regression.md"
+      },
+      {
+        "fileName": "Multiple regression",
+        "link": "CFA 2 QM",
+        "relativePath": "All notes/Multiple regression.md"
+      },
+      {
+        "fileName": "Machine Learning",
+        "link": "CFA 2 QM",
+        "relativePath": "All notes/Machine Learning.md"
+      },
+      {
+        "fileName": "Machine Learning",
+        "link": "CFA 2 QM",
+        "relativePath": "All notes/Machine Learning.md"
+      },
+      {
+        "fileName": "Big Data Projects",
+        "link": "CFA 2 QM",
+        "relativePath": "All notes/Big Data Projects.md"
+      },
+      {
+        "fileName": "Big Data Projects",
+        "link": "CFA 2 QM",
+        "relativePath": "All notes/Big Data Projects.md"
+      }
+    ]
+  },
+  {
+    "fileName": "CFA 2 PM",
+    "relativePath": "All notes/CFA 2 PM.md",
+    "tags": [
+      "cfa",
+      "cfa2",
+      "pm",
+      "topic"
+    ],
+    "frontmatter": {
+      "Tags": "CFA, CFA2, PM, Topic",
+      "Aliases": "CFA Level 2: Portfolio Management",
+      "Level": "CFA Level 2",
+      "Topic": "Portfolio Management",
+      "Weight": "10-15%",
+      "Subject": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 7,
+          "col": 3,
+          "offset": 150
+        }
+      }
+    },
+    "aliases": [
+      "CFA Level 2: Portfolio Management"
+    ],
+    "links": [
+      {
+        "link": "CFA Level 2",
+        "relativePath": "CFA Level 2.md"
+      },
+      {
+        "link": "CFA Program",
+        "relativePath": "CFA Program.md"
+      },
+      {
+        "link": "CFA Level 2",
+        "displayText": "Level 2",
+        "relativePath": "CFA Level 2.md"
+      },
+      {
+        "link": "CFA 2 PM",
+        "displayText": "Portfolio Management",
+        "relativePath": "All notes/CFA 2 PM.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "CFA Level 2",
+        "link": "CFA 2 PM",
+        "relativePath": "CFA Level 2.md",
+        "displayText": "Portfolio Management"
+      }
+    ]
+  },
+  {
+    "fileName": "CFA 2 FSA",
+    "relativePath": "All notes/CFA 2 FSA.md",
+    "tags": [
+      "cfa",
+      "cfa2",
+      "fsa",
+      "topic"
+    ],
+    "frontmatter": {
+      "Tags": "CFA, CFA2, FSA, Topic",
+      "Aliases": "CFA Level 2: Financial Statement Analysis",
+      "Level": "CFA Level 2",
+      "Topic": "Financial Statement Analysis",
+      "Weight": "10-15%",
+      "Subject": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 7,
+          "col": 3,
+          "offset": 167
+        }
+      }
+    },
+    "aliases": [
+      "CFA Level 2: Financial Statement Analysis"
+    ],
+    "links": [
+      {
+        "link": "CFA Level 2",
+        "relativePath": "CFA Level 2.md"
+      },
+      {
+        "link": "CFA Program",
+        "relativePath": "CFA Program.md"
+      },
+      {
+        "link": "CFA Level 2",
+        "displayText": "Level 2",
+        "relativePath": "CFA Level 2.md"
+      },
+      {
+        "link": "CFA 2 FSA",
+        "displayText": "Financial Statement Analysis",
+        "relativePath": "All notes/CFA 2 FSA.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "CFA Level 2",
+        "link": "CFA 2 FSA",
+        "relativePath": "CFA Level 2.md",
+        "displayText": "Financial Statements Analysis"
+      }
+    ]
+  },
+  {
+    "fileName": "CFA 2 FI",
+    "relativePath": "All notes/CFA 2 FI.md",
+    "tags": [
+      "cfa",
+      "cfa2",
+      "fi",
+      "topic"
+    ],
+    "frontmatter": {
+      "Tags": "CFA, CFA2, FI, Topic",
+      "Level": "CFA Level 2",
+      "Topic": "Fixed Income",
+      "Weight": "10-15%",
+      "cssClasses": "embed-strict",
+      "metatable": true,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 7,
+          "col": 3,
+          "offset": 129
+        }
+      }
+    },
+    "links": [
+      {
+        "link": "CFA Level 2",
+        "relativePath": "CFA Level 2.md"
+      },
+      {
+        "link": "CFA Program",
+        "relativePath": "CFA Program.md"
+      },
+      {
+        "link": "CFA Level 2",
+        "displayText": "Level 2",
+        "relativePath": "CFA Level 2.md"
+      },
+      {
+        "link": "CFA 2 FI",
+        "displayText": "Fixed Income",
+        "relativePath": "All notes/CFA 2 FI.md"
+      },
+      {
+        "link": "Term Structure and Interest Rate Dynamics",
+        "relativePath": "All notes/Term Structure and Interest Rate Dynamics.md"
+      },
+      {
+        "link": "Arbitrage-Free Valuation Framework",
+        "relativePath": "All notes/Arbitrage-Free Valuation Framework.md"
+      },
+      {
+        "link": "Valuation and Analysis of Bonds with Embedded Options",
+        "relativePath": "All notes/Valuation and Analysis of Bonds with Embedded Options.md"
+      },
+      {
+        "link": "Credit Analysis Models",
+        "relativePath": "All notes/Credit Analysis Models.md"
+      },
+      {
+        "link": "Credit Default Swaps",
+        "relativePath": "All notes/Credit Default Swaps.md"
+      },
+      {
+        "link": "Term Structure and Interest Rate Dynamics",
+        "relativePath": "All notes/Term Structure and Interest Rate Dynamics.md"
+      },
+      {
+        "link": "Arbitrage-Free Valuation Framework",
+        "relativePath": "All notes/Arbitrage-Free Valuation Framework.md"
+      },
+      {
+        "link": "Valuation and Analysis of Bonds with Embedded Options",
+        "relativePath": "All notes/Valuation and Analysis of Bonds with Embedded Options.md"
+      },
+      {
+        "link": "Credit Analysis Models",
+        "relativePath": "All notes/Credit Analysis Models.md"
+      },
+      {
+        "link": "Credit Default Swaps",
+        "relativePath": "All notes/Credit Default Swaps.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "CFA Level 2",
+        "link": "CFA 2 FI",
+        "relativePath": "CFA Level 2.md",
+        "displayText": "Fixed Income"
+      },
+      {
+        "fileName": "2023-07-06",
+        "link": "CFA 2 FI",
+        "relativePath": "Daily Notes/2023-07-06.md"
+      },
+      {
+        "fileName": "Valuation and Analysis of Bonds with Embedded Options",
+        "link": "CFA 2 FI",
+        "relativePath": "All notes/Valuation and Analysis of Bonds with Embedded Options.md"
+      },
+      {
+        "fileName": "Valuation and Analysis of Bonds with Embedded Options",
+        "link": "CFA 2 FI",
+        "relativePath": "All notes/Valuation and Analysis of Bonds with Embedded Options.md",
+        "displayText": "Fixed Income"
+      },
+      {
+        "fileName": "Term Structure and Interest Rate Dynamics",
+        "link": "CFA 2 FI",
+        "relativePath": "All notes/Term Structure and Interest Rate Dynamics.md"
+      },
+      {
+        "fileName": "Term Structure and Interest Rate Dynamics",
+        "link": "CFA 2 FI",
+        "relativePath": "All notes/Term Structure and Interest Rate Dynamics.md",
+        "displayText": "Fixed Income"
+      },
+      {
+        "fileName": "Fixed Income",
+        "link": "CFA 2 FI",
+        "relativePath": "All notes/Fixed Income.md"
+      },
+      {
+        "fileName": "Credit Default Swaps",
+        "link": "CFA 2 FI",
+        "relativePath": "All notes/Credit Default Swaps.md"
+      },
+      {
+        "fileName": "Credit Default Swaps",
+        "link": "CFA 2 FI",
+        "relativePath": "All notes/Credit Default Swaps.md",
+        "displayText": "Fixed Income"
+      },
+      {
+        "fileName": "Credit Analysis Models",
+        "link": "CFA 2 FI",
+        "relativePath": "All notes/Credit Analysis Models.md"
+      },
+      {
+        "fileName": "Credit Analysis Models",
+        "link": "CFA 2 FI",
+        "relativePath": "All notes/Credit Analysis Models.md",
+        "displayText": "Fixed Income"
+      },
+      {
+        "fileName": "Arbitrage-Free Valuation Framework",
+        "link": "CFA 2 FI",
+        "relativePath": "All notes/Arbitrage-Free Valuation Framework.md"
+      },
+      {
+        "fileName": "Arbitrage-Free Valuation Framework",
+        "link": "CFA 2 FI",
+        "relativePath": "All notes/Arbitrage-Free Valuation Framework.md",
+        "displayText": "Fixed Income"
+      }
+    ]
+  },
+  {
+    "fileName": "CFA 2 ETH",
+    "relativePath": "All notes/CFA 2 ETH.md",
+    "tags": [
+      "cfa",
+      "cfa2",
+      "eth",
+      "topic"
+    ],
+    "frontmatter": {
+      "Tags": "CFA, CFA2, ETH, Topic",
+      "Aliases": "CFA Level 2: Ethical and Professional Standards",
+      "Level": "CFA Level 2",
+      "Topic": "Ethical and Professional Standards",
+      "Weight": "10-15%",
+      "Subject": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 7,
+          "col": 3,
+          "offset": 179
+        }
+      }
+    },
+    "aliases": [
+      "CFA Level 2: Ethical and Professional Standards"
+    ],
+    "links": [
+      {
+        "link": "CFA Level 2",
+        "relativePath": "CFA Level 2.md"
+      },
+      {
+        "link": "CFA Program",
+        "relativePath": "CFA Program.md"
+      },
+      {
+        "link": "CFA Level 2",
+        "displayText": "Level 2",
+        "relativePath": "CFA Level 2.md"
+      },
+      {
+        "link": "CFA 2 ETH",
+        "displayText": "Ethical and Professional Standards",
+        "relativePath": "All notes/CFA 2 ETH.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "CFA Level 2",
+        "link": "CFA 2 ETH",
+        "relativePath": "CFA Level 2.md",
+        "displayText": "Ethical and Professional Standards"
+      }
+    ]
+  },
+  {
+    "fileName": "CFA 2 EI",
+    "relativePath": "All notes/CFA 2 EI.md",
+    "tags": [
+      "cfa",
+      "cfa2",
+      "ei",
+      "topic"
+    ],
+    "frontmatter": {
+      "Tags": "CFA, CFA2, EI, Topic",
+      "Aliases": "CFA Level 2: Equity Investments",
+      "Level": "CFA Level 2",
+      "Topic": "Equity Investments",
+      "Weight": "10-15%",
+      "Subject": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 7,
+          "col": 3,
+          "offset": 146
+        }
+      }
+    },
+    "aliases": [
+      "CFA Level 2: Equity Investments"
+    ],
+    "links": [
+      {
+        "link": "CFA Level 2",
+        "relativePath": "CFA Level 2.md"
+      },
+      {
+        "link": "CFA Program",
+        "relativePath": "CFA Program.md"
+      },
+      {
+        "link": "CFA Level 2",
+        "displayText": "Level 2",
+        "relativePath": "CFA Level 2.md"
+      },
+      {
+        "link": "CFA 2 EI",
+        "displayText": "Equity Investments",
+        "relativePath": "All notes/CFA 2 EI.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "CFA Level 2",
+        "link": "CFA 2 EI",
+        "relativePath": "CFA Level 2.md",
+        "displayText": "Equity Investments"
+      }
+    ]
+  },
+  {
+    "fileName": "CFA 2 ECO",
+    "relativePath": "All notes/CFA 2 ECO.md",
+    "tags": [
+      "cfa",
+      "cfa2",
+      "eco",
+      "topic"
+    ],
+    "frontmatter": {
+      "Tags": "CFA, CFA2, ECO, Topic",
+      "Aliases": "CFA Level 2: Economics",
+      "Level": "CFA Level 2",
+      "Topic": "Economics",
+      "Weight": "5-10%",
+      "Subject": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 7,
+          "col": 3,
+          "offset": 128
+        }
+      }
+    },
+    "aliases": [
+      "CFA Level 2: Economics"
+    ],
+    "headings": [
+      {
+        "heading": "Economics",
+        "level": 1
+      },
+      {
+        "heading": "Readings",
+        "level": 2
+      },
+      {
+        "heading": "All notes",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "CFA Level 2",
+        "relativePath": "CFA Level 2.md"
+      },
+      {
+        "link": "CFA Program",
+        "relativePath": "CFA Program.md"
+      },
+      {
+        "link": "CFA Level 2",
+        "displayText": "Level 2",
+        "relativePath": "CFA Level 2.md"
+      },
+      {
+        "link": "CFA 2 ECO",
+        "displayText": "Economics",
+        "relativePath": "All notes/CFA 2 ECO.md"
+      },
+      {
+        "link": "Currency Exchange Rate – Understanding Equilibrium Value",
+        "relativePath": "All notes/Currency Exchange Rate – Understanding Equilibrium Value.md"
+      },
+      {
+        "link": "Economic Growth"
+      },
+      {
+        "link": "Economics of Regulation"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "CFA Level 2",
+        "link": "CFA 2 ECO",
+        "relativePath": "CFA Level 2.md",
+        "displayText": "Economics"
+      },
+      {
+        "fileName": "2023-06-08",
+        "link": "CFA 2 ECO",
+        "relativePath": "Daily Notes/2023-06-08.md"
+      },
+      {
+        "fileName": "Currency Exchange Rate – Understanding Equilibrium Value",
+        "link": "CFA 2 ECO",
+        "relativePath": "All notes/Currency Exchange Rate – Understanding Equilibrium Value.md"
+      },
+      {
+        "fileName": "Currency Exchange Rate – Understanding Equilibrium Value",
+        "link": "CFA 2 ECO",
+        "relativePath": "All notes/Currency Exchange Rate – Understanding Equilibrium Value.md"
+      }
+    ]
+  },
+  {
+    "fileName": "CFA 2 DER",
+    "relativePath": "All notes/CFA 2 DER.md",
+    "tags": [
+      "cfa",
+      "cfa2",
+      "der",
+      "topic"
+    ],
+    "frontmatter": {
+      "Tags": "CFA, CFA2, DER, Topic",
+      "Aliases": "CFA Level 2: Derivatives",
+      "Level": "CFA Level 2",
+      "Topic": "Derivatives",
+      "Weight": "5-10%",
+      "Subject": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 7,
+          "col": 3,
+          "offset": 132
+        }
+      }
+    },
+    "aliases": [
+      "CFA Level 2: Derivatives"
+    ],
+    "links": [
+      {
+        "link": "CFA Level 2",
+        "relativePath": "CFA Level 2.md"
+      },
+      {
+        "link": "CFA Program",
+        "relativePath": "CFA Program.md"
+      },
+      {
+        "link": "CFA Level 2",
+        "displayText": "Level 2",
+        "relativePath": "CFA Level 2.md"
+      },
+      {
+        "link": "CFA 2 DER",
+        "displayText": "Derivatives",
+        "relativePath": "All notes/CFA 2 DER.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "CFA Level 2",
+        "link": "CFA 2 DER",
+        "relativePath": "CFA Level 2.md",
+        "displayText": "Derivatives"
+      }
+    ]
+  },
+  {
+    "fileName": "CFA 2 CI",
+    "relativePath": "All notes/CFA 2 CI.md",
+    "tags": [
+      "cfa",
+      "cfa2",
+      "ci",
+      "topic"
+    ],
+    "frontmatter": {
+      "Tags": "CFA, CFA2, CI, Topic",
+      "Aliases": "CFA Level 2: Corporate Issuers",
+      "Level": "CFA Level 2",
+      "Topic": "Corporate Issuers",
+      "Weight": "5-10%",
+      "Subject": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 7,
+          "col": 3,
+          "offset": 143
+        }
+      }
+    },
+    "aliases": [
+      "CFA Level 2: Corporate Issuers"
+    ],
+    "links": [
+      {
+        "link": "CFA Level 2",
+        "relativePath": "CFA Level 2.md"
+      },
+      {
+        "link": "CFA Program",
+        "relativePath": "CFA Program.md"
+      },
+      {
+        "link": "CFA Level 2",
+        "displayText": "Level 2",
+        "relativePath": "CFA Level 2.md"
+      },
+      {
+        "link": "CFA 2 CI",
+        "displayText": "Corporate Issuers",
+        "relativePath": "All notes/CFA 2 CI.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "CFA Level 2",
+        "link": "CFA 2 CI",
+        "relativePath": "CFA Level 2.md",
+        "displayText": "Corporate Issuers"
+      }
+    ]
+  },
+  {
+    "fileName": "CFA 2 AI",
+    "relativePath": "All notes/CFA 2 AI.md",
+    "tags": [
+      "cfa",
+      "cfa2",
+      "ai",
+      "topic"
+    ],
+    "frontmatter": {
+      "Tags": "CFA, CFA2, AI, Topic",
+      "Aliases": "CFA Level 2: Alternative Investments",
+      "Level": "CFA Level 2",
+      "Topic": "Alternative Investments",
+      "Weight": "5-10%",
+      "Subject": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 7,
+          "col": 3,
+          "offset": 155
+        }
+      }
+    },
+    "aliases": [
+      "CFA Level 2: Alternative Investments"
+    ],
+    "links": [
+      {
+        "link": "CFA Level 2",
+        "relativePath": "CFA Level 2.md"
+      },
+      {
+        "link": "CFA Program",
+        "relativePath": "CFA Program.md"
+      },
+      {
+        "link": "CFA Level 2",
+        "displayText": "Level 2",
+        "relativePath": "CFA Level 2.md"
+      },
+      {
+        "link": "CFA 2 AI",
+        "displayText": "Alternative Investments",
+        "relativePath": "All notes/CFA 2 AI.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "CFA Level 2",
+        "link": "CFA 2 AI",
+        "relativePath": "CFA Level 2.md",
+        "displayText": "Alternative Investments"
+      }
+    ]
+  },
+  {
+    "fileName": "CFA 1 QM",
+    "relativePath": "All notes/CFA 1 QM.md",
+    "tags": [
+      "cfa",
+      "cfa1",
+      "qm",
+      "topic"
+    ],
+    "frontmatter": {
+      "Tags": "CFA, CFA1, QM, Topic",
+      "Aliases": "CFA Level 2: Quantitative Methods",
+      "Level": "CFA Level 1",
+      "Topic": "Quantitative Methods",
+      "Subject": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 6,
+          "col": 3,
+          "offset": 135
+        }
+      }
+    },
+    "aliases": [
+      "CFA Level 2: Quantitative Methods"
+    ],
+    "links": [
+      {
+        "link": "CFA Level 1",
+        "relativePath": "CFA Level 1.md"
+      },
+      {
+        "link": "CFA Level 1",
+        "relativePath": "CFA Level 1.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "CFA Level 1",
+        "link": "CFA 1 QM",
+        "relativePath": "CFA Level 1.md",
+        "displayText": "Quantitative Methods"
+      },
+      {
+        "fileName": "Multiple regression",
+        "link": "CFA 1 QM",
+        "relativePath": "All notes/Multiple regression.md"
+      }
+    ]
+  },
+  {
+    "fileName": "CFA 1 PM",
+    "relativePath": "All notes/CFA 1 PM.md",
+    "tags": [
+      "cfa",
+      "cfa1",
+      "pm",
+      "topic"
+    ],
+    "frontmatter": {
+      "Tags": "CFA, CFA1, PM, Topic",
+      "Aliases": "CFA Level 1: Portfolio Management",
+      "Level": "CFA Level 1",
+      "Topic": "Portfolio Management",
+      "Subject": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 6,
+          "col": 3,
+          "offset": 135
+        }
+      }
+    },
+    "aliases": [
+      "CFA Level 1: Portfolio Management"
+    ],
+    "links": [
+      {
+        "link": "CFA Level 1",
+        "relativePath": "CFA Level 1.md"
+      },
+      {
+        "link": "CFA Level 1",
+        "relativePath": "CFA Level 1.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "CFA Level 1",
+        "link": "CFA 1 PM",
+        "relativePath": "CFA Level 1.md",
+        "displayText": "Portfolio Management"
+      }
+    ]
+  },
+  {
+    "fileName": "CFA 1 FSA",
+    "relativePath": "All notes/CFA 1 FSA.md",
+    "tags": [
+      "cfa",
+      "cfa1",
+      "fsa",
+      "topic"
+    ],
+    "frontmatter": {
+      "Tags": "CFA, CFA1, FSA, Topic",
+      "Aliases": "CFA Level 1: Financial Statement Analysis",
+      "Level": "CFA Level 1",
+      "Topic": "Financial Statement Analysis",
+      "Subject": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 6,
+          "col": 3,
+          "offset": 152
+        }
+      }
+    },
+    "aliases": [
+      "CFA Level 1: Financial Statement Analysis"
+    ],
+    "links": [
+      {
+        "link": "CFA Level 1",
+        "relativePath": "CFA Level 1.md"
+      },
+      {
+        "link": "CFA Level 1",
+        "relativePath": "CFA Level 1.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "CFA Level 1",
+        "link": "CFA 1 FSA",
+        "relativePath": "CFA Level 1.md",
+        "displayText": "Financial Statement Analysis"
+      }
+    ]
+  },
+  {
+    "fileName": "CFA 1 FI",
+    "relativePath": "All notes/CFA 1 FI.md",
+    "tags": [
+      "cfa",
+      "cfa1",
+      "fi",
+      "topic"
+    ],
+    "frontmatter": {
+      "Tags": "CFA, CFA1, FI, Topic",
+      "Aliases": "CFA Level 1: Fixed Income",
+      "Level": "CFA Level 1",
+      "Topic": "Fixed Income",
+      "Subject": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 6,
+          "col": 3,
+          "offset": 119
+        }
+      }
+    },
+    "aliases": [
+      "CFA Level 1: Fixed Income"
+    ],
+    "links": [
+      {
+        "link": "CFA Level 1",
+        "relativePath": "CFA Level 1.md"
+      },
+      {
+        "link": "CFA Level 1",
+        "relativePath": "CFA Level 1.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "CFA Level 1",
+        "link": "CFA 1 FI",
+        "relativePath": "CFA Level 1.md",
+        "displayText": "Fixed Income"
+      },
+      {
+        "fileName": "Fixed Income",
+        "link": "CFA 1 FI",
+        "relativePath": "All notes/Fixed Income.md"
+      }
+    ]
+  },
+  {
+    "fileName": "CFA 1 ETH",
+    "relativePath": "All notes/CFA 1 ETH.md",
+    "tags": [
+      "cfa",
+      "cfa1",
+      "eth",
+      "topic"
+    ],
+    "frontmatter": {
+      "Tags": "CFA, CFA1, ETH, Topic",
+      "Aliases": "CFA Level 1: Ethical and Professional Standards",
+      "Level": "CFA Level 1",
+      "Topic": "Ethical and Professional Standards",
+      "Subject": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 6,
+          "col": 3,
+          "offset": 164
+        }
+      }
+    },
+    "aliases": [
+      "CFA Level 1: Ethical and Professional Standards"
+    ],
+    "links": [
+      {
+        "link": "CFA Level 1",
+        "relativePath": "CFA Level 1.md"
+      },
+      {
+        "link": "CFA Level 1",
+        "relativePath": "CFA Level 1.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "CFA Level 1",
+        "link": "CFA 1 ETH",
+        "relativePath": "CFA Level 1.md",
+        "displayText": "Ethical and Professional Standards"
+      }
+    ]
+  },
+  {
+    "fileName": "CFA 1 EI",
+    "relativePath": "All notes/CFA 1 EI.md",
+    "tags": [
+      "cfa",
+      "cfa1",
+      "ei",
+      "topic"
+    ],
+    "frontmatter": {
+      "Tags": "CFA, CFA1, EI, Topic",
+      "Aliases": "CFA Level 1: Equity Investments",
+      "Level": "CFA Level 1",
+      "Topic": "Equity Investments",
+      "Subject": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 6,
+          "col": 3,
+          "offset": 131
+        }
+      }
+    },
+    "aliases": [
+      "CFA Level 1: Equity Investments"
+    ],
+    "links": [
+      {
+        "link": "CFA Level 1",
+        "relativePath": "CFA Level 1.md"
+      },
+      {
+        "link": "CFA Level 1",
+        "relativePath": "CFA Level 1.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "CFA Level 1",
+        "link": "CFA 1 EI",
+        "relativePath": "CFA Level 1.md",
+        "displayText": "Equity Investments"
+      }
+    ]
+  },
+  {
+    "fileName": "CFA 1 ECO",
+    "relativePath": "All notes/CFA 1 ECO.md",
+    "tags": [
+      "cfa",
+      "cfa1",
+      "eco",
+      "topic"
+    ],
+    "frontmatter": {
+      "Tags": "CFA, CFA1, ECO, Topic",
+      "Aliases": "CFA Level 1: Economics",
+      "Level": "CFA Level 1",
+      "Topic": "Economics",
+      "Subject": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 6,
+          "col": 3,
+          "offset": 114
+        }
+      }
+    },
+    "aliases": [
+      "CFA Level 1: Economics"
+    ],
+    "headings": [
+      {
+        "heading": "Economics",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "CFA Level 1",
+        "relativePath": "CFA Level 1.md"
+      },
+      {
+        "link": "CFA Level 1",
+        "relativePath": "CFA Level 1.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "CFA Level 1",
+        "link": "CFA 1 ECO",
+        "relativePath": "CFA Level 1.md",
+        "displayText": "Economics"
+      }
+    ]
+  },
+  {
+    "fileName": "CFA 1 DER",
+    "relativePath": "All notes/CFA 1 DER.md",
+    "tags": [
+      "cfa",
+      "cfa1",
+      "der",
+      "topic"
+    ],
+    "frontmatter": {
+      "Tags": "CFA, CFA1, DER, Topic",
+      "Aliases": "CFA Level 1: Derivatives",
+      "Level": "CFA Level 1",
+      "Topic": "Derivatives",
+      "Subject": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 6,
+          "col": 3,
+          "offset": 118
+        }
+      }
+    },
+    "aliases": [
+      "CFA Level 1: Derivatives"
+    ],
+    "links": [
+      {
+        "link": "CFA Level 1",
+        "relativePath": "CFA Level 1.md"
+      },
+      {
+        "link": "CFA Level 1",
+        "relativePath": "CFA Level 1.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "CFA Level 1",
+        "link": "CFA 1 DER",
+        "relativePath": "CFA Level 1.md",
+        "displayText": "Derivatives"
+      }
+    ]
+  },
+  {
+    "fileName": "CFA 1 CI",
+    "relativePath": "All notes/CFA 1 CI.md",
+    "tags": [
+      "cfa",
+      "cfa1",
+      "ci",
+      "topic"
+    ],
+    "frontmatter": {
+      "Tags": "CFA, CFA1, CI, Topic",
+      "Aliases": "CFA Level 1: Corporate Issuers",
+      "Level": "CFA Level 1",
+      "Topic": "Corporate Issuers",
+      "Subject": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 6,
+          "col": 3,
+          "offset": 129
+        }
+      }
+    },
+    "aliases": [
+      "CFA Level 1: Corporate Issuers"
+    ],
+    "links": [
+      {
+        "link": "CFA Level 1",
+        "relativePath": "CFA Level 1.md"
+      },
+      {
+        "link": "CFA Level 1",
+        "relativePath": "CFA Level 1.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "CFA Level 1",
+        "link": "CFA 1 CI",
+        "relativePath": "CFA Level 1.md",
+        "displayText": "Corporate Issuers"
+      }
+    ]
+  },
+  {
+    "fileName": "CFA 1 AI",
+    "relativePath": "All notes/CFA 1 AI.md",
+    "tags": [
+      "cfa",
+      "cfa1",
+      "ai",
+      "topic"
+    ],
+    "frontmatter": {
+      "Tags": "CFA, CFA1, AI, Topic",
+      "Aliases": "CFA Level 1: Alternative Investments",
+      "Level": "CFA Level 1",
+      "Topic": "Alternative Investments",
+      "Subject": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 6,
+          "col": 3,
+          "offset": 141
+        }
+      }
+    },
+    "aliases": [
+      "CFA Level 1: Alternative Investments"
+    ],
+    "links": [
+      {
+        "link": "CFA Level 1",
+        "relativePath": "CFA Level 1.md"
+      },
+      {
+        "link": "CFA Level 1",
+        "relativePath": "CFA Level 1.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "CFA Level 1",
+        "link": "CFA 1 AI",
+        "relativePath": "CFA Level 1.md",
+        "displayText": "Alternative Investments"
+      }
+    ]
+  },
+  {
+    "fileName": "Bootstrapping",
+    "relativePath": "All notes/Bootstrapping.md",
+    "backlinks": [
+      {
+        "fileName": "Term Structure and Interest Rate Dynamics",
+        "link": "Bootstrapping",
+        "relativePath": "All notes/Term Structure and Interest Rate Dynamics.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Big Data Projects",
+    "relativePath": "All notes/Big Data Projects.md",
+    "tags": [
+      "cfa",
+      "cfa2",
+      "qm"
+    ],
+    "frontmatter": {
+      "Tags": "CFA, CFA2, QM",
+      "Aliases": null,
+      "Level": "CFA Level 2",
+      "Topic": "Quantitative Methods",
+      "Weight": "5-10%",
+      "Type": "Reading",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 7,
+          "col": 3,
+          "offset": 112
+        }
+      }
+    },
+    "links": [
+      {
+        "link": "CFA 2 QM",
+        "relativePath": "All notes/CFA 2 QM.md"
+      },
+      {
+        "link": "CFA 2 QM",
+        "relativePath": "All notes/CFA 2 QM.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "CFA 2 QM",
+        "link": "Big Data Projects",
+        "relativePath": "All notes/CFA 2 QM.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Benchmark cours",
+    "relativePath": "All notes/Benchmark cours.md",
+    "frontmatter": {
+      "Tags": null,
+      "Aliases": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 24
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "CFA",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Home",
+        "link": "Benchmark cours",
+        "relativePath": "Home.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Austrian GP 2023",
+    "relativePath": "All notes/Austrian GP 2023.md",
+    "headings": [
+      {
+        "heading": "Domination totale de Verstappen",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "F1 2023",
+        "link": "Austrian GP 2023",
+        "relativePath": "All notes/F1 2023.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Arbitrage-Free Valuation Framework",
+    "relativePath": "All notes/Arbitrage-Free Valuation Framework.md",
+    "tags": [
+      "cfa",
+      "cfa2",
+      "fi",
+      "reading"
+    ],
+    "frontmatter": {
+      "Tags": "CFA, CFA2, FI, Reading",
+      "Aliases": null,
+      "Level": "CFA Level 2",
+      "Topic": "Fixed Income",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 84
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Arbitrage-free",
+        "level": 2
+      },
+      {
+        "heading": "Binomial interest rate model",
+        "level": 2
+      },
+      {
+        "heading": "Backward induction methodology",
+        "level": 2
+      },
+      {
+        "heading": "Pathwise valuation",
+        "level": 3
+      },
+      {
+        "heading": "Monte Carlo method",
+        "level": 2
+      },
+      {
+        "heading": "Interest rate models",
+        "level": 2
+      },
+      {
+        "heading": "Vasicek model 1977",
+        "level": 3
+      },
+      {
+        "heading": "Cox-Ingersoll-Ross (CIR) model 1985",
+        "level": 3
+      },
+      {
+        "heading": "Ho-Lee model 1986",
+        "level": 3
+      },
+      {
+        "heading": "Kalotay-Williams-Fabozzi (KWF) model",
+        "level": 3
+      },
+      {
+        "heading": "Arbitrage-Free Valuation Framework",
+        "level": 1
+      },
+      {
+        "heading": "Navigate",
+        "level": 1
+      },
+      {
+        "heading": "See also",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "CFA 2 FI",
+        "relativePath": "All notes/CFA 2 FI.md"
+      },
+      {
+        "link": "CFA Program",
+        "relativePath": "CFA Program.md"
+      },
+      {
+        "link": "CFA Level 2",
+        "displayText": "Level 2",
+        "relativePath": "CFA Level 2.md"
+      },
+      {
+        "link": "CFA 2 FI",
+        "displayText": "Fixed Income",
+        "relativePath": "All notes/CFA 2 FI.md"
+      },
+      {
+        "link": "Arbitrage-Free Valuation Framework",
+        "relativePath": "All notes/Arbitrage-Free Valuation Framework.md"
+      },
+      {
+        "link": "Value additivity",
+        "relativePath": "All notes/Value additivity.md"
+      },
+      {
+        "link": "Dominance",
+        "relativePath": "All notes/Dominance.md"
+      },
+      {
+        "link": "Arbitrage-Free Valuation Framework",
+        "displayText": "arbitrage-free",
+        "relativePath": "All notes/Arbitrage-Free Valuation Framework.md"
+      },
+      {
+        "link": "Vasicek model",
+        "relativePath": "All notes/Vasicek model.md"
+      },
+      {
+        "link": "Vasicek model",
+        "relativePath": "All notes/Vasicek model.md"
+      },
+      {
+        "link": "Ho-Lee model"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "2023-06-29",
+        "link": "Arbitrage-Free Valuation Framework",
+        "relativePath": "Daily Notes/2023-06-29.md"
+      },
+      {
+        "fileName": "CFA 2 FI",
+        "link": "Arbitrage-Free Valuation Framework",
+        "relativePath": "All notes/CFA 2 FI.md"
+      },
+      {
+        "fileName": "CFA 2 FI",
+        "link": "Arbitrage-Free Valuation Framework",
+        "relativePath": "All notes/CFA 2 FI.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Arbitrage opportunity",
+    "relativePath": "All notes/Arbitrage opportunity.md",
+    "tags": [
+      "finance"
+    ],
+    "frontmatter": {
+      "Tags": "Finance",
+      "Aliases": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 31
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Arbitrage opportunity",
+        "level": 1
+      },
+      {
+        "heading": "Types",
+        "level": 2
+      },
+      {
+        "heading": "Value additivity",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Dominance",
+        "relativePath": "All notes/Dominance.md"
+      },
+      {
+        "link": "Value additivity",
+        "relativePath": "All notes/Value additivity.md"
+      },
+      {
+        "link": "Dominance",
+        "relativePath": "All notes/Dominance.md"
+      },
+      {
+        "link": "Value additivity",
+        "relativePath": "All notes/Value additivity.md"
+      },
+      {
+        "link": "Value additivity",
+        "relativePath": "All notes/Value additivity.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Value additivity",
+        "link": "Arbitrage opportunity",
+        "relativePath": "All notes/Value additivity.md"
+      },
+      {
+        "fileName": "Value additivity",
+        "link": "Arbitrage opportunity",
+        "relativePath": "All notes/Value additivity.md",
+        "displayText": "arbitrage opportunity"
+      },
+      {
+        "fileName": "Triangular arbitrage",
+        "link": "Arbitrage opportunity",
+        "relativePath": "All notes/Triangular arbitrage.md",
+        "displayText": "arbitrage opportunity"
+      },
+      {
+        "fileName": "Dominance",
+        "link": "Arbitrage opportunity",
+        "relativePath": "All notes/Dominance.md"
+      },
+      {
+        "fileName": "Dominance",
+        "link": "Arbitrage opportunity",
+        "relativePath": "All notes/Dominance.md",
+        "displayText": "arbitrage opportunity"
+      }
+    ]
+  },
+  {
+    "fileName": "Annonce Superprof",
+    "relativePath": "All notes/Annonce Superprof.md",
+    "headings": [
+      {
+        "heading": "CV EN BREF",
+        "level": 1
+      },
+      {
+        "heading": "PROFIL ATYPIQUE",
+        "level": 1
+      },
+      {
+        "heading": "AVANTAGES",
+        "level": 1
+      },
+      {
+        "heading": "Exemples d'élèves accompagnés",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "Alternative Investments",
+    "relativePath": "All notes/Alternative Investments.md",
+    "headings": [
+      {
+        "heading": "Alternative Investments",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "CFA Program",
+        "relativePath": "CFA Program.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "CFA Program",
+        "link": "Alternative Investments",
+        "relativePath": "CFA Program.md"
+      },
+      {
+        "fileName": "CFA Program",
+        "link": "Alternative Investments",
+        "relativePath": "CFA Program.md"
+      }
+    ]
+  },
+  {
+    "fileName": "All notes",
+    "relativePath": "All notes/All notes.md",
+    "tags": [
+      "foldernote"
+    ],
+    "frontmatter": {
+      "Tags": "FolderNote",
+      "Aliases": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 34
+        }
+      }
+    }
+  }
+]

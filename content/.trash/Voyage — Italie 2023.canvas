@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"type":"text","text":"# Lac de Sainte Croix","id":"060984c0f1fcc23f","x":-506,"y":320,"width":344,"height":50,"color":"#ffffff"},
+		{"type":"text","text":"# Chassieu","id":"494ad7026a0fe124","x":-256,"y":120,"width":196,"height":50,"color":"#ffffff"},
+		{"type":"text","text":"# Nice","id":"087a165b7926b0d6","x":-213,"y":520,"width":153,"height":60,"color":"#ffffff"},
+		{"type":"text","text":"# Porto Vecchio","id":"38e843a10f2b68ce","x":-111,"y":740,"width":271,"height":60,"color":"#ffffff"},
+		{"type":"text","text":"# Bonifacio","id":"8430082e541a28b8","x":-108,"y":879,"width":228,"height":50,"color":"#ffffff"},
+		{"type":"text","text":"# Santa Teresa","id":"88e55a364bf3a439","x":-102,"y":999,"width":262,"height":50,"color":"#ffffff"},
+		{"type":"text","text":"# Vélizy","id":"3f7a5e432f222441","x":-440,"y":-40,"width":118,"height":60,"color":"#ffffff"}
+	],
+	"edges":[
+		{"id":"925460c8dc4cd6c2","fromNode":"494ad7026a0fe124","fromSide":"bottom","toNode":"060984c0f1fcc23f","toSide":"top","color":"2"},
+		{"id":"8d1195211e1dbda7","fromNode":"060984c0f1fcc23f","fromSide":"bottom","toNode":"087a165b7926b0d6","toSide":"top","color":"4"},
+		{"id":"c2e87b79c5ed0916","fromNode":"087a165b7926b0d6","fromSide":"bottom","toNode":"38e843a10f2b68ce","toSide":"top","color":"#0037db"},
+		{"id":"542f4cdf79e086c5","fromNode":"38e843a10f2b68ce","fromSide":"bottom","toNode":"8430082e541a28b8","toSide":"top","color":"6"},
+		{"id":"423bbb45c8e03a15","fromNode":"8430082e541a28b8","fromSide":"bottom","toNode":"88e55a364bf3a439","toSide":"top","color":"#0326d3"},
+		{"id":"93edee2b91c6575e","fromNode":"3f7a5e432f222441","fromSide":"right","toNode":"494ad7026a0fe124","toSide":"top","color":"6"}
+	]
+}

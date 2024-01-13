@@ -1,0 +1,100 @@
+/* —————— OUTLINE (O) —————— */
+
+.callout[data-callout="o"] > .callout-title {
+    display: none;
+}
+
+.callout[data-callout="o"] > .callout-content {
+    background-color: rgba(0,0,0,0);
+}
+
+.callout[data-callout="o"] {
+    border-width: 1px;
+    border-color: rgba(167, 142, 247, 0.8); /* Purple */
+    background-color: transparent;
+}
+
+
+
+
+/* —————— BOX (=filled outline) —————— */
+.callout[data-callout="box"] > .callout-title {
+    display: none;
+}
+
+.callout[data-callout="box"] > .callout-content {
+    background-color: rgba(0,0,0,0.3);
+}
+.callout[data-callout="box"] {
+    border-width: 1px;
+    border-color: rgba(167, 142, 247, 0.8); /* Purple */  /* Dark Grey > rgba(70,70,70,1) */
+    background-color: transparent;
+}
+
+
+
+
+/* —————— BOXT(=filled outline + title) —————— */
+.callout[data-callout="boxt"] > .callout-title {
+    padding: 1em 1em;
+    color: white;
+    background-color: rgb(0,0,0,0.3);
+}
+
+.callout[data-callout="boxt"] > .callout-content {
+    padding: 0em 1em;
+    background-color: rgba(0,0,0,0.3);
+
+
+
+}
+.callout[data-callout="boxt"] {
+    border-width: 1px;
+    border-color: rgba(167, 142, 247, 0.8); /* Purple */  /* Dark Grey > rgba(70,70,70,1) */
+    background-color: transparent;
+}
+
+
+
+
+/* —————— EMBED —————— */
+
+.callout[data-callout="embed"] > .callout-title {
+    padding: 0.6em 1em; /* vertical horizontal */
+    background-color: rgba(124,23,237,0.2); /* tint/transp */
+    color: white; /* rgba(164,143,235,1);*/
+}
+
+.callout[data-callout="embed"] > .callout-content {
+    padding: 0.2em 1em;
+    background-color: rgba(0,0,0,0.3);
+}
+
+.callout[data-callout="embed"] {
+    padding: 0em 0em;
+    border-width: 1px;
+    border-color: rgba(124,23,237,0.2);
+}
+
+
+
+
+/* —————— DEFAULT —————— */
+
+.callout > .callout-title {
+    padding: 0.6em 1em; /* vertical horizontal */
+
+}
+.callout > .callout-content {
+    padding: 0.2em 1em;
+    background-color: rgba(0,0,0,0.5);
+}
+
+.callout {
+    padding: 0em 0em;
+    border-width: 1px;
+}
+
+
+
+

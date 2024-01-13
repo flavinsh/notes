@@ -1,0 +1,34 @@
+{
+	"nodes":[
+		{"type":"text","text":"# 📚 CFA\n- [[CFA Level 1]]\n- [[CFA Level 2]]\n- [[CFA Level 3]]","id":"eaeabab82d20b4f8","x":-32,"y":-263,"width":319,"height":186},
+		{"id":"49d135b08b775931","type":"text","text":"# Cours","x":74,"y":-441,"width":106,"height":58,"color":"1"},
+		{"id":"f4db03796ed71525","type":"text","text":"# 📚 To Learn\n- [[Matrices]]\n- [[Fonctions de deux variables]]\n- [[Algorithmes]]","x":-643,"y":-663,"width":310,"height":280},
+		{"id":"b9dd72bc0f9f561a","type":"text","text":"# 🗄 Databases\n- [[DB Cars]]\n- [[Benchmark cours]]","x":2,"y":-696,"width":250,"height":131},
+		{"id":"668613cd4a80c498","type":"text","text":"# 🟦 Maths","x":365,"y":-696,"width":250,"height":60},
+		{"id":"dc54a1e7dd34bd27","type":"text","text":" [[Neoma Business School]]\n- [[Top Finance]]","x":-1609,"y":-441,"width":250,"height":60},
+		{"id":"bfaee943bfe495ad","type":"text","text":"# 👩‍💼️ Propects\n- [[Ulteam Coaching]] #Prospect \n","x":-878,"y":-263,"width":310,"height":186},
+		{"id":"3cf0c12bc23f78cc","type":"text","text":"## To do\n- [ ] Améliorer accueil site\n- [ ] Créer page CFA\n- [ ] Créer page Maths\n- [ ] Page événements CFA ?","x":-878,"y":8,"width":310,"height":280},
+		{"id":"a5e346d4deb522e6","type":"text","text":"# 🎓 Concours\n- [[ACCES]]\n- [[GMAT]]\n- [[SAT]]","x":793,"y":-479,"width":297,"height":192},
+		{"id":"a0dbb3cb8e0e2600","type":"text","text":"# Perso","x":448,"y":46,"width":281,"height":60,"color":"#7300ff"},
+		{"id":"e3981b444a55a498","x":449,"y":165,"width":280,"height":50,"type":"text","text":"https://www.flavienbourras.com"},
+		{"id":"105d9a32fe98ad73","type":"text","text":"# Top Finance","x":114,"y":46,"width":280,"height":60,"color":"#7300ff"},
+		{"id":"751c3059d9499f2e","x":147,"y":165,"width":214,"height":60,"type":"text","text":"[[Planning Top Finance]]"},
+		{"id":"f5a3fdf04f3b6e12","x":-233,"y":166,"width":280,"height":50,"type":"text","text":"[[Planning Neoma]]"},
+		{"id":"245fffdc59469ded","type":"text","text":"# Neoma","x":-233,"y":46,"width":280,"height":60,"color":"#7300ff"},
+		{"type":"text","text":"## To do\n\n- [ ] Page d'accueil\n- [ ] Page CFA\n- [ ] Page Maths\n- [ ] Page Contact\n\n\n","id":"95ab86521cbe3770","x":448,"y":286,"width":281,"height":280},
+		{"type":"text","text":"## To do\n\n- [ ] Préparer Mock n°1\n\n\n","id":"05529fef14ac6de1","x":-233,"y":286,"width":280,"height":280}
+	],
+	"edges":[
+		{"id":"ca022843c0431503","fromNode":"49d135b08b775931","fromSide":"bottom","toNode":"eaeabab82d20b4f8","toSide":"top"},
+		{"id":"b812c0603c97f45e","fromNode":"49d135b08b775931","fromSide":"right","toNode":"a5e346d4deb522e6","toSide":"top"},
+		{"id":"b9ee5dccbe6e6637","fromNode":"bfaee943bfe495ad","fromSide":"bottom","toNode":"3cf0c12bc23f78cc","toSide":"top"},
+		{"id":"21912506a36fc46a","fromNode":"eaeabab82d20b4f8","fromSide":"bottom","toNode":"245fffdc59469ded","toSide":"top"},
+		{"id":"5c2677b8d778cddf","fromNode":"eaeabab82d20b4f8","fromSide":"bottom","toNode":"105d9a32fe98ad73","toSide":"top"},
+		{"id":"520fb4eb36972824","fromNode":"eaeabab82d20b4f8","fromSide":"bottom","toNode":"a0dbb3cb8e0e2600","toSide":"top"},
+		{"id":"3c4930dd85f97be2","fromNode":"a0dbb3cb8e0e2600","fromSide":"bottom","toNode":"e3981b444a55a498","toSide":"top"},
+		{"id":"923130b9e27f86d2","fromNode":"e3981b444a55a498","fromSide":"bottom","toNode":"95ab86521cbe3770","toSide":"top"},
+		{"id":"c46f2ebbbef79813","fromNode":"105d9a32fe98ad73","fromSide":"bottom","toNode":"751c3059d9499f2e","toSide":"top"},
+		{"id":"477133196320226e","fromNode":"245fffdc59469ded","fromSide":"bottom","toNode":"f5a3fdf04f3b6e12","toSide":"top"},
+		{"id":"6e3753ef14049c54","fromNode":"f5a3fdf04f3b6e12","fromSide":"bottom","toNode":"05529fef14ac6de1","toSide":"top"}
+	]
+}

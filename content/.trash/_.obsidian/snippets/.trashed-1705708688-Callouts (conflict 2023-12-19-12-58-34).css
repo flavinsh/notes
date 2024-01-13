@@ -1,0 +1,214 @@
+/* 
+
+CALLOUT TEMPLATE
+.callout[data-callout="travel"] {
+    --callout-color: 54,152,142; 
+    --callout-icon: plane-takeoff;
+} 
+
+.callout[data-callout="{{callout-name}}"] {
+	--callout-color: var(--callout-warning); 
+	--callout-icon: archive;
+}
+
+COLORS VARIABLES
+
+-var(--callout-warning) for orange
+-var(--callout-question) for yellow
+-var(--callout-bug) for red
+-var(--callout-tip) for green
+-var(--callout-success) for light green
+-var(--callout-example) for purple
+-var(--callout-quote) for grey-var(--callout-default) for blue
+
+*/
+
+
+/*======================================================*/
+
+
+/* Default */
+.callout {
+    --callout-color: 168,130,255; 
+    --callout-icon: message-square;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+/* .callout-content {margin-top: -0.5em;margin-bottom: -0.5em;} */
+
+/*_____________________________________________________*/
+
+/* Memo */
+.callout[data-callout="memo"] {--callout-color: 54,152,142; --callout-icon: plane-takeoff;}
+
+/* Remember */
+.callout[data-callout="remember"] {--callout-color: 255, 213, 0; --callout-icon: lucide-brain;}
+
+/* Key */
+.callout[data-callout="key"] {--callout-icon: key;}
+
+/* Takeaways */
+.callout[data-callout="takeaways"] {--callout-icon: key;}
+
+
+/* Comment */
+.callout[data-callout="comment"] {--callout-color: 167,142,247;--callout-icon: message-square;}
+.callout[data-callout="comment"] .callout-title-inner {color: var(--text-normal);font-weight: var(--normal-weight);}
+
+/* Link */
+.callout[data-callout="link"] {--callout-color: 50,120,255;--callout-icon: link;}
+.callout[data-callout="link"] .callout-title-inner {color: var(--text-normal);font-weight: var(--normal-weight);}
+
+
+/* Links */
+.callout[data-callout="links"] {--callout-icon: link;}
+
+
+
+/* Cite */
+.callout[data-callout="cite"] {--callout-color: 167,142,247;}
+.callout[data-callout="cite"] .callout-title-inner {color: var(--text-normal);font-weight: var(--normal-weight);}
+
+/* Cite */
+.callout[data-callout="citation"] {--callout-color: 167,142,247;}
+.callout[data-callout="citation"] .callout-title-inner {color: var(--text-normal);font-weight: var(--normal-weight);}
+
+
+/*_____________________________________________________*/
+
+
+/* Definiton */
+.callout[data-callout="definition"] {
+    background-color: transparent;
+    .callout-icon{display: none};
+    border-left-width: 7px ;
+    border-left-style: solid;
+    border-left-color: rgba(54, 124, 227,0.8);
+    border-radius: 0px;
+}
+.callout[data-callout="definition"] .callout-title-inner {
+    color: rgb(54, 124, 227); 
+    font-weight: var(--font-black);
+    font-size: 14pt;
+    line-height: 0.2em;
+    padding-top: 0.3em;
+    padding-bottom: 0.5em;
+    padding-left: 1em;
+    margin-left: -1em;
+}
+
+.callout[data-callout="definition"] .callout-content {
+    margin-top: -1em;
+    margin-bottom: -1em;
+}
+
+/*_____________________________________________________*/
+
+
+/* Formula */
+.callout[data-callout="formula"] {
+    background-color: transparent;
+    .callout-icon{display: none};
+    border-left-width: 2px ;
+    border-left-style: solid;
+    border-left-color: rgba(54, 124, 227,0.8);
+    border-radius: 0px;
+}
+.callout[data-callout="formula"] .callout-title-inner {
+    color: rgb(54, 124, 227); 
+    font-weight: var(--font-black);
+    /* font-size: 14pt; */
+    line-height: 0.2em;
+    padding-top: 0em;
+    padding-bottom: 0em;
+    padding-left: 1em;
+    margin-left: -1em;
+}
+
+.callout[data-callout="formula"] .callout-content {
+    margin-top: -1em;
+    margin-bottom: -1em;
+}
+
+/*_____________________________________________________*/
+
+
+/* Box */
+.callout[data-callout="box"] {--callout-color: 255,0,0; .callout-icon{display: none};}
+.callout[data-callout="box"] .callout-title-inner {color: var(--text-normal); font-weight: var(--normal-weight);}
+
+
+/*_____________________________________________________*/
+
+/* Outline */
+.callout[data-callout="outline"] {
+    --callout-color: 255,0,0; 
+    .callout-icon{display: none};
+    border-width: 1px;
+    border-color: rgba(167, 142, 247, 0.8);
+    background-color: transparent;
+}
+.callout[data-callout="outline"] .callout-title-inner {
+    color: var(--text-normal);
+    font-weight: var(--normal-weight);}
+
+
+/*_____________________________________________________*/
+
+/* Quote */
+
+.callout[data-callout="quote"] {
+    --callout-color: 167,142,247;
+    .callout-icon{display: none};
+    padding-bottom: 0.4em;
+}
+
+.callout[data-callout="quote"]:before {
+    font: 14px/20px italic Times, serif;
+    color: rgb(168,130,255);
+    content: "“";
+    font-size: 2.2em;
+    font-weight: 600;
+    line-height: 0em;
+    vertical-align: -0.30em;
+    margin-left: 0em;
+}
+
+.callout[data-callout="quote"] .callout-title-inner {
+    font: 14px/20px Proxima Nova;
+    font-size: 18px;
+    font-weight: var(--normal-weight);
+    line-height: 1.5em;
+    color: rgb(210,210,210);
+    margin-top: -1.5em;
+    padding-left: 1.5em;
+}
+
+.callout[data-callout="quote"] .callout-content {
+    font-size: 11px;
+    color: rgb(168,130,255);
+    float: right;
+    vertical-align: -10em;
+    margin-top: -2.8em;
+    margin-bottom: -2em;
+    margin-right: -0.5em;
+}
+
+
+/*_____________________________________________________*/
+
+/* Align icon with heading*/
+.callout-title:has(h1) {align-items: center;}
+.callout-title:has(h2) {align-items: center;}
+.callout-title:has(h3) {align-items: center;}
+.callout-title:has(h4) {align-items: center;}
+.callout-title:has(h5) {align-items: center;}
+.callout-title:has(h6) {align-items: center;}
+
+/*_____________________________________________________*/
+
+.markdown-preview-view h2 {
+  margin-block-start: 1.5em;
+}

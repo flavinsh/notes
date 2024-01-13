@@ -1,0 +1,15 @@
+{
+  "showCLICommands": false,
+  "addExtensionsToInternalLinks": "html",
+  "injectAppCSS": "none",
+  "injectThemeCSS": false,
+  "customCSSFile": "/Users/Flavien/Dropbox/Obsidian/.obsidian/snippets/Print.css",
+  "displayYAMLFrontmatter": false,
+  "linkStrippingBehaviour": "strip",
+  "highDPIDiagrams": true,
+  "pandoc": "/usr/local/bin/pandoc",
+  "pdflatex": "/Library/TeX/texbin/pdflatex",
+  "outputFolder": "/Users/Flavien/Desktop",
+  "extraArguments": "",
+  "exportFrom": "html"
+}

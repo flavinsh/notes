@@ -1,0 +1,26 @@
+{
+  "accentColor": "#7c3bed",
+  "showViewHeader": true,
+  "enabledCssSnippets": [
+    "Table Latex Theme",
+    "Dataview Table Themes",
+    "Dashboard",
+    "Dashboard-ReadLineLength",
+    "dashboard",
+    "Hide macOS buttons",
+    "Advanced Table Alignement Fix",
+    "Daily Notes — Hide Inline Title",
+    "Callout — Theme",
+    "Calendar Tiny",
+    "MCL Multi Column",
+    "MCL Wide Views",
+    "MCL Gallery Cards"
+  ],
+  "cssTheme": "Minimal",
+  "theme": "obsidian",
+  "translucency": true,
+  "nativeMenus": true,
+  "baseFontSize": 16,
+  "baseFontSizeAction": false,
+  "textFontFamily": "Calibri"
+}

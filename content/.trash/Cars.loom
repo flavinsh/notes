@@ -1,0 +1,592 @@
+{
+  "model": {
+    "columns": [
+      {
+        "id": "4d38420b-f850-40a5-a835-27b11861837e",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "231.9921875px",
+        "type": "file",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "count-all",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset"
+      },
+      {
+        "id": "4d422e8f-a911-40bb-815d-e59e64729bf5",
+        "sortDir": "desc",
+        "isVisible": true,
+        "width": "75.46875px",
+        "type": "number",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "avg",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset"
+      },
+      {
+        "id": "f5f47253-5094-482e-9e00-cb737a928471",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "78.1328125px",
+        "type": "number",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "avg",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset"
+      },
+      {
+        "id": "aaae041b-b829-4a27-9cff-51b7e462c210",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "88.78125px",
+        "type": "number",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "avg",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset"
+      },
+      {
+        "id": "7bdc909c-9d7d-4574-812d-2a495a291313",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "154.859375px",
+        "type": "number",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "avg",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset"
+      }
+    ],
+    "headerRows": [
+      {
+        "id": "86e2e43b-4101-420e-931e-60813414e74a"
+      }
+    ],
+    "bodyRows": [
+      {
+        "id": "26a71e0f-bf04-4520-8c1f-63949e1f97fb",
+        "index": 2,
+        "creationTime": 1689547919740,
+        "lastEditedTime": 1689548363539
+      },
+      {
+        "id": "052b4c00-1acf-4bb0-b135-3d408ce95bec",
+        "index": 0,
+        "creationTime": 1689547837880,
+        "lastEditedTime": 1692462579555
+      },
+      {
+        "id": "716a5426-e255-4204-bc9b-9a7bf9cbdc1e",
+        "index": 4,
+        "creationTime": 1689548270100,
+        "lastEditedTime": 1692462563184
+      },
+      {
+        "id": "5eb77379-c58c-4682-9263-227cfc30b30f",
+        "index": 3,
+        "creationTime": 1689547929356,
+        "lastEditedTime": 1689548375629
+      },
+      {
+        "id": "4c1d3fba-bd6f-4fa3-812f-f9baf32e16cf",
+        "index": 1,
+        "creationTime": 1689547934610,
+        "lastEditedTime": 1689548302839
+      },
+      {
+        "id": "f2bda47e-19fb-4b2e-b877-2794903db338",
+        "index": 7,
+        "creationTime": 1692462675988,
+        "lastEditedTime": 1692462695375
+      },
+      {
+        "id": "6a2d256f-560a-4928-beb8-2ea12dce6f7c",
+        "index": 5,
+        "creationTime": 1689549354330,
+        "lastEditedTime": 1689550027481
+      },
+      {
+        "id": "10e8409f-a010-428f-8ab2-8c52ad767520",
+        "index": 6,
+        "creationTime": 1689550089301,
+        "lastEditedTime": 1690805169625
+      }
+    ],
+    "footerRows": [
+      {
+        "id": "1104108b-8d6d-41bc-aead-c251df613369"
+      },
+      {
+        "id": "e04f666e-21f9-4474-a29f-6e35624d93ca"
+      }
+    ],
+    "headerCells": [
+      {
+        "id": "6cf6897a-cf9d-491b-afdc-1b3fcbb02dc9",
+        "columnId": "4d38420b-f850-40a5-a835-27b11861837e",
+        "rowId": "86e2e43b-4101-420e-931e-60813414e74a",
+        "markdown": "Véhicules"
+      },
+      {
+        "id": "471ab31a-a618-41dc-b84c-c77c4f19cbc9",
+        "columnId": "f5f47253-5094-482e-9e00-cb737a928471",
+        "rowId": "86e2e43b-4101-420e-931e-60813414e74a",
+        "markdown": "Moy"
+      },
+      {
+        "id": "b2c3ec79-1a4c-4a38-962d-440f2497778e",
+        "columnId": "7bdc909c-9d7d-4574-812d-2a495a291313",
+        "rowId": "86e2e43b-4101-420e-931e-60813414e74a",
+        "markdown": "Puissance (ch)"
+      },
+      {
+        "id": "85d88024-6f0a-4d66-876f-6954c3083f49",
+        "columnId": "aaae041b-b829-4a27-9cff-51b7e462c210",
+        "rowId": "86e2e43b-4101-420e-931e-60813414e74a",
+        "markdown": "Haut"
+      },
+      {
+        "id": "40b71c95-c5d6-4d5b-8494-dd8b3ff8563e",
+        "columnId": "4d422e8f-a911-40bb-815d-e59e64729bf5",
+        "rowId": "86e2e43b-4101-420e-931e-60813414e74a",
+        "markdown": "Bas"
+      }
+    ],
+    "bodyCells": [
+      {
+        "id": "5b358d3e-1bb0-49a1-90f8-7014a252f36d",
+        "isExternalLink": false,
+        "columnId": "4d38420b-f850-40a5-a835-27b11861837e",
+        "rowId": "052b4c00-1acf-4bb0-b135-3d408ce95bec",
+        "dateTime": null,
+        "markdown": "[[DB Cars/Mercedes C63 AMG (W204).md|Mercedes C63 AMG (W204)]]",
+        "tagIds": []
+      },
+      {
+        "id": "d3fba874-cd4d-4605-87d8-9fd65fd50633",
+        "isExternalLink": false,
+        "columnId": "f5f47253-5094-482e-9e00-cb737a928471",
+        "rowId": "052b4c00-1acf-4bb0-b135-3d408ce95bec",
+        "dateTime": null,
+        "markdown": "32000",
+        "tagIds": []
+      },
+      {
+        "id": "a723a946-27b0-45d9-a72d-5467c378dbff",
+        "isExternalLink": false,
+        "columnId": "4d38420b-f850-40a5-a835-27b11861837e",
+        "rowId": "26a71e0f-bf04-4520-8c1f-63949e1f97fb",
+        "dateTime": null,
+        "markdown": "[[DB Cars/Audi R8 V8.md|Audi R8 V8]]",
+        "tagIds": []
+      },
+      {
+        "id": "d9f26d58-87a1-47d7-8e8b-2cd922be0401",
+        "isExternalLink": false,
+        "columnId": "f5f47253-5094-482e-9e00-cb737a928471",
+        "rowId": "26a71e0f-bf04-4520-8c1f-63949e1f97fb",
+        "dateTime": null,
+        "markdown": "55000",
+        "tagIds": []
+      },
+      {
+        "id": "8d89ca55-9671-41a9-986e-dc3fe15ffb9a",
+        "isExternalLink": false,
+        "columnId": "4d38420b-f850-40a5-a835-27b11861837e",
+        "rowId": "5eb77379-c58c-4682-9263-227cfc30b30f",
+        "dateTime": null,
+        "markdown": "[[DB Cars/BMW 130i (E87).md|BMW 130i (E87)]]",
+        "tagIds": []
+      },
+      {
+        "id": "71624403-9d25-4dff-a7c9-5463cdd1bff2",
+        "isExternalLink": false,
+        "columnId": "f5f47253-5094-482e-9e00-cb737a928471",
+        "rowId": "5eb77379-c58c-4682-9263-227cfc30b30f",
+        "dateTime": null,
+        "markdown": "14000",
+        "tagIds": []
+      },
+      {
+        "id": "ef641534-4ecc-439f-8683-e8e03aa23168",
+        "isExternalLink": false,
+        "columnId": "4d38420b-f850-40a5-a835-27b11861837e",
+        "rowId": "4c1d3fba-bd6f-4fa3-812f-f9baf32e16cf",
+        "dateTime": null,
+        "markdown": "[[DB Cars/Peugeot 208 XY.md|Peugeot 208 XY]]",
+        "tagIds": []
+      },
+      {
+        "id": "60495ed4-55f7-45d6-b677-183e73a6b614",
+        "isExternalLink": false,
+        "columnId": "f5f47253-5094-482e-9e00-cb737a928471",
+        "rowId": "4c1d3fba-bd6f-4fa3-812f-f9baf32e16cf",
+        "dateTime": null,
+        "markdown": "10000",
+        "tagIds": []
+      },
+      {
+        "id": "9128e47a-464b-4b67-9120-196fd8cb6bef",
+        "isExternalLink": false,
+        "columnId": "7bdc909c-9d7d-4574-812d-2a495a291313",
+        "rowId": "052b4c00-1acf-4bb0-b135-3d408ce95bec",
+        "dateTime": null,
+        "markdown": "457",
+        "tagIds": []
+      },
+      {
+        "id": "c601c741-1921-48db-b24d-8de89bfa25a8",
+        "isExternalLink": false,
+        "columnId": "7bdc909c-9d7d-4574-812d-2a495a291313",
+        "rowId": "26a71e0f-bf04-4520-8c1f-63949e1f97fb",
+        "dateTime": null,
+        "markdown": "420",
+        "tagIds": []
+      },
+      {
+        "id": "ad582adb-2dc4-4bec-aa8f-baaf4590a91e",
+        "isExternalLink": false,
+        "columnId": "7bdc909c-9d7d-4574-812d-2a495a291313",
+        "rowId": "5eb77379-c58c-4682-9263-227cfc30b30f",
+        "dateTime": null,
+        "markdown": "265",
+        "tagIds": []
+      },
+      {
+        "id": "b227e587-7b18-4934-b7b7-c9f409529bbb",
+        "isExternalLink": false,
+        "columnId": "7bdc909c-9d7d-4574-812d-2a495a291313",
+        "rowId": "4c1d3fba-bd6f-4fa3-812f-f9baf32e16cf",
+        "dateTime": null,
+        "markdown": "155",
+        "tagIds": []
+      },
+      {
+        "id": "342d95c1-edcc-4075-b739-b4bc6a190143",
+        "isExternalLink": false,
+        "columnId": "aaae041b-b829-4a27-9cff-51b7e462c210",
+        "rowId": "052b4c00-1acf-4bb0-b135-3d408ce95bec",
+        "dateTime": null,
+        "markdown": "36000",
+        "tagIds": []
+      },
+      {
+        "id": "1ca00518-c19e-4418-b875-46c4c59ca7aa",
+        "isExternalLink": false,
+        "columnId": "aaae041b-b829-4a27-9cff-51b7e462c210",
+        "rowId": "26a71e0f-bf04-4520-8c1f-63949e1f97fb",
+        "dateTime": null,
+        "markdown": "60000",
+        "tagIds": []
+      },
+      {
+        "id": "a3479969-6834-46da-9768-ab1e447f493a",
+        "isExternalLink": false,
+        "columnId": "aaae041b-b829-4a27-9cff-51b7e462c210",
+        "rowId": "5eb77379-c58c-4682-9263-227cfc30b30f",
+        "dateTime": null,
+        "markdown": "18000",
+        "tagIds": []
+      },
+      {
+        "id": "3b3fc065-6587-4dc7-84e0-5d8e2ab811ab",
+        "isExternalLink": false,
+        "columnId": "aaae041b-b829-4a27-9cff-51b7e462c210",
+        "rowId": "4c1d3fba-bd6f-4fa3-812f-f9baf32e16cf",
+        "dateTime": null,
+        "markdown": "12000",
+        "tagIds": []
+      },
+      {
+        "id": "8cd15987-3155-4c2f-83aa-bead6dde6442",
+        "isExternalLink": false,
+        "columnId": "4d422e8f-a911-40bb-815d-e59e64729bf5",
+        "rowId": "26a71e0f-bf04-4520-8c1f-63949e1f97fb",
+        "dateTime": null,
+        "markdown": "50000",
+        "tagIds": []
+      },
+      {
+        "id": "f4220e41-b405-4f50-ba4a-c390da0febc0",
+        "isExternalLink": false,
+        "columnId": "4d422e8f-a911-40bb-815d-e59e64729bf5",
+        "rowId": "5eb77379-c58c-4682-9263-227cfc30b30f",
+        "dateTime": null,
+        "markdown": "10000",
+        "tagIds": []
+      },
+      {
+        "id": "9bf4d521-95ea-43c7-8300-e36459b5b627",
+        "isExternalLink": false,
+        "columnId": "4d422e8f-a911-40bb-815d-e59e64729bf5",
+        "rowId": "052b4c00-1acf-4bb0-b135-3d408ce95bec",
+        "dateTime": null,
+        "markdown": "28000",
+        "tagIds": []
+      },
+      {
+        "id": "9eb01639-3258-4a75-92e1-3226816a90ef",
+        "isExternalLink": false,
+        "columnId": "4d422e8f-a911-40bb-815d-e59e64729bf5",
+        "rowId": "4c1d3fba-bd6f-4fa3-812f-f9baf32e16cf",
+        "dateTime": null,
+        "markdown": "8000",
+        "tagIds": []
+      },
+      {
+        "id": "c4f53036-ab76-47d1-9573-bdbd11a6081f",
+        "isExternalLink": false,
+        "columnId": "4d38420b-f850-40a5-a835-27b11861837e",
+        "rowId": "716a5426-e255-4204-bc9b-9a7bf9cbdc1e",
+        "dateTime": null,
+        "markdown": "[[DB Cars/Porsche Cayman S.md|Porsche Cayman S]]",
+        "tagIds": []
+      },
+      {
+        "id": "b1121b10-02ac-4cf3-81ab-8faa4b9f0bd7",
+        "isExternalLink": false,
+        "columnId": "4d422e8f-a911-40bb-815d-e59e64729bf5",
+        "rowId": "716a5426-e255-4204-bc9b-9a7bf9cbdc1e",
+        "dateTime": null,
+        "markdown": "25000",
+        "tagIds": []
+      },
+      {
+        "id": "e3e1560c-7018-4de4-87ed-68f5f1d68159",
+        "isExternalLink": false,
+        "columnId": "f5f47253-5094-482e-9e00-cb737a928471",
+        "rowId": "716a5426-e255-4204-bc9b-9a7bf9cbdc1e",
+        "dateTime": null,
+        "markdown": "30000",
+        "tagIds": []
+      },
+      {
+        "id": "edec7855-4b4f-4fac-8fda-c5e5c59fcc0c",
+        "isExternalLink": false,
+        "columnId": "aaae041b-b829-4a27-9cff-51b7e462c210",
+        "rowId": "716a5426-e255-4204-bc9b-9a7bf9cbdc1e",
+        "dateTime": null,
+        "markdown": "35000",
+        "tagIds": []
+      },
+      {
+        "id": "20666c88-5f97-4db8-a2fc-6409b2e288cb",
+        "isExternalLink": false,
+        "columnId": "7bdc909c-9d7d-4574-812d-2a495a291313",
+        "rowId": "716a5426-e255-4204-bc9b-9a7bf9cbdc1e",
+        "dateTime": null,
+        "markdown": "295",
+        "tagIds": []
+      },
+      {
+        "id": "4b2767c6-8c31-480e-a3ba-3c68c6ee0999",
+        "isExternalLink": false,
+        "columnId": "4d38420b-f850-40a5-a835-27b11861837e",
+        "rowId": "6a2d256f-560a-4928-beb8-2ea12dce6f7c",
+        "dateTime": null,
+        "markdown": "[[BMW 335i]]",
+        "tagIds": []
+      },
+      {
+        "id": "99035c5b-a531-4bd1-8eba-cdc3bcc4ab6a",
+        "isExternalLink": false,
+        "columnId": "4d422e8f-a911-40bb-815d-e59e64729bf5",
+        "rowId": "6a2d256f-560a-4928-beb8-2ea12dce6f7c",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "16bcdc5f-a83e-424f-926c-937147763e69",
+        "isExternalLink": false,
+        "columnId": "f5f47253-5094-482e-9e00-cb737a928471",
+        "rowId": "6a2d256f-560a-4928-beb8-2ea12dce6f7c",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "6a2b8152-3616-41fb-b1fe-00f51c3ccc5f",
+        "isExternalLink": false,
+        "columnId": "aaae041b-b829-4a27-9cff-51b7e462c210",
+        "rowId": "6a2d256f-560a-4928-beb8-2ea12dce6f7c",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "e635e983-c606-41c5-bd92-c2e68c165ee7",
+        "isExternalLink": false,
+        "columnId": "7bdc909c-9d7d-4574-812d-2a495a291313",
+        "rowId": "6a2d256f-560a-4928-beb8-2ea12dce6f7c",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "8569d075-ce59-45a6-820d-6fb8676a0050",
+        "isExternalLink": false,
+        "columnId": "4d38420b-f850-40a5-a835-27b11861837e",
+        "rowId": "10e8409f-a010-428f-8ab2-8c52ad767520",
+        "dateTime": null,
+        "markdown": "[[BMW 135i]]",
+        "tagIds": []
+      },
+      {
+        "id": "38afc896-41ee-41f2-aeeb-82bc85c79e0c",
+        "isExternalLink": false,
+        "columnId": "4d422e8f-a911-40bb-815d-e59e64729bf5",
+        "rowId": "10e8409f-a010-428f-8ab2-8c52ad767520",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "ec5c1824-b0ef-41e8-8bcf-4986e022bcbd",
+        "isExternalLink": false,
+        "columnId": "f5f47253-5094-482e-9e00-cb737a928471",
+        "rowId": "10e8409f-a010-428f-8ab2-8c52ad767520",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "cb66b8cf-d685-4946-bfc6-6981008856e5",
+        "isExternalLink": false,
+        "columnId": "aaae041b-b829-4a27-9cff-51b7e462c210",
+        "rowId": "10e8409f-a010-428f-8ab2-8c52ad767520",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "e6b4f5bb-1e03-406b-b844-6cfe46dc420e",
+        "isExternalLink": false,
+        "columnId": "7bdc909c-9d7d-4574-812d-2a495a291313",
+        "rowId": "10e8409f-a010-428f-8ab2-8c52ad767520",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "7b71ae2e-ee1d-4163-bbc9-719a4fcfedb2",
+        "isExternalLink": false,
+        "columnId": "4d38420b-f850-40a5-a835-27b11861837e",
+        "rowId": "f2bda47e-19fb-4b2e-b877-2794903db338",
+        "dateTime": null,
+        "markdown": "[[Test]]",
+        "tagIds": []
+      },
+      {
+        "id": "be7b67e1-799f-4921-a206-8e36b82448c0",
+        "isExternalLink": false,
+        "columnId": "4d422e8f-a911-40bb-815d-e59e64729bf5",
+        "rowId": "f2bda47e-19fb-4b2e-b877-2794903db338",
+        "dateTime": null,
+        "markdown": "1",
+        "tagIds": []
+      },
+      {
+        "id": "6a04538a-14d4-47b2-bb2d-b181f009a907",
+        "isExternalLink": false,
+        "columnId": "f5f47253-5094-482e-9e00-cb737a928471",
+        "rowId": "f2bda47e-19fb-4b2e-b877-2794903db338",
+        "dateTime": null,
+        "markdown": "2",
+        "tagIds": []
+      },
+      {
+        "id": "2bfc1e4f-a385-43e8-b59d-a9c259af1a9e",
+        "isExternalLink": false,
+        "columnId": "aaae041b-b829-4a27-9cff-51b7e462c210",
+        "rowId": "f2bda47e-19fb-4b2e-b877-2794903db338",
+        "dateTime": null,
+        "markdown": "3",
+        "tagIds": []
+      },
+      {
+        "id": "3a5c1f11-5cc9-465b-a4be-cccdf85d346b",
+        "isExternalLink": false,
+        "columnId": "7bdc909c-9d7d-4574-812d-2a495a291313",
+        "rowId": "f2bda47e-19fb-4b2e-b877-2794903db338",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      }
+    ],
+    "footerCells": [
+      {
+        "id": "bc1d0f8b-f166-4da9-b416-99ae6320d8c7",
+        "columnId": "4d38420b-f850-40a5-a835-27b11861837e",
+        "rowId": "1104108b-8d6d-41bc-aead-c251df613369"
+      },
+      {
+        "id": "48fd337f-4e15-411a-b503-294cf6cd5e5c",
+        "columnId": "4d38420b-f850-40a5-a835-27b11861837e",
+        "rowId": "e04f666e-21f9-4474-a29f-6e35624d93ca"
+      },
+      {
+        "id": "2468ce23-6a6f-4092-8e9a-975980262ff7",
+        "columnId": "f5f47253-5094-482e-9e00-cb737a928471",
+        "rowId": "1104108b-8d6d-41bc-aead-c251df613369"
+      },
+      {
+        "id": "6a70f3ad-f9a8-4576-912e-53fef8788c0b",
+        "columnId": "f5f47253-5094-482e-9e00-cb737a928471",
+        "rowId": "e04f666e-21f9-4474-a29f-6e35624d93ca"
+      },
+      {
+        "id": "fb41f179-cb44-47e2-bb64-aab704f10e85",
+        "columnId": "7bdc909c-9d7d-4574-812d-2a495a291313",
+        "rowId": "1104108b-8d6d-41bc-aead-c251df613369"
+      },
+      {
+        "id": "943815a6-9252-460c-a7c3-1af75711b2f2",
+        "columnId": "7bdc909c-9d7d-4574-812d-2a495a291313",
+        "rowId": "e04f666e-21f9-4474-a29f-6e35624d93ca"
+      },
+      {
+        "id": "0c98e5e1-7068-43c8-9d9a-96fdc0cef36d",
+        "columnId": "aaae041b-b829-4a27-9cff-51b7e462c210",
+        "rowId": "1104108b-8d6d-41bc-aead-c251df613369"
+      },
+      {
+        "id": "a5526809-3c6e-47fe-8a13-55bc5a2e0e9f",
+        "columnId": "aaae041b-b829-4a27-9cff-51b7e462c210",
+        "rowId": "e04f666e-21f9-4474-a29f-6e35624d93ca"
+      },
+      {
+        "id": "d31bd9c2-c7e6-40f5-9a6c-03a44b770481",
+        "columnId": "4d422e8f-a911-40bb-815d-e59e64729bf5",
+        "rowId": "1104108b-8d6d-41bc-aead-c251df613369"
+      },
+      {
+        "id": "50e2f6f4-1fbd-4587-b303-093aac03a8c6",
+        "columnId": "4d422e8f-a911-40bb-815d-e59e64729bf5",
+        "rowId": "e04f666e-21f9-4474-a29f-6e35624d93ca"
+      }
+    ],
+    "filterRules": []
+  },
+  "pluginVersion": "8.1.0"
+}

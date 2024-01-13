@@ -1,0 +1,6 @@
+---
+tags:
+  - Maths
+  - Terminale
+  - MOC
+---

@@ -1,0 +1,6 @@
+.cm-s-obsidian .HyperMD-table-row {
+    white-space: pre !important;
+    word-break: normal !important;
+    overflow-wrap: normal !important;
+    font-family: var(--font-monospace) !important;
+}

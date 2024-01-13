@@ -1,0 +1,16 @@
+{
+  "insertMode": "remote",
+  "orientation": "landscape",
+  "insertSize": "300",
+  "imageSize": "medium",
+  "frontmatter": {
+    "key": "image",
+    "valueFormat": "{image-url}",
+    "appendReferral": false
+  },
+  "imageProvider": "unsplash",
+  "proxyServer": "",
+  "pixabayApiKey": "38297620-68654db637bb3ea3585696083",
+  "insertBackLink": false,
+  "pexelsApiKey": "lrpaePTixDOTJmoGNfnOodL76uR4HYGk0KlKFpF6Wa8dudFVG314ceTb"
+}

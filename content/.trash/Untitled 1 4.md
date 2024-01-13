@@ -1,0 +1,6 @@
+---
+tags:
+---
+> [!formula]
+> ezaazr
+

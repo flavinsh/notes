@@ -1,0 +1,495 @@
+{
+  "folders": [
+    {
+      "name": "",
+      "relativePath": "/"
+    },
+    {
+      "name": "All notes",
+      "relativePath": "All notes"
+    },
+    {
+      "name": "Archives",
+      "relativePath": "Archives"
+    },
+    {
+      "name": "Attachments",
+      "relativePath": "Attachments"
+    },
+    {
+      "name": "Cars",
+      "relativePath": "Cars"
+    },
+    {
+      "name": "Daily Notes",
+      "relativePath": "Daily Notes"
+    },
+    {
+      "name": "Templates",
+      "relativePath": "Templates"
+    },
+    {
+      "name": "_Attachments",
+      "relativePath": "Archives/_Attachments"
+    },
+    {
+      "name": "_Excalidraw",
+      "relativePath": "Archives/_Excalidraw"
+    },
+    {
+      "name": "Excalidraw scripts",
+      "relativePath": "Templates/Excalidraw scripts"
+    },
+    {
+      "name": "FileClasses",
+      "relativePath": "Templates/FileClasses"
+    }
+  ],
+  "nonMdFiles": [
+    {
+      "name": "far.zip",
+      "basename": "far",
+      "relativePath": "far.zip"
+    },
+    {
+      "name": "Arbitrage value additivity.png",
+      "basename": "Arbitrage value additivity",
+      "relativePath": "Attachments/Arbitrage value additivity.png"
+    },
+    {
+      "name": "Backward induction callable bond.png",
+      "basename": "Backward induction callable bond",
+      "relativePath": "Attachments/Backward induction callable bond.png"
+    },
+    {
+      "name": "Backward induction putable bond.png",
+      "basename": "Backward induction putable bond",
+      "relativePath": "Attachments/Backward induction putable bond.png"
+    },
+    {
+      "name": "Backward induction.png",
+      "basename": "Backward induction",
+      "relativePath": "Attachments/Backward induction.png"
+    },
+    {
+      "name": "Benchmark Superprof.loom",
+      "basename": "Benchmark Superprof",
+      "relativePath": "Attachments/Benchmark Superprof.loom"
+    },
+    {
+      "name": "Binomial tree and bond value.png",
+      "basename": "Binomial tree and bond value",
+      "relativePath": "Attachments/Binomial tree and bond value.png"
+    },
+    {
+      "name": "Bond valuation using spot rates.png",
+      "basename": "Bond valuation using spot rates",
+      "relativePath": "Attachments/Bond valuation using spot rates.png"
+    },
+    {
+      "name": "CFA®️ Level 1.canvas",
+      "basename": "CFA®️ Level 1",
+      "relativePath": "Attachments/CFA®️ Level 1.canvas"
+    },
+    {
+      "name": "CIRP (Investopedia).png",
+      "basename": "CIRP (Investopedia)",
+      "relativePath": "Attachments/CIRP (Investopedia).png"
+    },
+    {
+      "name": "CIRP (Kaplan).png",
+      "basename": "CIRP (Kaplan)",
+      "relativePath": "Attachments/CIRP (Kaplan).png"
+    },
+    {
+      "name": "Carry trade return (Kaplan).png",
+      "basename": "Carry trade return (Kaplan)",
+      "relativePath": "Attachments/Carry trade return (Kaplan).png"
+    },
+    {
+      "name": "Changing expectations and credit spread.png",
+      "basename": "Changing expectations and credit spread",
+      "relativePath": "Attachments/Changing expectations and credit spread.png"
+    },
+    {
+      "name": "Coefficient and standard error estimates for regression of EG10 on PR and YCS.png",
+      "basename": "Coefficient and standard error estimates for regression of EG10 on PR and YCS",
+      "relativePath": "Attachments/Coefficient and standard error estimates for regression of EG10 on PR and YCS.png"
+    },
+    {
+      "name": "Colors  Marc Fiorentino.png",
+      "basename": "Colors  Marc Fiorentino",
+      "relativePath": "Attachments/Colors  Marc Fiorentino.png"
+    },
+    {
+      "name": "Colors  Obsidian.png",
+      "basename": "Colors  Obsidian",
+      "relativePath": "Attachments/Colors  Obsidian.png"
+    },
+    {
+      "name": "Colors - Obsidian Fire.png",
+      "basename": "Colors - Obsidian Fire",
+      "relativePath": "Attachments/Colors - Obsidian Fire.png"
+    },
+    {
+      "name": "Colors - Obsidin Fire (Hex, RGB).png",
+      "basename": "Colors - Obsidin Fire (Hex, RGB)",
+      "relativePath": "Attachments/Colors - Obsidin Fire (Hex, RGB).png"
+    },
+    {
+      "name": "Colors Obsidian Help.png",
+      "basename": "Colors Obsidian Help",
+      "relativePath": "Attachments/Colors Obsidian Help.png"
+    },
+    {
+      "name": "Colors Obsidian Hover.png",
+      "basename": "Colors Obsidian Hover",
+      "relativePath": "Attachments/Colors Obsidian Hover.png"
+    },
+    {
+      "name": "Colors Obsidian Links.png",
+      "basename": "Colors Obsidian Links",
+      "relativePath": "Attachments/Colors Obsidian Links.png"
+    },
+    {
+      "name": "Colors Obsidian Paragraph.png",
+      "basename": "Colors Obsidian Paragraph",
+      "relativePath": "Attachments/Colors Obsidian Paragraph.png"
+    },
+    {
+      "name": "Colors Obsidian UI.png",
+      "basename": "Colors Obsidian UI",
+      "relativePath": "Attachments/Colors Obsidian UI.png"
+    },
+    {
+      "name": "Convertible bond.png",
+      "basename": "Convertible bond",
+      "relativePath": "Attachments/Convertible bond.png"
+    },
+    {
+      "name": "Credit Default Swaps.png",
+      "basename": "Credit Default Swaps",
+      "relativePath": "Attachments/Credit Default Swaps.png"
+    },
+    {
+      "name": "Credit mitigation change in bond price.png",
+      "basename": "Credit mitigation change in bond price",
+      "relativePath": "Attachments/Credit mitigation change in bond price.png"
+    },
+    {
+      "name": "Credit spread and CVA.png",
+      "basename": "Credit spread and CVA",
+      "relativePath": "Attachments/Credit spread and CVA.png"
+    },
+    {
+      "name": "Currency forward (Kaplan).png",
+      "basename": "Currency forward (Kaplan)",
+      "relativePath": "Attachments/Currency forward (Kaplan).png"
+    },
+    {
+      "name": "Currency forward (Kaplan)_detailed.png",
+      "basename": "Currency forward (Kaplan)_detailed",
+      "relativePath": "Attachments/Currency forward (Kaplan)_detailed.png"
+    },
+    {
+      "name": "Expected return credit risky bond.png",
+      "basename": "Expected return credit risky bond",
+      "relativePath": "Attachments/Expected return credit risky bond.png"
+    },
+    {
+      "name": "FX arbitrage (Kaplan).png",
+      "basename": "FX arbitrage (Kaplan)",
+      "relativePath": "Attachments/FX arbitrage (Kaplan).png"
+    },
+    {
+      "name": "HPR bond.png",
+      "basename": "HPR bond",
+      "relativePath": "Attachments/HPR bond.png"
+    },
+    {
+      "name": "Index CDS.png",
+      "basename": "Index CDS",
+      "relativePath": "Attachments/Index CDS.png"
+    },
+    {
+      "name": "International Parity Relations (Kaplan).png",
+      "basename": "International Parity Relations (Kaplan)",
+      "relativePath": "Attachments/International Parity Relations (Kaplan).png"
+    },
+    {
+      "name": "Maquette site.canvas",
+      "basename": "Maquette site",
+      "relativePath": "Attachments/Maquette site.canvas"
+    },
+    {
+      "name": "Mindmap Clients.canvas",
+      "basename": "Mindmap Clients",
+      "relativePath": "Attachments/Mindmap Clients.canvas"
+    },
+    {
+      "name": "Multiple regression - Office rent example.png",
+      "basename": "Multiple regression - Office rent example",
+      "relativePath": "Attachments/Multiple regression - Office rent example.png"
+    },
+    {
+      "name": "Multiple regression - Office rent model - Exhibit 1.png",
+      "basename": "Multiple regression - Office rent model - Exhibit 1",
+      "relativePath": "Attachments/Multiple regression - Office rent model - Exhibit 1.png"
+    },
+    {
+      "name": "Multiple regression - Office rent model - Exhibit 2.png",
+      "basename": "Multiple regression - Office rent model - Exhibit 2",
+      "relativePath": "Attachments/Multiple regression - Office rent model - Exhibit 2.png"
+    },
+    {
+      "name": "Multiple regression - Office rent model - Exhibit 3.png",
+      "basename": "Multiple regression - Office rent model - Exhibit 3",
+      "relativePath": "Attachments/Multiple regression - Office rent model - Exhibit 3.png"
+    },
+    {
+      "name": "Multiple regression - Office rent model regression output.png",
+      "basename": "Multiple regression - Office rent model regression output",
+      "relativePath": "Attachments/Multiple regression - Office rent model regression output.png"
+    },
+    {
+      "name": "Multiple regression model.png",
+      "basename": "Multiple regression model",
+      "relativePath": "Attachments/Multiple regression model.png"
+    },
+    {
+      "name": "OAS callable bond.png",
+      "basename": "OAS callable bond",
+      "relativePath": "Attachments/OAS callable bond.png"
+    },
+    {
+      "name": "Pathwise valuation.png",
+      "basename": "Pathwise valuation",
+      "relativePath": "Attachments/Pathwise valuation.png"
+    },
+    {
+      "name": "Probability of default structural models.png",
+      "basename": "Probability of default structural models",
+      "relativePath": "Attachments/Probability of default structural models.png"
+    },
+    {
+      "name": "RPPP ex-ante (Investopedia).png",
+      "basename": "RPPP ex-ante (Investopedia)",
+      "relativePath": "Attachments/RPPP ex-ante (Investopedia).png"
+    },
+    {
+      "name": "RPPP ex-ante (Kaplan).png",
+      "basename": "RPPP ex-ante (Kaplan)",
+      "relativePath": "Attachments/RPPP ex-ante (Kaplan).png"
+    },
+    {
+      "name": "Relative risk analysis credit risky bond.png",
+      "basename": "Relative risk analysis credit risky bond",
+      "relativePath": "Attachments/Relative risk analysis credit risky bond.png"
+    },
+    {
+      "name": "Rolling down the yield curve.png",
+      "basename": "Rolling down the yield curve",
+      "relativePath": "Attachments/Rolling down the yield curve.png"
+    },
+    {
+      "name": "UIRP (Investopedia).png",
+      "basename": "UIRP (Investopedia)",
+      "relativePath": "Attachments/UIRP (Investopedia).png"
+    },
+    {
+      "name": "Untitled.canvas",
+      "basename": "Untitled",
+      "relativePath": "Attachments/Untitled.canvas"
+    },
+    {
+      "name": "Voyage — Italie 2023.canvas",
+      "basename": "Voyage — Italie 2023",
+      "relativePath": "Attachments/Voyage — Italie 2023.canvas"
+    },
+    {
+      "name": "YTM with spot rates.png",
+      "basename": "YTM with spot rates",
+      "relativePath": "Attachments/YTM with spot rates.png"
+    },
+    {
+      "name": "Yield curve - Parallel shift.png",
+      "basename": "Yield curve - Parallel shift",
+      "relativePath": "Attachments/Yield curve - Parallel shift.png"
+    },
+    {
+      "name": "Z-Spread.png",
+      "basename": "Z-Spread",
+      "relativePath": "Attachments/Z-Spread.png"
+    },
+    {
+      "name": "Comptes — Juillet 2023.loom",
+      "basename": "Comptes — Juillet 2023",
+      "relativePath": "All notes/Comptes — Juillet 2023.loom"
+    },
+    {
+      "name": "Pasted Image 20220925041223_477.png",
+      "basename": "Pasted Image 20220925041223_477",
+      "relativePath": "Archives/_Attachments/Pasted Image 20220925041223_477.png"
+    },
+    {
+      "name": "Pasted image 20220914093346.png",
+      "basename": "Pasted image 20220914093346",
+      "relativePath": "Archives/_Attachments/Pasted image 20220914093346.png"
+    },
+    {
+      "name": "Pasted image 20220915114054.png",
+      "basename": "Pasted image 20220915114054",
+      "relativePath": "Archives/_Attachments/Pasted image 20220915114054.png"
+    },
+    {
+      "name": "Pasted image 20220915114109.png",
+      "basename": "Pasted image 20220915114109",
+      "relativePath": "Archives/_Attachments/Pasted image 20220915114109.png"
+    },
+    {
+      "name": "Pasted image 20220915114227.png",
+      "basename": "Pasted image 20220915114227",
+      "relativePath": "Archives/_Attachments/Pasted image 20220915114227.png"
+    },
+    {
+      "name": "Pasted image 20220915114256.png",
+      "basename": "Pasted image 20220915114256",
+      "relativePath": "Archives/_Attachments/Pasted image 20220915114256.png"
+    },
+    {
+      "name": "Pasted image 20220915114315.png",
+      "basename": "Pasted image 20220915114315",
+      "relativePath": "Archives/_Attachments/Pasted image 20220915114315.png"
+    },
+    {
+      "name": "Pasted image 20220915114419.png",
+      "basename": "Pasted image 20220915114419",
+      "relativePath": "Archives/_Attachments/Pasted image 20220915114419.png"
+    },
+    {
+      "name": "Pasted image 20220915114500.png",
+      "basename": "Pasted image 20220915114500",
+      "relativePath": "Archives/_Attachments/Pasted image 20220915114500.png"
+    },
+    {
+      "name": "Pasted image 20220915114623.png",
+      "basename": "Pasted image 20220915114623",
+      "relativePath": "Archives/_Attachments/Pasted image 20220915114623.png"
+    },
+    {
+      "name": "Pasted image 20220915114715.png",
+      "basename": "Pasted image 20220915114715",
+      "relativePath": "Archives/_Attachments/Pasted image 20220915114715.png"
+    },
+    {
+      "name": "Pasted image 20220915114759.png",
+      "basename": "Pasted image 20220915114759",
+      "relativePath": "Archives/_Attachments/Pasted image 20220915114759.png"
+    },
+    {
+      "name": "Pasted image 20220915114810.png",
+      "basename": "Pasted image 20220915114810",
+      "relativePath": "Archives/_Attachments/Pasted image 20220915114810.png"
+    },
+    {
+      "name": "Pasted image 20220915114933.png",
+      "basename": "Pasted image 20220915114933",
+      "relativePath": "Archives/_Attachments/Pasted image 20220915114933.png"
+    },
+    {
+      "name": "Pasted image 20220915115127.png",
+      "basename": "Pasted image 20220915115127",
+      "relativePath": "Archives/_Attachments/Pasted image 20220915115127.png"
+    },
+    {
+      "name": "Pasted image 20220915115142.png",
+      "basename": "Pasted image 20220915115142",
+      "relativePath": "Archives/_Attachments/Pasted image 20220915115142.png"
+    },
+    {
+      "name": "Pasted image 20220922124724.png",
+      "basename": "Pasted image 20220922124724",
+      "relativePath": "Archives/_Attachments/Pasted image 20220922124724.png"
+    },
+    {
+      "name": "Pasted image 20220924221219.png",
+      "basename": "Pasted image 20220924221219",
+      "relativePath": "Archives/_Attachments/Pasted image 20220924221219.png"
+    },
+    {
+      "name": "Pasted image 20220924225243.png",
+      "basename": "Pasted image 20220924225243",
+      "relativePath": "Archives/_Attachments/Pasted image 20220924225243.png"
+    },
+    {
+      "name": "Pasted image 20220925014612.png",
+      "basename": "Pasted image 20220925014612",
+      "relativePath": "Archives/_Attachments/Pasted image 20220925014612.png"
+    },
+    {
+      "name": "Pasted image 20220925034443.png",
+      "basename": "Pasted image 20220925034443",
+      "relativePath": "Archives/_Attachments/Pasted image 20220925034443.png"
+    },
+    {
+      "name": "Pasted image 20220925035625.png",
+      "basename": "Pasted image 20220925035625",
+      "relativePath": "Archives/_Attachments/Pasted image 20220925035625.png"
+    },
+    {
+      "name": "Pasted image 20220925040727.png",
+      "basename": "Pasted image 20220925040727",
+      "relativePath": "Archives/_Attachments/Pasted image 20220925040727.png"
+    },
+    {
+      "name": "Pasted image 20220925041105.png",
+      "basename": "Pasted image 20220925041105",
+      "relativePath": "Archives/_Attachments/Pasted image 20220925041105.png"
+    },
+    {
+      "name": "Pasted image 20220925043249.png",
+      "basename": "Pasted image 20220925043249",
+      "relativePath": "Archives/_Attachments/Pasted image 20220925043249.png"
+    },
+    {
+      "name": "Pasted image 20220925043446.png",
+      "basename": "Pasted image 20220925043446",
+      "relativePath": "Archives/_Attachments/Pasted image 20220925043446.png"
+    },
+    {
+      "name": "Pasted image 20220925043834.png",
+      "basename": "Pasted image 20220925043834",
+      "relativePath": "Archives/_Attachments/Pasted image 20220925043834.png"
+    },
+    {
+      "name": "Pasted image 20220925044219.png",
+      "basename": "Pasted image 20220925044219",
+      "relativePath": "Archives/_Attachments/Pasted image 20220925044219.png"
+    },
+    {
+      "name": "Pasted image 20230208111104.png",
+      "basename": "Pasted image 20230208111104",
+      "relativePath": "Archives/_Attachments/Pasted image 20230208111104.png"
+    },
+    {
+      "name": "Screenshot_20230205-001451_Firefox Nightly.png",
+      "basename": "Screenshot_20230205-001451_Firefox Nightly",
+      "relativePath": "Archives/_Attachments/Screenshot_20230205-001451_Firefox Nightly.png"
+    },
+    {
+      "name": "Screenshot_20230205-002700_Firefox Nightly.png",
+      "basename": "Screenshot_20230205-002700_Firefox Nightly",
+      "relativePath": "Archives/_Attachments/Screenshot_20230205-002700_Firefox Nightly.png"
+    },
+    {
+      "name": "Add Connector Point.svg",
+      "basename": "Add Connector Point",
+      "relativePath": "Templates/Excalidraw scripts/Add Connector Point.svg"
+    },
+    {
+      "name": "Add Next Step in Process.svg",
+      "basename": "Add Next Step in Process",
+      "relativePath": "Templates/Excalidraw scripts/Add Next Step in Process.svg"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+---
+tags: 
+aliases:
+---
+dzdzfezf
+[[Collège]]

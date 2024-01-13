@@ -1,0 +1,8 @@
+{
+  "snapToObjects": true,
+  "snapToGrid": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Attachments",
+  "zoomBreakpoint": 0.56,
+  "defaultWheelBehavior": "pan"
+}
