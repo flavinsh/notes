@@ -11,7 +11,7 @@ const config: QuartzConfig = {
     },
     baseUrl: "flavinsh.github.io/notes",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "hidden",
+    defaultDateType: "created",
     theme: {
       typography: {
         header: "Schibsted Grotesk",
