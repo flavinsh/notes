@@ -1,3 +1,0 @@
-- Contact: [Google Contact](https://contacts.google.com/person/c5971761614968476218)
-- Site: [Ulteam Coaching](https://ulteam.eu)
-- Rencontré le : [[Ulteam]]

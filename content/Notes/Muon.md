@@ -1,5 +1,0 @@
----
-tags:
-  - Physics
-  - WIP
----

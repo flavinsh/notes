@@ -1,6 +1,0 @@
-{
-  "defaultEnvironment": "multline",
-  "customEnvironments": [
-    "flalign*"
-  ]
-}

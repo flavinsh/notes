@@ -1,17 +1,18 @@
 ---
-title: Flavien Bourras, CFA
+title: Home
 draft: false
-tags: 
-  - Maths
+tags: []
 ---
-
-
-
 # Maths
 
-- [Sésamath Terminale 2020](https://manuel.sesamath.net/numerique/index.php?ouvrage=mstsspe_2020&page_gauche=2)
-- [Sésamath Première 2019](https://manuel.sesamath.net/numerique/index.php?ouvrage=ms1spe_2019&page_gauche=2)
-
+- [[Maths]]
+- [[Maths Terminale]]
+- [[Maths Première]]
+- [[Maths Seconde]]
+- [[Maths Troisième]]
+- [[Maths Quatrième]]
+- [[Maths Cinquième]]
+- [[Maths Sixième]]
 
 
 # CFA

@@ -1,7 +1,0 @@
-{
-	"nodes":[
-		{"id":"8f50e8f8df38cb70","x":-420,"y":-340,"width":250,"height":60,"type":"text","text":"Physique"},
-		{"id":"a5c581fb482d4cc2","x":-420,"y":-240,"width":250,"height":60,"type":"text","text":"CFA"}
-	],
-	"edges":[]
-}

@@ -1,5 +1,0 @@
----
-tags:
-  - Education
-aliases:
----

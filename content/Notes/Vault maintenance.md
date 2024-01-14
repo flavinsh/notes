@@ -1,4 +1,0 @@
-- [[Broken links output]]
-- [[Empty files]]
-- [[Files without tags]]
-- [[Orphaned files output]]

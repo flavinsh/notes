@@ -1,8 +1,0 @@
-{
-	"nodes":[
-		{"id":"387389e3676d42ab","type":"text","text":"# Levels\n🟡 [[CFA Level 1]]\n🟠 [[CFA Level 2]]\n🔴 [[CFA Level 3]]\n---\n🟢 [[ESG]]","x":-353,"y":-307,"width":203,"height":318},
-		{"id":"f1d306664ccbd8f1","type":"text","text":"# Prep Providers\n[AnalystPrep](https://analystprep.com/)\n[BloombergPrep](https://www.bloombergprep.com/cfa/?utm_source=300hours&utm_medium=affiliate&utm_campaign=cfa_partner&utm_content=review_page)\n[Mark Meldrum](https://www.markmeldrum.com/)\n[FinTree](https://www.fintreeindia.com/)\n[PrepNuggets](https://prepnuggets.com/)\n[Salt Solutions](https://www.saltsolutions.com/)\n\n#","x":168,"y":-307,"width":234,"height":318},
-		{"id":"4e43cae7d38d9ce5","type":"text","text":"# Links\n- [KaplanLearn](https://www.kaplanlearn.com/)\n- [300 Hours](https://300hours.com/)\n- [CFA Institute](https://www.cfainstitute.org/)\n- [Dates and fees](https://www.cfainstitute.org/en/programs/cfa/exam)\n- [Schedule (PDF)](https://www.cfainstitute.org/-/media/documents/support/programs/cfa/2024CFA-Program-Exam-Schedule.pdf)\n- [Exam updates](https://www.cfainstitute.org/en/programs/cfa/exam/exam-updates)\n- [Topic weights](https://www.cfainstitute.org/en/programs/cfa/curriculum/study-sessions)\n- [Prep Providers](https://www.cfainstitute.org/en/programs/cfa/prep-providers#sort=%40itemheadertitle%20ascending&numberOfResults=100)","x":-110,"y":-307,"width":250,"height":318}
-	],
-	"edges":[]
-}

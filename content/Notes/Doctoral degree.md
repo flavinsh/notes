@@ -1,6 +1,0 @@
----
-tags:
-  - Education
-aliases:
-  - PhD
----

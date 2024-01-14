@@ -1,2 +1,0 @@
-Level:: {"type":"Select","options":{"valuesList":{"1":"CFA Level 1","2":"CFA Level 2","3":"CFA Level 3"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}}
-Topic:: {"type":"Select","options":{"valuesList":{"1":"Quantitative Methods","2":"Economics","3":"Financial Statement Analysis","4":"Corporate Issuers","5":"Equity Investments","6":"Fixed Income","7":"Derivatives","8":"Alternative Investments","9":"Portfolio Management","10":"Ethical and Professional Standards"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}}

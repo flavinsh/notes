@@ -1,5 +1,0 @@
----
-aliases: []
-home: "[[Homepage]]"
-prev: 
----
